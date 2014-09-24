@@ -1,0 +1,367 @@
+@prefix cnt: <http://www.w3.org/2011/content#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix dctypes: <http://purl.org/dc/dcmitype/> .
+@prefix dm: <http://dm.drew.edu/ns/> .
+@prefix exif: <http://www.w3.org/2003/12/exif/ns#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix ore: <http://www.openarchives.org/ore/terms/> .
+@prefix perm: <http://vocab.ox.ac.uk/perm#> .
+@prefix sc: <http://www.shared-canvas.org/ns/> .
+
+<http://dm.drew.edu/store/users/uva-6@googlegroups.com> a foaf:Agent;
+    dm:lastOpenProject <urn:uuid:a45c0ba5-7218-495b-a828-56b7ef71ade0>;
+    perm:hasPermissionOver <urn:uuid:a45c0ba5-7218-495b-a828-56b7ef71ade0>;
+    perm:mayAdminister <urn:uuid:a45c0ba5-7218-495b-a828-56b7ef71ade0>;
+    perm:mayAugment <urn:uuid:a45c0ba5-7218-495b-a828-56b7ef71ade0>;
+    perm:mayCreateChildrenOf <urn:uuid:a45c0ba5-7218-495b-a828-56b7ef71ade0>;
+    perm:mayDelete <urn:uuid:a45c0ba5-7218-495b-a828-56b7ef71ade0>;
+    perm:mayRead <urn:uuid:a45c0ba5-7218-495b-a828-56b7ef71ade0>;
+    perm:mayUpdate <urn:uuid:a45c0ba5-7218-495b-a828-56b7ef71ade0>;
+    foaf:mbox <mailto:uva-6@googlegroups.com> .
+
+<urn:uuid:01c0e642-dc41-4aab-83c1-f0bda1f45ebc> a dctypes:Text;
+    dc:title "The poet on BNF f. fr. 22545 fol. 134 r.";
+    cnt:chars "<p>In this miniature the poet prostrates himself before his patron and prince.  He is not showing the bravado we see in other manuscripts of this text.<br/></p>" .
+
+<urn:uuid:0a518f49-305d-4a02-970f-9cc3f153eabb> a oa:Annotation;
+    oa:hasBody <urn:uuid:3e9041a4-a048-42b8-990d-4c35aaa6c1e4>;
+    oa:hasTarget <urn:uuid:f7328ee0-f0c2-4eda-8512-7737abd97eb3>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:155942f4-557f-47de-97fa-c1f17fb18a81> a oa:Annotation;
+    oa:hasBody <urn:uuid:9c4b04e6-4983-42a7-add6-b6c2132cf0a5>;
+    oa:hasTarget <urn:uuid:58a5966c-322e-4343-8138-5ada241553d2>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:17e053e5-9c6d-4e20-9455-d9d7c8f98671> a oa:Annotation;
+    oa:hasBody <urn:uuid:72cf02bc-9257-4284-8a70-e8ccf0146eba>;
+    oa:hasTarget <urn:uuid:20d5e8d9-dda2-4e87-a3ca-86422c2f4e3b>,
+        <urn:uuid:f5dd0d0b-c949-4c15-b30f-a67eba6fd1c7>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:1de67574-06fb-4061-b306-69853ba0c106> a oa:Annotation;
+    oa:hasBody <urn:uuid:f0d397f8-4f2e-4e98-b9b5-42ccaeabf69c>;
+    oa:hasTarget <urn:uuid:73c363fa-582f-409e-8e88-ce9164d761cd>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:2c7419fb-2345-4f87-9b3a-9481e130493c> a dctypes:Text;
+    dc:title "New Annotation on BNF f. fr. 22545 fol. 134 r.";
+    cnt:chars "<br/><br/>" .
+
+<urn:uuid:2ef3ccc8-fcbf-441f-8e70-66e64df01526> a oa:Annotation;
+    oa:hasBody <urn:uuid:0fc00505-5af1-43ff-845e-47ad43358502>;
+    oa:hasTarget <urn:uuid:2bffcdf9-62bb-4aa5-a499-8c1569e8ecff> .
+
+<urn:uuid:3970fa77-9fa7-4da1-aa74-876a8f8d35f2> a oa:Annotation;
+    oa:hasBody <urn:uuid:5d62cfdd-7608-4d32-aeff-1fbc928b7d2e>;
+    oa:hasTarget <urn:uuid:2c1c5152-d199-4d74-872c-753adedbd14d>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:4091a375-9e83-4ac1-b4dc-e33fce1effe0> a dctypes:Text;
+    dc:title "New Annotation on BNF f. fr. 9221 fol. 90 v.";
+    cnt:chars "<br/>" .
+
+<urn:uuid:434f312d-4c11-4feb-933d-7ce7fb0c7e1d> a oa:Annotation;
+    oa:hasBody <urn:uuid:5f0486f0-f7a9-4c44-83d1-8607a3d6c4c0>;
+    oa:hasTarget <urn:uuid:15be75d1-0efe-48db-a3fa-37334c462531>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:4c7ca3c2-97ed-4cff-884c-10c0fbb38318> a dctypes:Text;
+    dc:title "New Annotation on BNF f. fr. 22545 fol. 134 r.";
+    cnt:chars "<br/>" .
+
+<urn:uuid:4f3467de-c616-49d8-8697-5e0d36fb518b> a oa:Annotation;
+    oa:hasBody <urn:uuid:a6c1ab9f-f8ee-483a-8698-bb3d8d1597da>;
+    oa:hasTarget <urn:uuid:05f99d8e-04f7-49f4-8fe2-da70cc9da589>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:723c6dcd-cbba-439d-a9f6-520fe5e22806> a oa:Annotation;
+    oa:hasBody <http://ada.drew.edu/annotation_store/media/user_images/113393.jpg>;
+    oa:hasTarget <urn:uuid:05f99d8e-04f7-49f4-8fe2-da70cc9da589> .
+
+<urn:uuid:79502b28-c343-43be-bea5-7ebccb0dc280> a oa:Annotation;
+    oa:hasBody <urn:uuid:19c85d0a-dcca-4177-ab6f-fb64250962fc>;
+    oa:hasTarget <urn:uuid:1b707fe4-0ff1-4f37-9010-ae2d2267c0fd> .
+
+<urn:uuid:86fc2ded-43a3-45ee-8f0f-f598d4baf4e6> a dctypes:Text;
+    dc:title "New Annotation on BNF f. fr. 22545 fol. 134 r.";
+    cnt:chars "<br/><br/>" .
+
+<urn:uuid:885d4df8-8a22-4c1b-a32b-5e7cea078aaa> a oa:Annotation;
+    oa:hasBody <urn:uuid:3157a261-eb9d-4bbf-b00d-a73a93927ba0>;
+    oa:hasTarget <urn:uuid:0fc00505-5af1-43ff-845e-47ad43358502>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:8ac96662-67c8-46cb-8c7d-abc914c6fd3a> a dctypes:Text;
+    dc:title "New Annotation on BNF f. fr. 22545 fol. 134 r.";
+    cnt:chars "<br/><br/>" .
+
+<urn:uuid:96d31e4a-12ec-41b8-8371-d57cf52cd31b> a oa:Annotation;
+    oa:hasBody <urn:uuid:8d6fe7ba-64f8-47cb-9cb9-99c14d3cb75d>;
+    oa:hasTarget <urn:uuid:9f5ee722-a88e-4beb-86af-8881f2ce4259>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:99c41f92-4b67-4771-8e1b-5b15d556099a> a oa:Annotation;
+    oa:hasBody <urn:uuid:7c6764e4-de24-4f09-8538-6908eea269b5>;
+    oa:hasTarget <urn:uuid:94265fd0-82fb-479b-afd8-5cfef2575dd8>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:a3882e27-4b05-4c5e-9b67-e8f5aea14175> a oa:Annotation;
+    oa:hasBody <urn:uuid:e195b19a-8581-49c8-9bce-36da1edceba8>;
+    oa:hasTarget <urn:uuid:e195b19a-8581-49c8-9bce-36da1edceba8> .
+
+<urn:uuid:a862eeb7-cb22-426a-822e-fe3fd6447ede> a oa:Annotation;
+    oa:hasBody <urn:uuid:1b707fe4-0ff1-4f37-9010-ae2d2267c0fd>;
+    oa:hasTarget <urn:uuid:db941aa8-0019-42ce-a52e-1222fc240572>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:bdb580f4-c590-4066-8b8f-ba2233601721> a dctypes:Text;
+    dc:title "";
+    cnt:chars "<br/>" .
+
+<urn:uuid:cabe316a-763f-4f99-bd32-e9b8cb3cd646> a oa:Annotation;
+    oa:hasBody <urn:uuid:26b28719-172c-4648-a873-4dbf9d87f12c>;
+    oa:hasTarget <urn:uuid:99eadd1d-8d74-485b-b6dd-83e6e65028f7>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:e0fe6686-667f-4f29-a729-d5747e37b6d6> a oa:Annotation;
+    oa:hasBody <urn:uuid:d74722a2-7218-486a-8fe3-021d0bc2d024>;
+    oa:hasTarget <urn:uuid:6298d653-b9f4-4e1b-9722-8a9ddb061a3d> .
+
+<urn:uuid:e29db5b6-2ecf-4967-955b-32327069c5e5> a oa:Annotation;
+    oa:hasBody <urn:uuid:2bffcdf9-62bb-4aa5-a499-8c1569e8ecff>;
+    oa:hasTarget <urn:uuid:dbdc9a76-0ebb-4e96-9dd7-9ae53857d06d> .
+
+<urn:uuid:e6898165-a713-4907-9095-e3db23f9e843> a oa:Annotation;
+    oa:hasBody <urn:uuid:42959133-8be2-4562-b4cd-35fe603810a9>;
+    oa:hasTarget <urn:uuid:548b995f-9a86-49ea-a959-346570026e47> .
+
+<urn:uuid:ee1ab9c9-7f4d-4768-a029-5eabe3fe3537> a dctypes:Text;
+    dc:title "New Annotation on BNF f. fr. 9221 fol. 90 v.";
+    cnt:chars "<br/>" .
+
+<urn:uuid:eee99a6b-5a83-4033-a977-46a22448794e> a oa:Annotation;
+    oa:hasBody <http://ada.drew.edu/annotation_store/media/user_images/113386.jpg>;
+    oa:hasTarget <urn:uuid:15be75d1-0efe-48db-a3fa-37334c462531> .
+
+<urn:uuid:f67b9a41-816a-4697-9082-e9ed90969441> a oa:Annotation;
+    oa:hasBody <urn:uuid:79c56961-2647-4868-bd31-e0ec0caa2171>;
+    oa:hasTarget <urn:uuid:99704fd2-3e13-4b40-9573-4fe204c7e812>,
+        <urn:uuid:b580fec1-c467-407f-bf97-f3e8dd1f725e>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:f8839e00-59b8-4af2-af41-7d919ec11169> a oa:Annotation;
+    oa:hasBody <urn:uuid:e1fcb1a3-af6f-48a6-92b1-d5730480968c>;
+    oa:hasTarget <urn:uuid:1a48eb92-63ca-4e2a-aa5e-e764532b5d39>;
+    oa:motivatedBy oa:commenting .
+
+<http://ada.drew.edu/annotation_store/media/user_images/113386.jpg> a dctypes:Image;
+    dc:title "BNF f. fr. 22545 fol. 134 r.";
+    exif:height 3863;
+    exif:width 3000 .
+
+<http://ada.drew.edu/annotation_store/media/user_images/113393.jpg> a dctypes:Image;
+    dc:title "BNF f. fr. 9221 fol. 90 v.";
+    exif:height 4115;
+    exif:width 3000 .
+
+<urn:uuid:00ba8f1f-8ecb-4f10-b4fe-558032e6d2d9> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1810,1970 1813,1943 1836,1946 1850,1986 1838,2011 1828,1995 1810,1970' />" .
+
+<urn:uuid:00df2c75-f732-48e9-9155-85d65911eeba> a oa:TextQuoteSelector;
+    oa:exact "The poet's hand" .
+
+<urn:uuid:1a48eb92-63ca-4e2a-aa5e-e764532b5d39> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:24a62336-380c-4268-a3b9-4ebb121f8751>;
+    oa:hasSource <urn:uuid:5f0486f0-f7a9-4c44-83d1-8607a3d6c4c0> .
+
+<urn:uuid:20d5e8d9-dda2-4e87-a3ca-86422c2f4e3b> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:4d7d3ce8-7378-441c-a1f3-d128af1c4a32>;
+    oa:hasSource <urn:uuid:15be75d1-0efe-48db-a3fa-37334c462531> .
+
+<urn:uuid:24a62336-380c-4268-a3b9-4ebb121f8751> a oa:TextQuoteSelector;
+    oa:exact "Audience Inclusion in Illustration" .
+
+<urn:uuid:26b28719-172c-4648-a873-4dbf9d87f12c> a dctypes:Text;
+    dc:title "New Annotation on Poet's Hand on BNF f. fr. 22545 fol. 134 r.";
+    cnt:chars "<br/><br/>" .
+
+<urn:uuid:2bcf1f34-dfc4-47c4-b6ce-16a6be42b7c9> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<polyline fill='none' stroke='rgba(3, 75, 158, 0.7)' stroke-width='6' points='1836,1254 1727,1257 1732,1256' />" .
+
+<urn:uuid:2c1c5152-d199-4d74-872c-753adedbd14d> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:5a4a1f9e-abc4-4a17-8ed7-e37f3b62ba88>;
+    oa:hasSource <urn:uuid:5f0486f0-f7a9-4c44-83d1-8607a3d6c4c0> .
+
+<urn:uuid:3157a261-eb9d-4bbf-b00d-a73a93927ba0> a dctypes:Text;
+    dc:title "Feminine Dependence on Depiction of Poet on BNF f. fr. 22545 fol. 134 r.";
+    cnt:chars "<div><strong>For further depictions of feminine dependence in this manuscript, see:</strong><br/></div><div><br/></div><div>Poet and prince sleeping beside fountain</div><div>Poet and prince astride horse - <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b60007997/f276.image\">MS F 22545 fol. 134 v.</a></div><div><br/></div><div><strong>For further depictions of feminine dependence in other manuscripts, see:</strong></div><div><br/></div><div><br/></div>" .
+
+<urn:uuid:3e9041a4-a048-42b8-990d-4c35aaa6c1e4> a dctypes:Text;
+    dc:title "The Fountain on BNF f. fr. 9221 fol. 90 v.";
+    cnt:chars "<p>Here the fountain seems to be the location for a discourse between Poet and Prince: the two are clearly engaging with eachother in a way that reflects the metaliterary or metatextual thematic quality of this miniature<br/><br/>For other images of the fountain:<br/><br/>Literal and realistic fountain, with running water, perhaps symbolizing the waters of poetic creation.  Poet and Prince are participating together.<br/>MS A - <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b84490444/f347.image\">163r</a>, <br/><br/>Fountain as site for the mutual dream<br/>MS A - <br/><a href=\"http://gallica.bnf.fr/ark:/12148/btv1b84490444/f352.image\">165v</a> - The Prince enveloped in the Poet's coat<br/><a href=\"http://gallica.bnf.fr/ark:/12148/btv1b84490444/f359.image\">169r</a> - Here the Prince is in a more dominant position<br/><a href=\"http://gallica.bnf.fr/ark:/12148/btv1b84490444/f360.image\">169v</a> - \"Le confort de l'amant et de la dame\" <br/><a href=\"http://gallica.bnf.fr/ark:/12148/btv1b84490444/f367.image\">173r</a> - Poet and Prince on opposite sides of the fountain, just before capture<br/><br/><br/></p>" .
+
+<urn:uuid:42959133-8be2-4562-b4cd-35fe603810a9> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:d82c20ee-fe8b-4f9b-bb0e-8aa46bee235e>;
+    oa:hasSource <urn:uuid:72cf02bc-9257-4284-8a70-e8ccf0146eba> .
+
+<urn:uuid:4d7d3ce8-7378-441c-a1f3-d128af1c4a32> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1934,1827 1840,1810 1746,1821 1702,1928 1617,2285 1957,2305 1946,2125 1992,1950 1986,1915 1934,1827' />" .
+
+<urn:uuid:4ee70cd4-3778-4cc1-98a5-c73e29c58aff> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='2112,1932 2155,2046 2261,2308 1986,2309 1991,1994 2033,1922 2072,1910 2112,1932' />" .
+
+<urn:uuid:548b995f-9a86-49ea-a959-346570026e47> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:8dfac872-3092-484a-884a-d28b0fdeb531>;
+    oa:hasSource <urn:uuid:05f99d8e-04f7-49f4-8fe2-da70cc9da589> .
+
+<urn:uuid:5a4a1f9e-abc4-4a17-8ed7-e37f3b62ba88> a oa:TextQuoteSelector;
+    oa:exact "Abbreviations and Expansions" .
+
+<urn:uuid:5d62cfdd-7608-4d32-aeff-1fbc928b7d2e> a dctypes:Text;
+    dc:title "Abbreviations and Expansions on Readership on BNF f. fr. 22545 fol. 134 r.";
+    cnt:chars """<p>This text does not include abbreviations or expansions, thus indicating an assumption that its readers would not be capable of incorporating expansion marks into their reading and understanding of the text (for a text with expansion marks, see <a href="http://gallica.bnf.fr/ark:/12148/btv1b6000795k/f1.image">MS E 9221</a>).
+<br/></p>""" .
+
+<urn:uuid:6298d653-b9f4-4e1b-9722-8a9ddb061a3d> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:aeb6c159-aceb-46fb-b738-e7d3b1f2e6eb>;
+    oa:hasSource <urn:uuid:e1fcb1a3-af6f-48a6-92b1-d5730480968c> .
+
+<urn:uuid:6395626a-1738-4d89-a422-c83a985d9e68> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1506,2023 1471,2050 1471,2125 1491,2193 1486,2218 1528,2260 1504,2294 1580,2284 1649,2307 1630,2242 1627,2180 1584,2160 1586,2108 1543,2073 1562,2023 1547,2025 1564,2023 1564,2025 1560,2030 1564,2028 1506,2023' />" .
+
+<urn:uuid:73c363fa-582f-409e-8e88-ce9164d761cd> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:ecf3e3ff-bd9e-4303-880a-0d3b93e38296>;
+    oa:hasSource <urn:uuid:05f99d8e-04f7-49f4-8fe2-da70cc9da589> .
+
+<urn:uuid:79c56961-2647-4868-bd31-e0ec0caa2171> a dctypes:Text;
+    dc:title "Specific Moment of Illustration on Readership on BNF f. fr. 22545 fol. 134 r.";
+    cnt:chars """<div>
+The miniature in this folio illustrates a specific moment within the story - the moment where a knight of the prince's court goes to the prince and requests that the prince return to the manor to eat.
+<br/></div><div><br/></div><div><span>    </span>But while we were entertaining ourselves<br/><span>    </span>And debating the doings of love,<br/><span>    </span>A knight appeared before us,<br/><span>    </span>Who went down at once to his knees,<br/><span>    </span>And said this to him quite directly:<br/><span>    </span>“Sire, your meal is spoiled<br/><span>    </span>Because you have been here<br/><span>    </span>More than half a summer’s day.”<br/><span>    </span>And so we rose from that spot<br/><span>    </span>And went toward his manor,<br/><span>    </span>Which is the most handsome, to tell the truth,<br/><span>    </span>In France or the Empire.<br/><span>    </span>But we didn’t go without his people,<br/><span>    </span>For many a knight handsome and noble,<br/><span>    </span>Attractive, good looking, nicely turned out,<br/><span>    </span>And genteel attended him under a lime tree (l. 2745-2760).
+</div><div><br/></div><div>The choice of this specific moment within the story is an interesting choice: this is not a meta-moment, or an instance where the text is discussing more complex themes.  It is a small moment of concrete certainty, illustrating a plausible moment of reality.  A meta-textual moment (also possible for illustration, as the text itself is included in this folio) would be the poet and prince's discussion of Venus.  This is a moment more in line with the meta-themes of the poem, as opposed to the concrete moment of a knight's summons of his lord to dinner.</div><div><br/></div><div>The use of a specific moment vs. a meta-textual moment speaks to the intended audience in that a meta-textual moment calls on an understanding of the continuous themes throughout the text; an illustration of a concrete moment draws the reader into the story more effectively, requiring less continued cognizance of the story, and allowing for a more momentary relationship with it.  This also hints at the possibility of silent vs. oral reading: a text with meta-illustrations could rely on a silent reader to be continuously engaged with the text, whereas an oral reading would necessarily rely on concrete moments to continuously engage the listener, and bring them back to the threads of the story.</div>""" .
+
+<urn:uuid:7c6764e4-de24-4f09-8538-6908eea269b5> a dctypes:Text;
+    dc:title "The poet on BNF f. fr. 9221 fol. 90 v.";
+    cnt:chars "<p>Other images of the poet:<br/><br/>Poetic creation, interior spaces, and literality<br/>MS A –  <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b84490444/f332.image\">155v</a><br/>MS F -<br/><a href=\"http://gallica.bnf.fr/ark:/12148/btv1b60007997/f247.image\">120r </a>- Poet asleep<br/><br/>Dream states and Morpheus<br/>MS A –  <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b84490444/f337.image\">158r</a>, <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b84490444/f338.image\">158v</a><br/>MS F - <br/><a href=\"http://gallica.bnf.fr/ark:/12148/btv1b60007997/f252.image\">122v</a> - the \"messagiere\" appearing very much like Morpheus<br/><a href=\"http://gallica.bnf.fr/ark:/12148/btv1b60007997/f253.image\">123r</a> - Morpheus appearing in bedchamber of sleeping lord/prince (crown)<br/></p>" .
+
+<urn:uuid:83819bc6-6593-423d-89f6-b9dadb965fae> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1634,1973 1640,2071 1627,2071 1625,2112 1723,2147 1820,2127 1833,2117 1814,2047 1814,1956 1771,1904 1777,1871 1762,1852 1744,1778 1710,1848 1688,1872 1693,1906 1673,1941 1673,1943 1634,1973' />" .
+
+<urn:uuid:8d6fe7ba-64f8-47cb-9cb9-99c14d3cb75d> a dctypes:Text;
+    dc:title "Abbreviations and Expansions on BNF f. fr. 9221 fol. 90 v.";
+    cnt:chars "<p>This word shows the use of signs to represent letters that are taken out of the word to conserve space.  It takes a more educated readerships to digest these nuances in their written form than it would take when the reader expanded the words in an oral recitation.  <br/></p>" .
+
+<urn:uuid:8dfac872-3092-484a-884a-d28b0fdeb531> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1448,1739 2026,1739 2026,2343 1448,2343 1448,1739' />" .
+
+<urn:uuid:94265fd0-82fb-479b-afd8-5cfef2575dd8> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:6395626a-1738-4d89-a422-c83a985d9e68>;
+    oa:hasSource <urn:uuid:05f99d8e-04f7-49f4-8fe2-da70cc9da589> .
+
+<urn:uuid:99eadd1d-8d74-485b-b6dd-83e6e65028f7> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:00df2c75-f732-48e9-9155-85d65911eeba>;
+    oa:hasSource <urn:uuid:e73ba063-8cde-4076-a8f7-fd390b14ec99> .
+
+<urn:uuid:9c4b04e6-4983-42a7-add6-b6c2132cf0a5> a dctypes:Text;
+    dc:title "New Annotation on BNF f. fr. 22545 fol. 134 r.";
+    cnt:chars "<br/><br/>" .
+
+<urn:uuid:9f5ee722-a88e-4beb-86af-8881f2ce4259> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:2bcf1f34-dfc4-47c4-b6ce-16a6be42b7c9>;
+    oa:hasSource <urn:uuid:05f99d8e-04f7-49f4-8fe2-da70cc9da589> .
+
+<urn:uuid:a1b3c3b4-e1b7-404b-8d5f-938f9c592c4f> a oa:TextQuoteSelector;
+    oa:exact "the poet's hand" .
+
+<urn:uuid:a6c1ab9f-f8ee-483a-8698-bb3d8d1597da> a dctypes:Text;
+    dc:title "Readership on BNF f. fr. 9221 fol. 90 v.";
+    cnt:chars "<p>The figurative thematic of this miniature suggests a more educated and/or scholarly readership.  The image depicts the symbolic environment of poetic creation wherein the poet and the prince collaborate within the creative space of the poem, denoted by the fountain.<br/><br/>The image proposes a certain metaliterature that would appeal to an erudite audience.  <br/></p>" .
+
+<urn:uuid:aeb6c159-aceb-46fb-b738-e7d3b1f2e6eb> a oa:TextQuoteSelector;
+    oa:exact "The inclusion of a knight" .
+
+<urn:uuid:b580fec1-c467-407f-bf97-f3e8dd1f725e> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:e73e6d93-5d50-4bdc-93fc-df0514e2b48a>;
+    oa:hasSource <urn:uuid:5f0486f0-f7a9-4c44-83d1-8607a3d6c4c0> .
+
+<urn:uuid:d74722a2-7218-486a-8fe3-021d0bc2d024> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:4ee70cd4-3778-4cc1-98a5-c73e29c58aff>;
+    oa:hasSource <urn:uuid:15be75d1-0efe-48db-a3fa-37334c462531> .
+
+<urn:uuid:d82c20ee-fe8b-4f9b-bb0e-8aa46bee235e> a oa:TextQuoteSelector;
+    oa:exact "MS E 9221 fol. 90 v." .
+
+<urn:uuid:dbdc9a76-0ebb-4e96-9dd7-9ae53857d06d> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:a1b3c3b4-e1b7-404b-8d5f-938f9c592c4f>;
+    oa:hasSource <urn:uuid:72cf02bc-9257-4284-8a70-e8ccf0146eba> .
+
+<urn:uuid:e73ba063-8cde-4076-a8f7-fd390b14ec99> a dctypes:Text;
+    dc:title "Poet's Hand on BNF f. fr. 22545 fol. 134 r.";
+    cnt:chars "<span about=\"urn:uuid:00df2c75-f732-48e9-9155-85d65911eeba\" class=\"atb-editor-textannotation\" property=\"http://www.w3.org/ns/oa#exact\">The poet's hand</span> is here seen grasping the prince's arm in a possessive, dependent, and almost feminine manner.<br/><div><br/></div><div>For depictions of feminine dependency, see:</div>" .
+
+<urn:uuid:e73e6d93-5d50-4bdc-93fc-df0514e2b48a> a oa:TextQuoteSelector;
+    oa:exact "Specific Moment of Illustration" .
+
+<urn:uuid:ecf3e3ff-bd9e-4303-880a-0d3b93e38296> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1853,2102 1881,2088 1879,2030 1905,2019 1944,2050 1927,2076 1951,2115 1949,2175 1949,2214 1951,2255 1922,2284 1879,2290 1842,2301 1816,2321 1799,2331 1801,2312 1816,2303 1786,2307 1706,2305 1699,2294 1801,2271 1810,2197 1821,2195 1842,2108 1844,2106 1853,2102' />" .
+
+<urn:uuid:f0d397f8-4f2e-4e98-b9b5-42ccaeabf69c> a dctypes:Text;
+    dc:title "Patronage on BNF f. fr. 9221 fol. 90 v.";
+    cnt:chars "<br/>" .
+
+<urn:uuid:f7328ee0-f0c2-4eda-8512-7737abd97eb3> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:83819bc6-6593-423d-89f6-b9dadb965fae>;
+    oa:hasSource <urn:uuid:05f99d8e-04f7-49f4-8fe2-da70cc9da589> .
+
+<urn:uuid:1b707fe4-0ff1-4f37-9010-ae2d2267c0fd> a dctypes:Text;
+    dc:title "Presentation of the text New Annotation on BNF f. fr. 22545 fol. 134 r.";
+    cnt:chars "<p>In this miniature we see the poet presenting the text to his patron, the prince.  In other images we see the poet in a position of power but here he prostrates himself before the prince with the gift of his own manuscript in hand.<br/><br/><br/></p>" .
+
+<urn:uuid:2bffcdf9-62bb-4aa5-a499-8c1569e8ecff> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:00ba8f1f-8ecb-4f10-b4fe-558032e6d2d9>;
+    oa:hasSource <urn:uuid:15be75d1-0efe-48db-a3fa-37334c462531> .
+
+<urn:uuid:e1fcb1a3-af6f-48a6-92b1-d5730480968c> a dctypes:Text;
+    dc:title "Audience Inclusion in Illustration on Readership on BNF f. fr. 22545 fol. 134 r.";
+    cnt:chars """<div>
+<span about="urn:uuid:aeb6c159-aceb-46fb-b738-e7d3b1f2e6eb" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact">The inclusion of a knight</span> in the miniature is a moment where the text speaks directly to its intended audience.  As a representative of the noble class, the knight's inclusion in the miniature is an attempt to draw the reader into the text, indicating a kind of participation on the part of the reader in the events of the story.  This is perhaps why the artist chose this specific moment of the story to illustrate, as opposed to other, more visually-appealing specific moments; to include a member of the intended audience within the story creates the illusion of reality, thereby allowing for a greater engagement on the part of the reader.<br/></div>""" .
+
+<urn:uuid:72cf02bc-9257-4284-8a70-e8ccf0146eba> a dctypes:Text;
+    dc:title "Depiction of Poet and Prince on BNF f. fr. 22545 fol. 134 r.";
+    cnt:chars """<div>The relationship between poet and prince in this manuscript is one of simultaneous equality and subtle subservience on the part of the poet.  While the poet and prince are shown in an intimate relationship (see <span about="urn:uuid:a1b3c3b4-e1b7-404b-8d5f-938f9c592c4f" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact">the poet's hand</span> grasping the prince's arm in a possessive, dependent, almost feminine manner), thus indicating a high degree of equality, that equality is subtly problematized.  The poet is standing behind the prince, not next to him, is grasping his arm, and is clearly dressed in a clerk's clothing, as opposed to the clothing of a nobleman 
+(for greater equality in dress, see <span about="urn:uuid:d82c20ee-fe8b-4f9b-bb0e-8aa46bee235e" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact">MS E 9221 fol. 90 v.</span>, <a href="http://gallica.bnf.fr/ark:/12148/btv1b60007997/f273.image">MS F 22545 fol. 133 r.</a>).<br/></div><div><br/></div><div><b>For further representations of problematized equality between poet and prince in this manuscript, see:</b></div><div><br/></div><div>Poet and prince standing beside fountain - <a href="http://gallica.bnf.fr/ark:/12148/btv1b60007997/f260.image">MS F 22545 fol. 126 v.</a><br/></div><div>Poet and prince standing beside fountain, seated beside fountain - <a href="http://gallica.bnf.fr/ark:/12148/btv1b60007997/f261.image">MS F 22545 fol. 127 r. (2)</a></div><div>Poet and prince with the complaint - <a href="http://gallica.bnf.fr/ark:/12148/btv1b60007997/f263.image">MS F 22545 fol. 128 r.</a></div><div>Prince asleep in poet's arms beside fountain - <a href="http://gallica.bnf.fr/ark:/12148/btv1b60007997/f264.image">MS F 22545 fol. 128 v.</a></div><div>Poet and prince standing beside fountain - <a href="http://gallica.bnf.fr/ark:/12148/btv1b60007997/f273.image">MS F 22545 fol. 133 r.</a></div><div>Poet and prince astride horse - <a href="http://gallica.bnf.fr/ark:/12148/btv1b60007997/f276.image">MS F 22545 fol. 134 v.</a></div><div><br/></div><div><b>For representations of equality (or problematized equality) between poet and prince in other manuscripts, see:</b></div><div><br/></div><div>Poet and prince standing beside fountain - <a href="http://gallica.bnf.fr/ark:/12148/btv1b6000795k/f196.image">MS E 9221 fol. 86 v.</a></div><div>Poet and prince lying beside fountain - <a href="http://gallica.bnf.fr/ark:/12148/btv1b6000795k/f201.image">MS E 9221 fol. 89 r.</a></div><div>Poet and prince seated beside fountain - <a href="http://gallica.bnf.fr/ark:/12148/btv1b6000795k/f204.image">MS E 9221 fol. 90 v.</a></div><div>Poet in study, prince in the margins - <a href="http://gallica.bnf.fr/ark:/12148/btv1b84490444/f332.image">MS A 1584 fol. 155 v.</a></div><div>Poet and prince in conversation - <a href="http://gallica.bnf.fr/ark:/12148/btv1b84490444/f344.image">MS A 1584 fol. 161 v.</a></div><div>Poet and prince beside fountain - <a href="http://gallica.bnf.fr/ark:/12148/btv1b84490444/f347.image">MS A 1584 fol. 163 r.</a></div><div>Poet and prince in conversation - <a href="http://gallica.bnf.fr/ark:/12148/btv1b84490444/f350.image">MS A 1584 fol. 164 v.</a></div><div>Poet and prince sleeping beside fountain - <a href="http://gallica.bnf.fr/ark:/12148/btv1b84490444/f352.image">MS A 1584 fol. 165 v.</a><br/></div><div>Poet and prince sleeping beside fountain (converse of fol. 165 v., above) - <a href="http://gallica.bnf.fr/ark:/12148/btv1b84490444/f359.image">MS A 1584 fol. 169 r.</a></div>""" .
+
+<urn:uuid:5f0486f0-f7a9-4c44-83d1-8607a3d6c4c0> a dctypes:Text;
+    dc:title "Readership on BNF f. fr. 22545 fol. 134 r.";
+    cnt:chars "<p>Assumptions can be made as to the intended audience of this manuscript, based on examination of this folio.  Three elements indicate the text was for a noble, non-scholarly audience:</p><ul><li><span about=\"urn:uuid:5a4a1f9e-abc4-4a17-8ed7-e37f3b62ba88\" class=\"atb-editor-textannotation\" property=\"http://www.w3.org/ns/oa#exact\">Abbreviations and Expansions</span></li><li><span about=\"urn:uuid:e73e6d93-5d50-4bdc-93fc-df0514e2b48a\" class=\"atb-editor-textannotation\" property=\"http://www.w3.org/ns/oa#exact\">Specific Moment of Illustration</span></li><li><span about=\"urn:uuid:24a62336-380c-4268-a3b9-4ebb121f8751\" class=\"atb-editor-textannotation\" property=\"http://www.w3.org/ns/oa#exact\">Audience Inclusion in Illustration</span></li></ul>" .
+
+<urn:uuid:15be75d1-0efe-48db-a3fa-37334c462531> a sc:Canvas;
+    dc:title "BNF f. fr. 22545 fol. 134 r.";
+    exif:height 3863;
+    exif:width 3000 .
+
+<urn:uuid:05f99d8e-04f7-49f4-8fe2-da70cc9da589> a sc:Canvas;
+    dc:title "BNF f. fr. 9221 fol. 90 v.";
+    exif:height 4115;
+    exif:width 3000 .
+
+<urn:uuid:a45c0ba5-7218-495b-a828-56b7ef71ade0> a dm:Project,
+        dctypes:Collection,
+        ore:Aggregation,
+        foaf:Project;
+    dc:title "Imported Project";
+    dcterms:description "Created from the contents of your old DM workspace";
+    ore:aggregates <urn:uuid:05f99d8e-04f7-49f4-8fe2-da70cc9da589>,
+        <urn:uuid:15be75d1-0efe-48db-a3fa-37334c462531> .
+

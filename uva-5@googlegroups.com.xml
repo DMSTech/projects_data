@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:cnt="http://www.w3.org/2011/content#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:dm="http://dm.drew.edu/ns/"
+   xmlns:exif="http://www.w3.org/2003/12/exif/ns#"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:oa="http://www.w3.org/ns/oa#"
+   xmlns:ore="http://www.openarchives.org/ore/terms/"
+   xmlns:perm="http://vocab.ox.ac.uk/perm#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="urn:uuid:238d8b30-60f9-4e65-9eda-a9f15858ff34">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:ead8d4db-9ce6-47e1-868e-ae833f228805"/>
+    <oa:hasTarget rdf:resource="urn:uuid:631efa34-d2ee-4398-8f6c-74b0c75ea047"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasTarget rdf:resource="urn:uuid:ffefe20d-e530-49a1-9f5c-3f6e2188dc15"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:02bc06f4-b03b-4997-91f9-19b08b0eb88d">
+    <dc:title>Emphasis on kneeling Poet in MS F</dc:title>
+    <cnt:chars>&lt;p&gt;The kneeling poet found in the &lt;i style="font-style: italic; "&gt;Prologue &lt;/i&gt;of MS F stands in stark contrast to scenes of Machaut  greeting the allegorical figures while working or standing regally beneath a tree in MS A (&lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b84490444/f15.image" style="text-decoration: underline; "&gt;MS A Dr&lt;/a&gt; and &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b84490444/f17.image" style="text-decoration: underline; "&gt;MS A Er&lt;/a&gt;). This emphasis in MS A on the poet's work continues into the &lt;span lang="FR" style="font-style: italic; "&gt;Fonteinne amoureuse &lt;/span&gt;&lt;span lang="FR"&gt;(s&lt;/span&gt;ee &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b84490444/f329.image"&gt;MS A 154r&lt;/a&gt;, &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b84490444/f332.image"&gt;MS A 155v&lt;/a&gt;, &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b6000795k/f189.image"&gt;&lt;span about="urn:uuid:515e273c-724d-4437-8831-9da798ba32db" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;MS E 83r&lt;/span&gt;&lt;/a&gt;) while &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b60007997/f246.image"&gt;MS F 199v&lt;/a&gt; does not have such an author portrait. &lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;It is interesting to note that even though &lt;span about="urn:uuid:47eb75bb-c525-4597-9234-891fcda76dee" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact" style="background-color: transparent; "&gt;MS E 83r&lt;/span&gt; shows this poet writing he is still kneeling in the opening of the &lt;i&gt;Prologue&lt;/i&gt;. &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;Might be good to address these issues with regards to how manuscripts both support and subjugate traditional views of patronage. Additional insight may be found in work of &lt;span about="urn:uuid:a6ab18bd-e061-4d00-972c-0ae1b469223f" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Earp&lt;/span&gt;, &lt;span about="urn:uuid:a44075f6-1f3a-4ccc-a1a5-b34174eeeb5a" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;McGrady&lt;/span&gt;, and &lt;span about="urn:uuid:ba59ebb8-682d-4dee-b9f5-8a8622b5bf47" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Wilkens&lt;/span&gt;.&lt;/div&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a6ab18bd-e061-4d00-972c-0ae1b469223f">
+    <oa:exact>Earp</oa:exact>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:59456a2f-9751-4eef-b0c9-c431b0d63f3f">
+    <oa:hasTarget rdf:resource="urn:uuid:631efa34-d2ee-4398-8f6c-74b0c75ea047"/>
+    <oa:hasBody rdf:resource="http://ada.drew.edu/annotation_store/media/user_images/113426.jpg"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:569881d0-87dd-4738-bcb5-c8a0caaa63f5">
+    <oa:hasTarget rdf:resource="urn:uuid:4eafc6f0-1f6e-49a1-9a7b-ffcf0853fdcb"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:e517c1ea-4142-4eda-9cfb-1a5485353e05"/>
+    <oa:hasBody rdf:resource="urn:uuid:4eafc6f0-1f6e-49a1-9a7b-ffcf0853fdcb"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:6267dcae-69d1-46e7-b949-c3c690ccecc2">
+    <oa:hasSelector rdf:resource="urn:uuid:f3da9380-4083-4712-899c-c22efc441ad1"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:45770ea1-e8aa-4c43-a8f7-111d1887b9b0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:21e75682-4639-4290-b976-8d401d0f2e52">
+    <oa:hasTarget rdf:resource="urn:uuid:631efa34-d2ee-4398-8f6c-74b0c75ea047"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasBody rdf:resource="urn:uuid:0d38db4a-62cb-4446-83eb-45ddf0df8df1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:bf475710-27ee-4379-9be7-05bd7a00feac">
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasTarget rdf:resource="urn:uuid:7c82ef33-fb61-49aa-b829-2dace2d209eb"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:88d909c4-816a-4235-8e97-233d9328ffaf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a3422726-1c98-4ae8-b0c3-755473212eb7">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:631efa34-d2ee-4398-8f6c-74b0c75ea047"/>
+    <oa:hasBody rdf:resource="urn:uuid:b3766d65-b60c-4073-af24-4028e6c0d515"/>
+    <oa:hasTarget rdf:resource="urn:uuid:ffefe20d-e530-49a1-9f5c-3f6e2188dc15"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:ad62a00b-3419-4d6e-9d02-310ced86bf1e">
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasTarget rdf:resource="urn:uuid:866fcc2a-da84-4901-8f97-f844bcf042d7"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:d2f50760-bfc7-4917-b1eb-fac9391ab818"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:94f0ee57-41ca-44b9-a036-ce0806241aa2">
+    <oa:hasSource rdf:resource="urn:uuid:631efa34-d2ee-4398-8f6c-74b0c75ea047"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:de678479-d31f-43bc-986c-f4058fd26ada"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:5ce1ce04-3d8b-4922-8d3c-6eadd8fdd594">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>Corresponding Miniatures to Fol. 1 r.</dc:title>
+    <cnt:chars>&lt;p&gt;Several other manuscripts that correspond to the same piece of text as the miniature on fol. 1r. &lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;i style="font-style: italic; "&gt;Comment Nature, voulant ordendroit plus que onques mais reveler et faire essaucier les biens et honneurs qui sont en Amours... &lt;/i&gt;(&lt;span about="urn:uuid:bb1e50cf-a40a-49ae-b18d-519a0918d136" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Earp, 145-147.&lt;/span&gt;)&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="•	http://gallica.bnf.fr/ark:/12148/btv1b84490444/f17.image" style="text-decoration: underline; "&gt;&lt;span about="urn:uuid:40efbf03-e677-48c2-aa07-ef6205170396" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;MS. A fol. Er&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Note that this miniature is out of order because the text is out of order beginning wit &lt;i style="font-style: italic; "&gt;Comment Amours..&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;
+
+
+
+&lt;span about="urn:uuid:62295ca0-3bc7-4eeb-ab78-267892f4c3ba" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;MS.
+Pm fol. 1r&lt;/span&gt; (unfortunately not available online)&lt;/li&gt;&lt;li&gt;&lt;span about="urn:uuid:6cb6eda5-8736-4b98-b505-c5c9979eccf7" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;MS. E fol. 1r&lt;/span&gt; (left hand
+scene showing “Comment Nature…”) &lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:4da0b4c8-c33d-4672-9bc9-748a168ae124">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+    <dc:title>Comparison of MS E and F</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:40efbf03-e677-48c2-aa07-ef6205170396">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>MS. A fol. Er</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:e5487602-dada-44c6-9f1f-004dd8c0c541">
+    <oa:hasSource rdf:resource="urn:uuid:0d38db4a-62cb-4446-83eb-45ddf0df8df1"/>
+    <oa:hasSelector rdf:resource="urn:uuid:1ea39f5c-b8dd-4ce9-994f-4fd44d2c9485"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:2c0e02ef-c417-4b4c-8a27-f7264545e6f5">
+    <oa:hasBody rdf:resource="urn:uuid:071c3df0-e754-42c7-97a2-2af9e449b59a"/>
+    <oa:hasTarget rdf:resource="urn:uuid:6267dcae-69d1-46e7-b949-c3c690ccecc2"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:8bf3382e-6fca-463e-b472-dcc1905e42a4">
+    <dc:title>New Annotation on BNF f. fr. 22545 fol. 1 v.</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:b8017c94-b56d-40b8-9300-6acd756543d8">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:21fdde6f-888e-4bb5-8584-3ee5e86c3aeb"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasTarget rdf:resource="urn:uuid:27941fdb-2e25-4537-a4f8-e758410a5f46"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:24e74405-978e-4f91-99c9-dfd3606bd1e7">
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:01345432-b86c-4a2a-ac43-a435071803b5"/>
+    <oa:hasTarget rdf:resource="urn:uuid:866fcc2a-da84-4901-8f97-f844bcf042d7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:48cc543c-4e98-4571-b208-e6fe1cf3d9b1">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;p&gt;The symmetrical mirror images of the two Machauts reflects (hah) the symmetry of the allegory at work in the Prologue. This conditions the reader to see the correspondence between Nature and her three children and Love and his three children. The figure of Love is probably the most easily recognizable, although he appears later in the text than Nature. But even a person unfamiliar with the narrative will begin reading aware that the God of Love makes an appearance and perhaps already collate this narrative with texts such as the Romance of the Rose.&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;</cnt:chars>
+    <dc:title>New Annotation on BNF f. fr. 9221 fol. 1 r.</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ada.drew.edu/annotation_store/media/user_images/113426.jpg">
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3000</exif:width>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Image"/>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4012</exif:height>
+    <dc:title>BNF f. fr. 22545 fol. 1 v.</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:cff4852e-04d0-4a9a-b8e8-8215ef958f7a">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:bb3c2de0-14e1-4fd7-bb9d-ba8982e98036"/>
+    <oa:hasTarget rdf:resource="urn:uuid:a9419b21-c883-43f7-885c-3b37ab3fad38"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:62295ca0-3bc7-4eeb-ab78-267892f4c3ba">
+    <oa:exact>MS.
+Pm fol. 1r</oa:exact>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:07f0c2b3-0b2f-40b6-a899-291c862b57d4">
+    <oa:hasSource rdf:resource="urn:uuid:5ce1ce04-3d8b-4922-8d3c-6eadd8fdd594"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:6cb6eda5-8736-4b98-b505-c5c9979eccf7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:2bbe1503-0593-4f2d-94b3-06819d521472">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:c2fc2ac9-d39e-4d94-8870-127b9d2ec228"/>
+    <oa:hasSource rdf:resource="urn:uuid:631efa34-d2ee-4398-8f6c-74b0c75ea047"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a94efa3a-73da-464d-9247-45678f6cd927">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:2bbe1503-0593-4f2d-94b3-06819d521472"/>
+    <oa:hasBody rdf:resource="urn:uuid:3ee9a5e7-362d-422d-9982-ee503262b90a"/>
+    <oa:hasTarget rdf:resource="urn:uuid:bf18e837-37a2-4460-a169-c8df335879d6"/>
+    <oa:hasTarget rdf:resource="urn:uuid:866fcc2a-da84-4901-8f97-f844bcf042d7"/>
+    <oa:hasTarget rdf:resource="urn:uuid:9ac1ef20-29b4-44f4-86bc-a50f8ccc755e"/>
+    <oa:hasTarget rdf:resource="urn:uuid:db273326-81c2-4b11-b275-c8a62c751ea3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:dbb4c4e6-f713-467a-a914-8caf2a68eaee">
+    <dc:title>New Annotation on BNF f. fr. 22545 fol. 1 v.</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:b9352fff-ab38-4750-8d59-78893a737abd">
+    <cnt:chars>&lt;p&gt;MS E (c. 1390)&lt;/p&gt;&lt;div&gt;Created after Machaut's death, owned by Jean, Duc de Berry&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>MS E</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:ff1e1b39-224c-4752-b92c-1e721622e3f0">
+    <cnt:chars>&lt;p&gt;On pg 129, &lt;span about="urn:uuid:5ec108a0-665a-4f81-b256-70cf3ec4ea41" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Avril&lt;/span&gt; describes that the armoires in the background of the miniature illustrates that the book's commissioner/owner was of lesser mobility. &lt;/p&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>MS F - Background Armoires</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:4da573c3-4f9c-4ce0-9452-08f07b7abe22">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Project"/>
+    <ore:aggregates rdf:resource="urn:uuid:b3766d65-b60c-4073-af24-4028e6c0d515"/>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+    <ore:aggregates rdf:resource="urn:uuid:45770ea1-e8aa-4c43-a8f7-111d1887b9b0"/>
+    <dcterms:description>Created from the contents of your old DM workspace</dcterms:description>
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/Aggregation"/>
+    <dc:title>Imported Project</dc:title>
+    <ore:aggregates rdf:resource="urn:uuid:ffefe20d-e530-49a1-9f5c-3f6e2188dc15"/>
+    <rdf:type rdf:resource="http://dm.drew.edu/ns/Project"/>
+    <ore:aggregates rdf:resource="urn:uuid:631efa34-d2ee-4398-8f6c-74b0c75ea047"/>
+    <ore:aggregates rdf:resource="urn:uuid:745a74e2-bd58-4782-807f-3413ebbbe480"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:09262b72-633d-4ec8-bb36-22df62964f24">
+    <oa:hasSource rdf:resource="urn:uuid:45770ea1-e8aa-4c43-a8f7-111d1887b9b0"/>
+    <oa:hasSelector rdf:resource="urn:uuid:8c12b1b1-a85d-4b2c-ab76-903b59ea39f3"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:222be6bf-32f5-4aa7-8550-0fd2db96fe9b">
+    <cnt:chars>&lt;p&gt;Image of the poet.&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>New Annotation on BNF f. fr. 9221 fol. 1 r.</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:afd70504-920b-4b78-b369-f71cda9d5702">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='740,1332 1586,1332 1586,2123 740,2123 740,1332' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:9e348a85-e5e8-4f69-9cae-a8ce9175f122">
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasTarget rdf:resource="urn:uuid:714f18f9-267a-4d7d-9ddc-bd2e1d4e0a24"/>
+    <oa:hasBody rdf:resource="urn:uuid:1221eb3c-752a-4fac-85ad-8a207af10123"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:8ce76257-c10f-42e9-88c4-451da06cbffc">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>Saenger</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:9ac1ef20-29b4-44f4-86bc-a50f8ccc755e">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:f29b3444-4a36-496e-b4b8-60ea958a5b50"/>
+    <oa:hasSource rdf:resource="urn:uuid:631efa34-d2ee-4398-8f6c-74b0c75ea047"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:e40e642f-edc9-49bb-9c70-3a67c84cce68">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>Earp, 145-147</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:515e273c-724d-4437-8831-9da798ba32db">
+    <oa:exact>MS E 83r</oa:exact>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:863e3dac-6b78-4647-9058-ee838bbf12ca">
+    <oa:hasBody rdf:resource="urn:uuid:d4a51d0a-6679-4536-a933-44fb27f4c472"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:6ee425e3-46df-4f52-babc-25a461013242"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:366d3a05-708b-4fb5-b7a9-be8ba49b203f">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>Machaut's</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:7ffb42bb-30ab-4bb2-8ca0-3518b452ab01">
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1028,920 1277,920 1277,1243 1028,1243 1028,920' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:21fdde6f-888e-4bb5-8584-3ee5e86c3aeb">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>New Annotation on BNF f. fr. 9221 fol. 1 r.</dc:title>
+    <cnt:chars>&lt;p&gt;Rubrication: &lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;Line 1: Com(men)t amo(ur)s a oy Nat(ur)e vie(n)t a guill(aum)e de&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;Line 2: machaut. Et lui [li?] amaine .iii. de les e(n)fa(n)s.&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;Line 3: Cest as(avoir). doulx pe(n)ser. plaisa(n)ce &amp;amp; espa(ran)ce po(ur) lui [li?]&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;Line 4: do(n)ner matere a faire ce q(ue) Nat(ur)e lui [li?] a echigie [ecargie?].&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;English Translation from Palmer:&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;[How Love, hearing Nature, comes to Guillaume de Machaut leading three of her (his?) children, and these are Sweet Thought, Pleasure, and Hope, in order to provide him the material to carry out what Nature has charged him with.]&lt;/div&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:4d7485bf-a013-4d3a-902d-75004dc9e947">
+    <oa:hasBody rdf:resource="urn:uuid:4eafc6f0-1f6e-49a1-9a7b-ffcf0853fdcb"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:4eafc6f0-1f6e-49a1-9a7b-ffcf0853fdcb"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:4eeab47d-8be0-4994-991b-415e45c58e5b">
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasBody rdf:resource="urn:uuid:5ce1ce04-3d8b-4922-8d3c-6eadd8fdd594"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:ffefe20d-e530-49a1-9f5c-3f6e2188dc15"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a9c552de-cb89-404d-81f1-0f60c4ada38a">
+    <oa:hasSource rdf:resource="urn:uuid:02bc06f4-b03b-4997-91f9-19b08b0eb88d"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:515e273c-724d-4437-8831-9da798ba32db"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:d6cd5d74-1b67-4cee-b3f6-81a53263cddd">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasBody rdf:resource="urn:uuid:b9352fff-ab38-4750-8d59-78893a737abd"/>
+    <oa:hasTarget rdf:resource="urn:uuid:745a74e2-bd58-4782-807f-3413ebbbe480"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:5d1dca84-f2e9-4159-882f-52e22e020b3c">
+    <oa:hasTarget rdf:resource="urn:uuid:866fcc2a-da84-4901-8f97-f844bcf042d7"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:48cc543c-4e98-4571-b208-e6fe1cf3d9b1"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:cc54c661-6847-432b-a6ab-230c89394ecf">
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasTarget rdf:resource="urn:uuid:6c959e2c-68ca-43e4-afb2-1d2ed12fb3db"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:3ed3a7de-10f9-4e0a-ac77-061947e3a34b"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:5a8ce83c-cc67-4ee5-8e78-8c78e7f8bf63">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:2c97cdf2-9549-4658-924c-dd840b970ecd"/>
+    <oa:hasTarget rdf:resource="urn:uuid:09262b72-633d-4ec8-bb36-22df62964f24"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:3961f666-8d82-481a-b32b-794bfc69cb68">
+    <oa:exact>Earp</oa:exact>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:bf18e837-37a2-4460-a169-c8df335879d6">
+    <oa:hasSelector rdf:resource="urn:uuid:4cd2ebc6-714c-4aee-89d6-1febf7b807be"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:745a74e2-bd58-4782-807f-3413ebbbe480"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:bc6c8d58-51ed-4222-aaed-f241a7b1285f">
+    <oa:hasSelector rdf:resource="urn:uuid:35afee39-68be-489e-8455-e399cb43ad85"/>
+    <oa:hasSource rdf:resource="urn:uuid:ffefe20d-e530-49a1-9f5c-3f6e2188dc15"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:8c3b945f-8f40-4dc5-a413-639f11552b81">
+    <oa:hasBody rdf:resource="urn:uuid:27941fdb-2e25-4537-a4f8-e758410a5f46"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:a591a7ae-3d94-409b-8a0f-02464ca52e2a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:6c959e2c-68ca-43e4-afb2-1d2ed12fb3db">
+    <oa:hasSource rdf:resource="urn:uuid:745a74e2-bd58-4782-807f-3413ebbbe480"/>
+    <oa:hasSelector rdf:resource="urn:uuid:adf96237-7867-4ee9-9f08-0091cd6999c2"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:bb1e50cf-a40a-49ae-b18d-519a0918d136">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>Earp, 145-147.</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:35afee39-68be-489e-8455-e399cb43ad85">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <cnt:chars>&lt;circle fill='rgba(15, 108, 214, 0.6)'  stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' cx='1681.18333599' cy='1486.73006063' r='7' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:d5b4964b-52e0-4eaa-a7c8-557e534ab3bb">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>Avril</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:40637b1e-31c8-485a-b719-4623a06aad98">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>New Annotation on BNF f. fr. 22545 fol. 1 r.</dc:title>
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:bc6be6e9-c8fe-42ac-8a3c-2d78b674fa01">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+    <dc:title>Comparison of MS Pm and F (Comment Nature)</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:8c12b1b1-a85d-4b2c-ab76-903b59ea39f3">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>Earp</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:f3da9380-4083-4712-899c-c22efc441ad1">
+    <oa:exact>Earp</oa:exact>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:4bfa94f1-c442-4b83-9237-3021452665ae">
+    <oa:hasBody rdf:resource="urn:uuid:7a890d7d-16a8-4cc2-8028-071f8256f234"/>
+    <oa:hasTarget rdf:resource="urn:uuid:14c5a711-716c-4fed-a847-44cb924cb14f"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a0f7d53d-c298-4eb8-b5e6-b74a9966433c">
+    <oa:hasTarget rdf:resource="urn:uuid:09db9c68-3433-426f-9a43-94a2013815e1"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:94bf6004-967c-4172-ac8a-61d9fc5cc779"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:75ab4cb6-1e83-465f-8c6c-49f0569b1e36">
+    <oa:exact>Earp</oa:exact>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a591a7ae-3d94-409b-8a0f-02464ca52e2a">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:745a74e2-bd58-4782-807f-3413ebbbe480"/>
+    <oa:hasSelector rdf:resource="urn:uuid:9574317e-1e2c-4a4a-a809-eb0616170d78"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:fec0e434-7dca-49b2-8912-64f3db0160f1">
+    <oa:hasTarget rdf:resource="urn:uuid:a46678b6-d282-4e46-870c-f147d59520d6"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasTarget rdf:resource="urn:uuid:3ee9a5e7-362d-422d-9982-ee503262b90a"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:02bc06f4-b03b-4997-91f9-19b08b0eb88d"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:01345432-b86c-4a2a-ac43-a435071803b5">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>New Annotation on BNF f. fr. 9221 fol. 1 r.</dc:title>
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:3ed3a7de-10f9-4e0a-ac77-061947e3a34b">
+    <cnt:chars>&lt;p&gt;Rubrication:&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;Line 1: Comment nature voulant orendroit plus q(ue) onq(ue)s mais [mes?] reveler et faire exaucier les b(ie)ns et honneurs qui so(n)t en amo(ur)s&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;Line 2: vient a guillaume de machaut . Et liu [li?] ordene et encharge a faire sur ce nouveaux dis amoureux. Et liu [li?] baille po(ur) liu [li?] &lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;Line 3: (con)seillier &amp;amp; adviser [aidier] a ce faire iii [trois] de ses enffa(n)s. cest as(avoir) sens. retoriq(ue). musique. Et lui [li] dist [dit] par ceste maniere.&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;English translation from Palmer:&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;[How Nature, wishing more than ever before to make known and exalted the goods and honors pertaining to Love, comes to Guillaume de Machaut, ordering and charging him herein to compose new poems about love, entrusting to him, for counsel and aid in this enterprise, three of her children, to be specific Meaning, Rhetoric, and Music. And she speaks to him thus:]&lt;/div&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>New Annotation on BNF f. fr. 9221 fol. 1 r.</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:48895b6e-3c6d-4692-a95a-ae02602eeb5a">
+    <oa:exact>Machaut</oa:exact>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:45770ea1-e8aa-4c43-a8f7-111d1887b9b0">
+    <dc:title>Bibliography for MS F</dc:title>
+    <cnt:chars>&lt;div&gt;&lt;span about="urn:uuid:d5b4964b-52e0-4eaa-a7c8-557e534ab3bb" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Avril&lt;/span&gt;, Francoise, “Les Manuscrits Eluminés
+de Guillaume de Machaut.” In &lt;i style="font-style: italic; "&gt;Guillaume de
+Machaut: Po&lt;/i&gt;&lt;i&gt;&lt;span style="font-style: italic; "&gt;è&lt;/span&gt;&lt;span style='font-size:12.0pt;
+font-family:Cambria;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+"?? ??";mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;
+mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
+mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA'&gt;te
+et Compositeur, Colloque-Table Ronde&lt;/span&gt;&lt;/i&gt;&lt;span style="font-size: 12pt; font-family: Cambria; "&gt;, 117-132.
+Paris: Klincksieck, 1982.&lt;/span&gt;&lt;/div&gt;
+
+
+
+&lt;div&gt;&amp;lt;br/&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;span about="urn:uuid:8c12b1b1-a85d-4b2c-ab76-903b59ea39f3" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Earp&lt;/span&gt;, Lawrence. &lt;i style="font-style: italic; "&gt;Guillaume De Machaut: A Guide to Research.&lt;/i&gt; New York: Garland Pub. 1995.&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;span about="urn:uuid:f3da9380-4083-4712-899c-c22efc441ad1" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Earp&lt;/span&gt;, Lawrence. "Machaut's Role in the Production of Manuscripts of His Work." Journal for the American Muscological Society 42.3 (1989): 461-503. &lt;/div&gt;
+&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;span about="urn:uuid:48895b6e-3c6d-4692-a95a-ae02602eeb5a" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Machaut&lt;/span&gt;, Guillaume de. &lt;i style="font-style: italic; "&gt;The Prologue &amp;amp; Four Love Poems&lt;/i&gt;. Kalamazoo, MI: Medieval Institute Publication, 2010. &lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;span about="urn:uuid:bf3c0e06-f74f-4165-b8cb-18309f2bc485" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;McGrady&lt;/span&gt;, Deborah. "Guillaume de Machaut." In &lt;i&gt;The Cambridge Campanion to Medieval French Literature&lt;/i&gt;, edited by Simon Gaunt and Sarah Kay, 109-122. Cambridge: Cambridge University Press, 2008.&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;span about="urn:uuid:8ce76257-c10f-42e9-88c4-451da06cbffc" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Saenger&lt;/span&gt;, Paul. "Reading in the Later Middle Ages." In &lt;i&gt;A History of Reading in the West. &lt;/i&gt;Eds. Guglielmo Cavallo and Roger Chartier, trans. Lydia G. Cochrane (Oxford 1999): 120-31. &lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style="text-indent: -0.25in; "&gt;&lt;br/&gt;&lt;span about="urn:uuid:69caeb5e-bc9e-4f3f-8041-d9625a1edda2" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Wilkens&lt;/span&gt;, Nigel. “A Pattern of Patronage:&lt;/span&gt;&lt;span style="text-indent: -0.25in; "&gt;  &lt;/span&gt;&lt;span style="text-indent: -0.25in; "&gt;Machaut, Froissart and the Houses of
+Luxembourg and Bohemia in the Fourteenth Century.” &lt;/span&gt;&lt;i style="text-indent: -0.25in; "&gt;French studies &lt;/i&gt;&lt;span style="text-indent: -0.25in; "&gt;37
+(1983): 257 – 284 (collab).&lt;/span&gt;&lt;div&gt;&lt;p class="MsoNoSpacing" style="margin-left:.5in;text-indent:-.25in;mso-list:l0 level1 lfo1"&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:5e39931b-fc6c-4c15-9e94-41a528363841">
+    <dc:title>Comparison of MS E and F</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;p&gt;There is a distinct similarity between the content of these two miniatures with the poet represented kneeling before the allegorical figures. There are distinct stylistic differences which illustrate the different hands who are responsable for the work see &lt;span about="urn:uuid:3961f666-8d82-481a-b32b-794bfc69cb68" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Earp&lt;/span&gt; and &lt;span about="urn:uuid:67eeeb26-3ce9-4948-8ee0-c29615d4869d" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Avril&lt;/span&gt; for more information. &lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;Another major difference is that the images in MS F have been divided into five discrete scenes while those in MS F are represented as two halves of one large image at the top of the page. This seems to have been a decision highly informed by codicological characteristics since hace discrete scenes within the three columns of text would require miniature to either interpret the text or sacrifice size and readability. &lt;/div&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:d2f50760-bfc7-4917-b1eb-fac9391ab818">
+    <cnt:chars>&lt;p&gt;Image of the poet before Nature.&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>New Annotation on BNF f. fr. 9221 fol. 1 r.</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:c09ffcf7-3ea5-45a8-a03d-20809e73e3b7">
+    <oa:hasSelector rdf:resource="urn:uuid:a6ab18bd-e061-4d00-972c-0ae1b469223f"/>
+    <oa:hasSource rdf:resource="urn:uuid:02bc06f4-b03b-4997-91f9-19b08b0eb88d"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:e517c1ea-4142-4eda-9cfb-1a5485353e05">
+    <cnt:chars>&lt;p class=""&gt;The largest of these figures is Nature surrounded by Meaning, Rhetoric, and Music. See p.13 text translated by Barton Palmer found on annotation 'texts for the prologue'&lt;/p&gt;&lt;p class=""&gt;&lt;br/&gt;&lt;/p&gt;&lt;p class=""&gt;It is interesting to note the close relationship between image which may give a sense of how the text was read. See &lt;span about="urn:uuid:642f5f07-c609-4d52-aac8-27afdf3dc91e" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Seanger&lt;/span&gt; article for more information. &lt;/p&gt;&lt;p class=""&gt;&lt;br/&gt;&lt;/p&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>Allegorical Figures </dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:b34de9a6-b5c0-4014-8c85-b8b619fa9849">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:4eafc6f0-1f6e-49a1-9a7b-ffcf0853fdcb"/>
+    <oa:hasBody rdf:resource="urn:uuid:714f18f9-267a-4d7d-9ddc-bd2e1d4e0a24"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:3dadb86b-70c2-423e-91d7-a60d23a56151">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:4eafc6f0-1f6e-49a1-9a7b-ffcf0853fdcb"/>
+    <oa:hasBody rdf:resource="urn:uuid:e517c1ea-4142-4eda-9cfb-1a5485353e05"/>
+    <oa:hasTarget rdf:resource="urn:uuid:ffefe20d-e530-49a1-9f5c-3f6e2188dc15"/>
+    <oa:hasTarget rdf:resource="urn:uuid:ead8d4db-9ce6-47e1-868e-ae833f228805"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:3f8fe8cf-bc44-4811-bce0-9c7ecd285571">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:5ec108a0-665a-4f81-b256-70cf3ec4ea41"/>
+    <oa:hasSource rdf:resource="urn:uuid:ff1e1b39-224c-4752-b92c-1e721622e3f0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:e30c8ee7-2435-49a6-98e2-4e66bed30763">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:ba59ebb8-682d-4dee-b9f5-8a8622b5bf47"/>
+    <oa:hasSource rdf:resource="urn:uuid:02bc06f4-b03b-4997-91f9-19b08b0eb88d"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:ffefe20d-e530-49a1-9f5c-3f6e2188dc15">
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3921</exif:height>
+    <rdf:type rdf:resource="http://www.shared-canvas.org/ns/Canvas"/>
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3000</exif:width>
+    <dc:title>BNF f. fr. 22545 fol. 1 r.</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:b3766d65-b60c-4073-af24-4028e6c0d515">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;p&gt;See Lawrence &lt;span about="urn:uuid:75ab4cb6-1e83-465f-8c6c-49f0569b1e36" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Earp&lt;/span&gt;, &lt;i style="font-style: italic; "&gt;Guillaume de Machaut: A Guide to Research&lt;/i&gt;, 90-92. &lt;i style="font-style: italic; "&gt; &lt;/i&gt;&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;MS F, along with MS G, is
+part of a two-volume collection of Machaut's complete works illuminated with
+148 miniatures by Remiet. There are conflicting dates associated with this manuscript.
+Many studies suggest the book was the last manuscript made under Machaut's
+supervision while François Avril place it within the 1390s based on art
+historical evidence. MS F specifically contains the &lt;i&gt;Prologue, Vergier, Jugement Behaigne, Jugement Navarre, Remede, Lyon,
+Alerion, Confort, Fonteinne, Harpe, Voir Dit Marquerite, Rose, &lt;/i&gt;and &lt;i&gt;Vesci les biens. &lt;/i&gt;&lt;/div&gt;</cnt:chars>
+    <dc:title>Notes on MS F</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:4cd2ebc6-714c-4aee-89d6-1febf7b807be">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1332,913 1554,913 1554,1259 1332,1259 1332,913' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:c2fc2ac9-d39e-4d94-8870-127b9d2ec228">
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='785,1059 951,677 1132,1047 1118,1057 785,1059' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:4d502f6a-1b0c-464d-93ea-0f239a9660e3">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:62295ca0-3bc7-4eeb-ab78-267892f4c3ba"/>
+    <oa:hasSource rdf:resource="urn:uuid:5ce1ce04-3d8b-4922-8d3c-6eadd8fdd594"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:93e4aa8c-da84-4b84-a457-93d6d6af5f6e">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:3ee9a5e7-362d-422d-9982-ee503262b90a"/>
+    <oa:hasBody rdf:resource="urn:uuid:3ee9a5e7-362d-422d-9982-ee503262b90a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:09db9c68-3433-426f-9a43-94a2013815e1">
+    <oa:hasSource rdf:resource="urn:uuid:45770ea1-e8aa-4c43-a8f7-111d1887b9b0"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:48895b6e-3c6d-4692-a95a-ae02602eeb5a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:bf3c0e06-f74f-4165-b8cb-18309f2bc485">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>McGrady</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:e495d63f-2f0a-4a21-ad3e-e492223e1451">
+    <oa:hasBody rdf:resource="urn:uuid:0d0a5437-d27d-4d02-981e-48a7e47a6cc3"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:714f18f9-267a-4d7d-9ddc-bd2e1d4e0a24"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:642ad150-3a27-4f19-977e-294d74011852">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:8ce76257-c10f-42e9-88c4-451da06cbffc"/>
+    <oa:hasSource rdf:resource="urn:uuid:45770ea1-e8aa-4c43-a8f7-111d1887b9b0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a46678b6-d282-4e46-870c-f147d59520d6">
+    <dc:title>Comparison of MS A and F (Comment Guillaume)</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;p&gt;These miniatures are very different with MS A representing the scenes in settings associated with the poet, namely the study and the garden. While in MS F the scene takes place against a decorative background. &lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;The representation of the poet is also very different between the the two miniatures. See annotation on 'emphasis on kneeling poet in MS F.'&lt;/div&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:728b1f1c-e215-4967-a800-32faa08b6ef6">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:a46678b6-d282-4e46-870c-f147d59520d6"/>
+    <oa:hasTarget rdf:resource="urn:uuid:a46678b6-d282-4e46-870c-f147d59520d6"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasTarget rdf:resource="urn:uuid:e5487602-dada-44c6-9f1f-004dd8c0c541"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:db4237d6-1e5a-4584-aac1-1928ca9f77d5">
+    <oa:hasBody rdf:resource="urn:uuid:3f8fe8cf-bc44-4811-bce0-9c7ecd285571"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:14c5a711-716c-4fed-a847-44cb924cb14f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:0d38db4a-62cb-4446-83eb-45ddf0df8df1">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;p&gt;Several other manuscripts that correspond to the first miniature on fol. 1v. &lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;i style="font-style: italic; "&gt;Comment Guillaume de Machau respont a Nature... &lt;/i&gt;(&lt;span about="urn:uuid:e40e642f-edc9-49bb-9c70-3a67c84cce68" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Earp, 145-147&lt;/span&gt;.)&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="•	http://gallica.bnf.fr/ark:/12148/btv1b84490444/f15.image" style="text-decoration: underline; "&gt;&lt;span about="urn:uuid:1ea39f5c-b8dd-4ce9-994f-4fd44d2c9485" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;MS.A fol. Dr&lt;/span&gt;&lt;/a&gt;
+&lt;/li&gt;&lt;li&gt;
+
+
+
+MS.
+Pm fol. Fol. 1v (unfortunately no digital copy)&lt;/li&gt;&lt;li&gt;&lt;span about="urn:uuid:f83ba2af-48f9-4e4c-8a01-9adf01f6d120" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;MS. E fol. 1r&lt;/span&gt; (right hand
+scene showing “Comment Amours…”)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</cnt:chars>
+    <dc:title>Corresponding Miniatures for fol. 1 v. </dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:67eeeb26-3ce9-4948-8ee0-c29615d4869d">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>Avril</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:e477ca7e-5d1c-4c99-88b8-bd5621a56d3d">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:a3e7526f-a500-44bd-82e0-b1b4ddcf62d4"/>
+    <oa:hasTarget rdf:resource="urn:uuid:09262b72-633d-4ec8-bb36-22df62964f24"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:f29b3444-4a36-496e-b4b8-60ea958a5b50">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1898,2485 2180,2485 2180,2853 1898,2853 1898,2485' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:d1e4aa29-d99c-4db1-8178-13cb7abcfaa0">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:3a1c8794-75ad-4b99-ac21-34d294f4a6c4"/>
+    <oa:hasBody rdf:resource="urn:uuid:5305c329-d2c9-4931-92da-6c9ca445ce5c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:34d435cd-1b6f-4a2a-8849-575dcb4259d4">
+    <oa:hasBody rdf:resource="http://ada.drew.edu/annotation_store/media/user_images/113419.jpg"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:ffefe20d-e530-49a1-9f5c-3f6e2188dc15"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:745a74e2-bd58-4782-807f-3413ebbbe480">
+    <dc:title>BNF f. fr. 9221 fol. 1 r.</dc:title>
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3000</exif:width>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3902</exif:height>
+    <rdf:type rdf:resource="http://www.shared-canvas.org/ns/Canvas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:866fcc2a-da84-4901-8f97-f844bcf042d7">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:7ffb42bb-30ab-4bb2-8ca0-3518b452ab01"/>
+    <oa:hasSource rdf:resource="urn:uuid:745a74e2-bd58-4782-807f-3413ebbbe480"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:642f5f07-c609-4d52-aac8-27afdf3dc91e">
+    <oa:exact>Seanger</oa:exact>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a3e7526f-a500-44bd-82e0-b1b4ddcf62d4">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:e40e642f-edc9-49bb-9c70-3a67c84cce68"/>
+    <oa:hasSource rdf:resource="urn:uuid:0d38db4a-62cb-4446-83eb-45ddf0df8df1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:f83ba2af-48f9-4e4c-8a01-9adf01f6d120">
+    <oa:exact>MS. E fol. 1r</oa:exact>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:94bf6004-967c-4172-ac8a-61d9fc5cc779">
+    <oa:hasSelector rdf:resource="urn:uuid:366d3a05-708b-4fb5-b7a9-be8ba49b203f"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:ead8d4db-9ce6-47e1-868e-ae833f228805"/>
+    <oa:hasSelector rdf:resource="urn:uuid:690577e1-f580-494f-9251-ee3bfb0eeb8e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:ba59ebb8-682d-4dee-b9f5-8a8622b5bf47">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>Wilkens</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ada.drew.edu/annotation_store/media/user_images/113433.jpg">
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3902</exif:height>
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3000</exif:width>
+    <dc:title>BNF f. fr. 9221 fol. 1 r.</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Image"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:d4a51d0a-6679-4536-a933-44fb27f4c472">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+    <dc:title>Comparison of MS A and F</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:631efa34-d2ee-4398-8f6c-74b0c75ea047">
+    <dc:title>BNF f. fr. 22545 fol. 1 v.</dc:title>
+    <rdf:type rdf:resource="http://www.shared-canvas.org/ns/Canvas"/>
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3000</exif:width>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4012</exif:height>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:3a1c8794-75ad-4b99-ac21-34d294f4a6c4">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;p&gt;Third figure from the left (Sens) wears a large crown that has been partly obfuscated by the dark shade used to color the windows. Perhaps this was a mistake by an over-enthusiastic painter after the gold leaf had already been applied, OR perhaps giving one of Nature's children a larger crown than either her sisters or Nature herself seemed out of keeping with the allegorical hierarchy. Covering the crown may have been intentional, but this would then seem like a waste of gold leaf, but in a very expensive manuscript such as E, it may have been less of a loss.&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;None of these figures seem immediately recognizable apart from the text. Nature wears a sort of matronly hat. Meaning and Rhetoric appear as two young aristocratic women. Music does hold a sort of tambourine. &lt;/div&gt;</cnt:chars>
+    <dc:title>New Annotation on BNF f. fr. 9221 fol. 1 r.</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:ef118e93-914d-4f85-b493-daa204bfe15a">
+    <oa:hasBody rdf:resource="urn:uuid:d6951f1c-73e3-4a00-842b-0208c0f582b3"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:a9c552de-cb89-404d-81f1-0f60c4ada38a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:b2c8e319-253b-4edc-a183-8347785abc9d">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:745a74e2-bd58-4782-807f-3413ebbbe480"/>
+    <oa:hasBody rdf:resource="urn:uuid:07f0c2b3-0b2f-40b6-a899-291c862b57d4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:071c3df0-e754-42c7-97a2-2af9e449b59a">
+    <oa:hasSelector rdf:resource="urn:uuid:3961f666-8d82-481a-b32b-794bfc69cb68"/>
+    <oa:hasSource rdf:resource="urn:uuid:5e39931b-fc6c-4c15-9e94-41a528363841"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:1a3dc95b-dc4a-4865-b8a8-872514180636">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:75ab4cb6-1e83-465f-8c6c-49f0569b1e36"/>
+    <oa:hasSource rdf:resource="urn:uuid:b3766d65-b60c-4073-af24-4028e6c0d515"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:3ece5112-315a-4341-938b-e3f2f432aa41">
+    <oa:hasSource rdf:resource="urn:uuid:e517c1ea-4142-4eda-9cfb-1a5485353e05"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:642f5f07-c609-4d52-aac8-27afdf3dc91e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:1ea39f5c-b8dd-4ce9-994f-4fd44d2c9485">
+    <oa:exact>MS.A fol. Dr</oa:exact>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:d6951f1c-73e3-4a00-842b-0208c0f582b3">
+    <oa:hasSource rdf:resource="urn:uuid:02bc06f4-b03b-4997-91f9-19b08b0eb88d"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:47eb75bb-c525-4597-9234-891fcda76dee"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:69caeb5e-bc9e-4f3f-8041-d9625a1edda2">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>Wilkens</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:9e5ac38c-13db-4ed8-8d4d-3b05d018d3ab">
+    <dc:title>New Annotation on BNF f. fr. 9221 fol. 1 r.</dc:title>
+    <cnt:chars>&lt;p&gt;From left:&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;Love, winged as in depictions of Cupid or of angels and wearing a crown. His wings extend over the figure of Machaut (kneeling) and over his three children, uniting the figures into one grouping.&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;His three children, presumable from left to right, Sweet Thought, Pleasure, and Hope.&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;The architectural space in the right image differs from the left, where Nature appears to Machaut. Here the room has a different ceiling pattern and square rather than arched windows. These windows also appear to have shutters. The shutters on the far-left window appear to be opened. Perhaps the different window format prevented what seems to have occurred in the left image, where the grayish hue used to shade in the windows seems to have obscured the large crown worn by one of the figures (Sense?).&lt;/div&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:9574317e-1e2c-4a4a-a809-eb0616170d78">
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1555,786 2088,786 2088,1276 1555,1276 1555,786' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a44075f6-1f3a-4ccc-a1a5-b34174eeeb5a">
+    <oa:exact>McGrady</oa:exact>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:62158cb5-4540-4484-8e95-b09b5cda15e0">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:69caeb5e-bc9e-4f3f-8041-d9625a1edda2"/>
+    <oa:hasSource rdf:resource="urn:uuid:45770ea1-e8aa-4c43-a8f7-111d1887b9b0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:714f18f9-267a-4d7d-9ddc-bd2e1d4e0a24">
+    <oa:hasSelector rdf:resource="urn:uuid:afd70504-920b-4b78-b369-f71cda9d5702"/>
+    <oa:hasSource rdf:resource="urn:uuid:ffefe20d-e530-49a1-9f5c-3f6e2188dc15"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dm.drew.edu/store/users/uva-5@googlegroups.com">
+    <foaf:mbox rdf:resource="mailto:uva-5@googlegroups.com"/>
+    <perm:hasPermissionOver rdf:resource="urn:uuid:4da573c3-4f9c-4ce0-9452-08f07b7abe22"/>
+    <perm:mayAdminister rdf:resource="urn:uuid:4da573c3-4f9c-4ce0-9452-08f07b7abe22"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    <perm:mayUpdate rdf:resource="urn:uuid:4da573c3-4f9c-4ce0-9452-08f07b7abe22"/>
+    <perm:mayRead rdf:resource="urn:uuid:4da573c3-4f9c-4ce0-9452-08f07b7abe22"/>
+    <perm:mayAugment rdf:resource="urn:uuid:4da573c3-4f9c-4ce0-9452-08f07b7abe22"/>
+    <perm:mayCreateChildrenOf rdf:resource="urn:uuid:4da573c3-4f9c-4ce0-9452-08f07b7abe22"/>
+    <dm:lastOpenProject rdf:resource="urn:uuid:4da573c3-4f9c-4ce0-9452-08f07b7abe22"/>
+    <perm:mayDelete rdf:resource="urn:uuid:4da573c3-4f9c-4ce0-9452-08f07b7abe22"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:2c97cdf2-9549-4658-924c-dd840b970ecd">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:5ce1ce04-3d8b-4922-8d3c-6eadd8fdd594"/>
+    <oa:hasSelector rdf:resource="urn:uuid:bb1e50cf-a40a-49ae-b18d-519a0918d136"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a778c668-cfa9-4f8b-8b90-be2ad856aab3">
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasBody rdf:resource="urn:uuid:9e5ac38c-13db-4ed8-8d4d-3b05d018d3ab"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:a591a7ae-3d94-409b-8a0f-02464ca52e2a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:27941fdb-2e25-4537-a4f8-e758410a5f46">
+    <oa:hasSelector rdf:resource="urn:uuid:5d548202-a8f5-4933-a98e-0902596fbc76"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:745a74e2-bd58-4782-807f-3413ebbbe480"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:aac50ccf-2dde-48d6-bc94-b60465e7305e">
+    <oa:hasBody rdf:resource="http://ada.drew.edu/annotation_store/media/user_images/113433.jpg"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:745a74e2-bd58-4782-807f-3413ebbbe480"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:7a890d7d-16a8-4cc2-8028-071f8256f234">
+    <oa:hasSource rdf:resource="urn:uuid:5e39931b-fc6c-4c15-9e94-41a528363841"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:67eeeb26-3ce9-4948-8ee0-c29615d4869d"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:627f8237-b956-4256-a7c1-d10ab33468cc">
+    <oa:hasTarget rdf:resource="urn:uuid:a591a7ae-3d94-409b-8a0f-02464ca52e2a"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:a591a7ae-3d94-409b-8a0f-02464ca52e2a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:5ec108a0-665a-4f81-b256-70cf3ec4ea41">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>Avril</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:30276041-f777-4bb4-8df7-2ce1e0e5874e">
+    <oa:hasTarget rdf:resource="urn:uuid:e517c1ea-4142-4eda-9cfb-1a5485353e05"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:0d0a5437-d27d-4d02-981e-48a7e47a6cc3"/>
+    <oa:hasTarget rdf:resource="urn:uuid:0d0a5437-d27d-4d02-981e-48a7e47a6cc3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:ac5584b2-90a0-4536-86ff-6d7a1b651e18">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1222,2881 1469,2881 1469,3262 1222,3262 1222,2881' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:e5f29191-12d3-4d68-bf17-13241aa28850">
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1761,2071 1737,1618 2124,1592 2136,2079 2134,2079 1761,2071' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a550d45f-b741-445c-8235-8b39a7b9c47b">
+    <oa:hasTarget rdf:resource="urn:uuid:ecf632fd-d936-4909-8452-11a18de6741f"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasBody rdf:resource="urn:uuid:5e39931b-fc6c-4c15-9e94-41a528363841"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:3ee9a5e7-362d-422d-9982-ee503262b90a">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:ffefe20d-e530-49a1-9f5c-3f6e2188dc15"/>
+    <oa:hasSelector rdf:resource="urn:uuid:e5f29191-12d3-4d68-bf17-13241aa28850"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:88d909c4-816a-4235-8e97-233d9328ffaf">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+    <dc:title>Comparison of MS Pm and F (Comment Guillaume)</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:de678479-d31f-43bc-986c-f4058fd26ada">
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='676,2751 1212,2751 1212,3297 676,3297 676,2751' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:56cf2563-9bed-4283-9fbc-a3d813662bb0">
+    <oa:hasTarget rdf:resource="urn:uuid:bf18e837-37a2-4460-a169-c8df335879d6"/>
+    <oa:hasBody rdf:resource="urn:uuid:222be6bf-32f5-4aa7-8550-0fd2db96fe9b"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:7f985562-2b18-4118-849c-84ddec2c2ed8">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>New Annotation on BNF f. fr. 9221 fol. 1 r.</dc:title>
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:ead8d4db-9ce6-47e1-868e-ae833f228805">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>Texts for the Prologue</dc:title>
+    <cnt:chars>&lt;p&gt;Fols. 1r-3r are composed of &lt;span about="urn:uuid:366d3a05-708b-4fb5-b7a9-be8ba49b203f" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Machaut's&lt;/span&gt; &lt;span about="urn:uuid:690577e1-f580-494f-9251-ee3bfb0eeb8e" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;&lt;a href="https://collab.itc.virginia.edu/access/content/group/658f937f-3041-433a-86c3-c9394b36163d/Machaut%20Texts/Machautvolume1.pdf"&gt;Prologue&lt;/a&gt;.&lt;/span&gt; Additionally a transcription of fol. &lt;a href="http://t-pen.org/TPEN/transcription.jsp?p=1713377&amp;amp;projectID=2239"&gt;1r&lt;/a&gt; and &lt;a href="http://t-pen.org/TPEN/transcription.jsp?p=1713376&amp;amp;projectID=2239"&gt;1v&lt;/a&gt; are available on T-Pen. &lt;/p&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:9f52ccf5-1f87-4234-a1e1-9a88777e6b81">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasTarget rdf:resource="urn:uuid:bc6c8d58-51ed-4222-aaed-f241a7b1285f"/>
+    <oa:hasBody rdf:resource="urn:uuid:ff1e1b39-224c-4752-b92c-1e721622e3f0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ada.drew.edu/annotation_store/media/user_images/113419.jpg">
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3921</exif:height>
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3000</exif:width>
+    <dc:title>BNF f. fr. 22545 fol. 1 r.</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Image"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:34e9a65d-da10-4d57-862f-699c9a64f69c">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:1a3dc95b-dc4a-4865-b8a8-872514180636"/>
+    <oa:hasTarget rdf:resource="urn:uuid:09262b72-633d-4ec8-bb36-22df62964f24"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:6cb6eda5-8736-4b98-b505-c5c9979eccf7">
+    <oa:exact>MS. E fol. 1r</oa:exact>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a3c87682-7fac-439b-b616-5e617217f453">
+    <oa:hasBody rdf:resource="urn:uuid:3a1c8794-75ad-4b99-ac21-34d294f4a6c4"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasTarget rdf:resource="urn:uuid:4eafc6f0-1f6e-49a1-9a7b-ffcf0853fdcb"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:adf96237-7867-4ee9-9f08-0091cd6999c2">
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='413,1261 2203,1261 2203,1419 413,1419 413,1261' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:47eb75bb-c525-4597-9234-891fcda76dee">
+    <oa:exact>MS E 83r</oa:exact>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:fe2511dc-d1d8-45e9-a261-8e7c2fefff91">
+    <oa:hasBody rdf:resource="urn:uuid:e30c8ee7-2435-49a6-98e2-4e66bed30763"/>
+    <oa:hasTarget rdf:resource="urn:uuid:62158cb5-4540-4484-8e95-b09b5cda15e0"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:95b2857e-5469-449a-85c9-0831bea17b0f">
+    <oa:hasTarget rdf:resource="urn:uuid:6267dcae-69d1-46e7-b949-c3c690ccecc2"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:c09ffcf7-3ea5-45a8-a03d-20809e73e3b7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:b1606700-b846-4019-85be-a78a5ba6388a">
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1174,608 1465,608 1465,1070 1174,1070 1174,608' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:fbc8ce7f-b410-4a45-9c27-5e470110e126">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:745a74e2-bd58-4782-807f-3413ebbbe480"/>
+    <oa:hasBody rdf:resource="urn:uuid:ecf632fd-d936-4909-8452-11a18de6741f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:56af6b20-806e-4a5a-a108-e1f22a3d7250">
+    <oa:hasTarget rdf:resource="urn:uuid:07f0c2b3-0b2f-40b6-a899-291c862b57d4"/>
+    <oa:hasBody rdf:resource="urn:uuid:4da0b4c8-c33d-4672-9bc9-748a168ae124"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:36f68f20-9de0-4d8a-add5-bc1b65c6318c">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:4d502f6a-1b0c-464d-93ea-0f239a9660e3"/>
+    <oa:hasBody rdf:resource="urn:uuid:bc6be6e9-c8fe-42ac-8a3c-2d78b674fa01"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:ecf632fd-d936-4909-8452-11a18de6741f">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:f83ba2af-48f9-4e4c-8a01-9adf01f6d120"/>
+    <oa:hasSource rdf:resource="urn:uuid:0d38db4a-62cb-4446-83eb-45ddf0df8df1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a61e069b-898c-4821-ab65-df84d0469b45">
+    <oa:hasBody rdf:resource="urn:uuid:94bf6004-967c-4172-ac8a-61d9fc5cc779"/>
+    <oa:hasTarget rdf:resource="urn:uuid:38433947-24c5-4587-bcc5-c232057a3482"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:0d0a5437-d27d-4d02-981e-48a7e47a6cc3">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:631efa34-d2ee-4398-8f6c-74b0c75ea047"/>
+    <oa:hasSelector rdf:resource="urn:uuid:b1606700-b846-4019-85be-a78a5ba6388a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:bb3c2de0-14e1-4fd7-bb9d-ba8982e98036">
+    <oa:hasSelector rdf:resource="urn:uuid:a44075f6-1f3a-4ccc-a1a5-b34174eeeb5a"/>
+    <oa:hasSource rdf:resource="urn:uuid:02bc06f4-b03b-4997-91f9-19b08b0eb88d"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:c5cc286c-152c-4359-9ed0-03369ea20e58">
+    <oa:hasTarget rdf:resource="urn:uuid:642ad150-3a27-4f19-977e-294d74011852"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:3ece5112-315a-4341-938b-e3f2f432aa41"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:690577e1-f580-494f-9251-ee3bfb0eeb8e">
+    <oa:exact>Prologue.</oa:exact>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:2d28d9db-3d1b-4025-a967-cb9869e57d8f">
+    <oa:hasTarget rdf:resource="urn:uuid:0d0a5437-d27d-4d02-981e-48a7e47a6cc3"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:8bf3382e-6fca-463e-b472-dcc1905e42a4"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:9f1793e0-e239-497e-8af7-ea48a18a23a0">
+    <oa:hasTarget rdf:resource="urn:uuid:0d0a5437-d27d-4d02-981e-48a7e47a6cc3"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasBody rdf:resource="urn:uuid:dbb4c4e6-f713-467a-a914-8caf2a68eaee"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a02a4ec5-af89-4823-8abe-840cfc6fd84e">
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='555,819 1008,819 1008,1249 555,1249 555,819' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:668ea97b-2e9b-44f2-a760-40bf478400ae">
+    <oa:hasBody rdf:resource="urn:uuid:94f0ee57-41ca-44b9-a036-ce0806241aa2"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:a591a7ae-3d94-409b-8a0f-02464ca52e2a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:14c5a711-716c-4fed-a847-44cb924cb14f">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:d5b4964b-52e0-4eaa-a7c8-557e534ab3bb"/>
+    <oa:hasSource rdf:resource="urn:uuid:45770ea1-e8aa-4c43-a8f7-111d1887b9b0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:6ee425e3-46df-4f52-babc-25a461013242">
+    <oa:hasSource rdf:resource="urn:uuid:5ce1ce04-3d8b-4922-8d3c-6eadd8fdd594"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:40efbf03-e677-48c2-aa07-ef6205170396"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:1221eb3c-752a-4fac-85ad-8a207af10123">
+    <dc:title>New Annotation on BNF f. fr. 22545 fol. 1 r.</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:5d548202-a8f5-4933-a98e-0902596fbc76">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1032,2031 1639,2031 1639,2202 1032,2202 1032,2031' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:db273326-81c2-4b11-b275-c8a62c751ea3">
+    <oa:hasSelector rdf:resource="urn:uuid:ac5584b2-90a0-4536-86ff-6d7a1b651e18"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:631efa34-d2ee-4398-8f6c-74b0c75ea047"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:095da39a-56b5-47c4-8bd2-2cdeb2d36e92">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:94f0ee57-41ca-44b9-a036-ce0806241aa2"/>
+    <oa:hasTarget rdf:resource="urn:uuid:92e12b18-c704-41e2-9919-cc86a127498c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a9419b21-c883-43f7-885c-3b37ab3fad38">
+    <oa:hasSelector rdf:resource="urn:uuid:bf3c0e06-f74f-4165-b8cb-18309f2bc485"/>
+    <oa:hasSource rdf:resource="urn:uuid:45770ea1-e8aa-4c43-a8f7-111d1887b9b0"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:4eafc6f0-1f6e-49a1-9a7b-ffcf0853fdcb">
+    <oa:hasSelector rdf:resource="urn:uuid:a02a4ec5-af89-4823-8abe-840cfc6fd84e"/>
+    <oa:hasSource rdf:resource="urn:uuid:745a74e2-bd58-4782-807f-3413ebbbe480"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:cnt="http://www.w3.org/2011/content#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:dm="http://dm.drew.edu/ns/"
+   xmlns:exif="http://www.w3.org/2003/12/exif/ns#"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:oa="http://www.w3.org/ns/oa#"
+   xmlns:ore="http://www.openarchives.org/ore/terms/"
+   xmlns:perm="http://vocab.ox.ac.uk/perm#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="urn:uuid:5e3b85b4-a526-46b9-9070-118ec26f2208">
+    <oa:hasTarget rdf:resource="urn:uuid:f6fd21a7-e261-4bf9-b93e-b38bc9f9dcb1"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasBody rdf:resource="urn:uuid:3b82424c-8207-4bb4-9c9b-6f9aa176b489"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:b1ad8e88-572c-4714-a4b7-75eb690e5529">
+    <oa:hasSource rdf:resource="urn:uuid:62c7e21b-d61d-4ed0-ab87-61713455dfc9"/>
+    <oa:hasSelector rdf:resource="urn:uuid:899741b0-13f6-4d6a-93f9-5f30d597d510"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:1ff18577-2eb4-4664-b1db-f71b43b81a1f">
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>Description of folio 83 r. in BNF f. fr. 9221</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a4d00ee2-b387-4e99-9835-fe073ccacdce">
+    <oa:hasTarget rdf:resource="urn:uuid:7ed139c1-3748-4b2b-bd94-cfd68cc136b4"/>
+    <oa:hasTarget rdf:resource="urn:uuid:97724f39-e19d-44d6-85a5-529b2f7cfa14"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:6ba9da68-1831-4905-bca2-e52fdedfffae"/>
+    <oa:hasBody rdf:resource="urn:uuid:03e758ef-1b14-454a-b5c3-e5f6d29f54c5"/>
+    <oa:hasTarget rdf:resource="urn:uuid:37dc415d-5e74-44d6-ac9f-6b55343316fd"/>
+    <oa:hasTarget rdf:resource="urn:uuid:59acfdb2-c3d0-4120-aed9-8b5ae9233f98"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:37dc415d-5e74-44d6-ac9f-6b55343316fd">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>Description of text on 83r MS E</dc:title>
+    <cnt:chars>&lt;p&gt;The first line of text below the miniature is rubricated and introduces the work that follows: "Cy comance le livre morpheus." &lt;br/&gt;&lt;br/&gt;The first line of the text begins with a decorated initial, three lines tall. The other two decorated initials on this page introduce the lines "Or te diray que tu feras" and "Or vueil comancier ma matiere," lines which seem to introduce significant transitions from the preceding text. &lt;br/&gt;&lt;br/&gt;The first letter of each line of text on this page is slightly separate from the text that follows. Each line of text ends with a &lt;i style="font-style: italic; "&gt;punctus&lt;/i&gt;, which is common throughout MS E but does not appear in other manuscripts (e.g. MS F). Later medieval developments in punctuation show a continued use of &lt;i style="font-style: italic; "&gt;positurae&lt;/i&gt;, although "[n]on-liturgical manuscripts, including vernacular manuscripts, tended to be punctuated less sedulously"  (Clemens 86). Clemens and Graham also suggest that "[i]n late medieval manuscripts it is often advisable to ascertain the 
+value of the punctuation marks by reading the text rather than to 
+approach the text with a preconceived idea of the value of these marks" (Clemens 86). Given the pattern of punctuation in MS E, the&lt;i&gt; &lt;/i&gt;repeated &lt;i&gt;punctus&lt;/i&gt; would seem to have a greater stylistic than syntactic significance. The repeated &lt;i&gt;punctus&lt;/i&gt; might also suggest the increased care of the scribe in copying the text in this manuscript, while at the same time revealing his human hand with the occasional omission of &lt;i&gt;puntus&lt;/i&gt;, such as at the end of line 8 in the third column of 83r.&lt;br/&gt;&lt;br/&gt;-Clemens, Raymond and
+Timothy Graham. &lt;i style="font-style: italic; "&gt;Introduction to
+Manuscript Studies &lt;/i&gt;(Cornell University Press, 2007).&lt;/p&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:fe370b3c-da7e-4970-8312-b6591969cea0">
+    <oa:hasTarget rdf:resource="urn:uuid:b25c1896-90f9-4286-83f3-934357c4702d"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:6ba9da68-1831-4905-bca2-e52fdedfffae"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:5334715f-a4af-4e57-bfd4-63a9f06ac5a5">
+    <oa:hasSelector rdf:resource="urn:uuid:dd90e734-e199-498e-b8ce-1da2cd15fcf3"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:62c7e21b-d61d-4ed0-ab87-61713455dfc9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:dd90e734-e199-498e-b8ce-1da2cd15fcf3">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <cnt:chars>&lt;circle fill='rgba(15, 108, 214, 0.6)'  stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' cx='505.940075536' cy='3062.87794435' r='7' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:17808f2c-7abb-46df-af93-4c5eed304142">
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>Untitled text document</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:42102169-b87c-4640-8675-9337ce3cfef1">
+    <dc:title>New Annotation on BNF f. fr. 9221 fol. 83 r.</dc:title>
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:ff94cf5e-77ab-4c8f-8f8d-0dbc04a1a47c">
+    <oa:hasBody rdf:resource="urn:uuid:bc3f93f5-0ecd-4cdc-9651-955282a24fbc"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasTarget rdf:resource="urn:uuid:ef2fb17e-d09a-4b15-b97f-32388845eaee"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:0c6ef44c-3231-44f6-a0ba-80bf38a4a8a3">
+    <dc:title>Title MS F</dc:title>
+    <cnt:chars>&lt;p&gt;While in MS E, the title is "le livre Morpheus," we find the more common title of "le dit de la fonteinne amoureuse."  We find that same title in &lt;a href="http://www.diamm.ac.uk/jsp/AnnotationManager?imageKey=25356"&gt;Vg&lt;/a&gt; while in &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b84490444/f329.image"&gt;A&lt;/a&gt;, the title is "le livre de la fonteinne amoureuse."&lt;br/&gt;&lt;br/&gt;In &lt;a href="http://books.google.com/ebooks/reader?id=_3BCAAAAYAAJ&amp;amp;printsec=frontcover&amp;amp;output=reader&amp;amp;pg=GBS.PR30"&gt;Le voir dit&lt;/a&gt; of the same author, Machaut references both titles:&lt;br/&gt;&lt;br/&gt;"A ce voyage se rapporte le dit de Mopheus ou de la Fontaine amoureuse..." (Machaut 300)&lt;br/&gt;&lt;/p&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:6caf9af4-4403-4959-b6dd-c90eeb7597ff">
+    <oa:hasSelector rdf:resource="urn:uuid:14ac6da3-a3d7-404f-baa2-9c2aa17c7dcb"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:62c7e21b-d61d-4ed0-ab87-61713455dfc9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:cd224a21-076a-465b-bae1-9925c9afa7c9">
+    <oa:hasTarget rdf:resource="urn:uuid:7a98c7f2-ac50-47f5-a128-69c4c46af712"/>
+    <oa:hasBody rdf:resource="urn:uuid:0c6ef44c-3231-44f6-a0ba-80bf38a4a8a3"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasTarget rdf:resource="urn:uuid:09e4f5bc-151d-43b3-a0fd-b6cbf123a38b"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:7ed139c1-3748-4b2b-bd94-cfd68cc136b4">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:0944183a-466f-4da3-9d21-cb646040d0b1"/>
+    <oa:hasSource rdf:resource="urn:uuid:62c7e21b-d61d-4ed0-ab87-61713455dfc9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:899d26c0-0814-4b8e-8a19-2ebd395cbe72">
+    <dc:title>Description of folio 83r in MS E</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;p&gt;This parchment folio measures 40.3 X 30 cm. There are three columns of text in formal bookhand, three decorated initials, and one miniature. Hair follicles are not visible on the recto or verso, and in these digital representations, neither side appears conclusively darker or shinier than the other, which makes it difficult to determine whether 83r is hair-side or skin-side. Horizontal and vertical ruling is visible on the page. Rubricated foliation in the upper right corner (xx / iiii. iii). A dark circular spot in the upper left corner of the page, just above the miniature, appears on the verso and on the following folio, suggesting possible damage to the skin or a stain on the parchment.&lt;br/&gt;&lt;br/&gt;This is the first page of "Le Livre Morpheus" (or "Le Livre de la Fonteinne Amoureuse"), contained between 83r-91r. In MS E,"Le Livre Morpheus" is preceded by "Dit des .iiii. Oysiaulx" (or "Alerion") and is followed by "Confort" (Earp 94).&lt;br/&gt;&lt;br/&gt;-Earp,
+Lawrence. &lt;i style="font-style: italic; "&gt;Guillaume de Machaut : A
+Guide to Research &lt;/i&gt;(Garland, 1995)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:18b7f0ab-8774-47c0-baf1-9654f7e2097a">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:f6fd21a7-e261-4bf9-b93e-b38bc9f9dcb1"/>
+    <oa:hasBody rdf:resource="urn:uuid:46aa256b-923d-4bd7-8512-d4d478035abe"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:8e8d33e6-375a-4dd2-8832-0ae231f92c5a">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:899d26c0-0814-4b8e-8a19-2ebd395cbe72"/>
+    <oa:hasTarget rdf:resource="urn:uuid:09e4f5bc-151d-43b3-a0fd-b6cbf123a38b"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasBody rdf:resource="urn:uuid:899d26c0-0814-4b8e-8a19-2ebd395cbe72"/>
+    <oa:hasTarget rdf:resource="urn:uuid:3b82424c-8207-4bb4-9c9b-6f9aa176b489"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:8b6bf74a-2b13-49fb-a639-b5decd71818d">
+    <oa:hasBody rdf:resource="urn:uuid:da8ac75c-e73b-4212-bf1e-1717335bb96b"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:a2b7bfa4-4e17-429a-b524-1522035a8da4"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:97bbe3de-2387-408f-b51d-3a0720a57ca7">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:796e848b-edcd-44f7-bdb9-e5edf201626a"/>
+    <oa:hasTarget rdf:resource="urn:uuid:09e4f5bc-151d-43b3-a0fd-b6cbf123a38b"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:eb480bae-65d7-4843-85be-bdba2845de7c">
+    <oa:hasBody rdf:resource="urn:uuid:575f6697-151a-4754-88e6-dffbe6f18776"/>
+    <oa:hasTarget rdf:resource="urn:uuid:62c7e21b-d61d-4ed0-ab87-61713455dfc9"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:796e848b-edcd-44f7-bdb9-e5edf201626a">
+    <oa:hasSelector rdf:resource="urn:uuid:2a7fbfa4-51b8-4cac-9d76-644b19c5f083"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:62c7e21b-d61d-4ed0-ab87-61713455dfc9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:9e90864f-1ee3-41a1-a354-d877d192627c">
+    <oa:hasBody rdf:resource="urn:uuid:f1bed138-ac8f-4d88-8fa5-cdb89f646cbb"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:5334715f-a4af-4e57-bfd4-63a9f06ac5a5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:0944183a-466f-4da3-9d21-cb646040d0b1">
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <cnt:chars>&lt;polyline fill='none' stroke='rgba(3, 75, 158, 0.7)' stroke-width='6' points='282,3426 253,244 272,244' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:d5e662c4-44a5-4e2e-8300-8782319a8f48">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;p&gt;"Some scholars had associated the copying of E with a pay document of 1371 from the duke of Berry to Machaut...On art historical grounds, dated ca. 1390...MS B served as the exemplar for about half of the music...The musical notation shows signs of later fourteenth-century practice...The inclusion of voice parts not found in the central Machaut manuscripts also points to a later date, out of the purview of the author" (Earp 93).&lt;br/&gt;&lt;br/&gt;"MS E appears in the 1402 inventory of the library of the duke of Berry...The manuscript appears in later inventories of the library of the dukes of Burgundy, beginning with the Bruges inventory of ca. 1467, and is catalogued at Brussels from 1487 until 1731" (Earp 93).&lt;br/&gt;&lt;br/&gt;"Caylus...used MS E in 1747 for his description of the works of Machaut, implying that E was already in Paris by that date and not among the Belgian manuscripts taken to Paris by the French in 1794-96...Some Belgian manuscripts taken in 1746 were returned in 1770--perhaps E was among these" (Earp 93). &lt;br/&gt;&lt;br/&gt;-Earp,
+Lawrence. &lt;i style="font-style: italic; "&gt;Guillaume de Machaut : A
+Guide to Research &lt;/i&gt;(Garland, 1995)&lt;br/&gt;&lt;/p&gt;</cnt:chars>
+    <dc:title>Date and provenance of MS E</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:ecff1983-ef41-48b8-b7a1-36c8ef6974e0">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='396,1075 954,1075 954,1623 396,1623 396,1075' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:37922b5d-231c-4aea-96c3-63354e0720f8">
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1563,979 1556,991 1688,981 1803,981 1852,1043 1837,1153 1771,1209 1632,1207 1575,1214 1578,1087 1563,979' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:812f3e56-a584-49ef-a186-7f6d74635ee3">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>New Annotation on BNF f. fr. 22545 fol. 119 v.</dc:title>
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:ab200745-ffd4-4b7b-a2d0-65ab71585c4f">
+    <oa:hasBody rdf:resource="urn:uuid:f1c48382-91bd-4877-a3a3-8336d1bcec7f"/>
+    <oa:hasTarget rdf:resource="urn:uuid:b1ad8e88-572c-4714-a4b7-75eb690e5529"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:6399cff4-e07d-483e-8df7-e15626d6b879">
+    <dc:title>Translation of BNF f. fr. 22545 fol. 119 v.</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;p&gt;This translation is from R. Barton Palmer's transcription and translation of Machaut's&lt;i style="font-style: italic; "&gt; Prologue and Four Love Poems.&lt;/i&gt; 
+ He uses, however, MS A as the basis for his edition and this 
+transcription may not be entirely faithful to MS F.  It remains a good 
+point of departure (Palmer 34-37).&lt;br/&gt;&lt;br/&gt;To delight and entertain myself,&lt;br/&gt;And to bind my thoughts&lt;br/&gt;In the faithful loving which binds me&lt;br/&gt;In its bonds (and these never tire me,&lt;br/&gt;For I would never weary&lt;br/&gt;Of being there nor say “alas”)&lt;br/&gt;I intend to begin with a cheerful manner,&lt;br/&gt;And in the honor of my pretty lady,&lt;br/&gt;Something which will be cheerfully&lt;br/&gt;Received, as well as joyfully&lt;br/&gt;Composed from happy feelings&lt;br/&gt;By that true heart which is hers.&lt;br/&gt;Now I ask those about to read&lt;br/&gt;To separate the good from the mediocre,&lt;br/&gt;If there’s any, to please as they read&lt;br/&gt;Forget the bad and choose the good.&lt;br/&gt;For when something is well chosen,&lt;br/&gt;A man with reason delights more therein,&lt;br/&gt;And ladies and the man who read this&lt;br/&gt;Should there discover greater joy,&lt;br/&gt;And may he who reads it&lt;br/&gt;Be numbered among the chosen few.&lt;br/&gt;But I don’t intend including anything ugly,&lt;br/&gt;For when there’s thunder and nasty weather&lt;br/&gt;The air is black, obscure, and unpleasant,&lt;br/&gt;But this is much sweeter than milk&lt;br/&gt;Compared to scandal, by St. Helen!&lt;br/&gt;And so my purpose is to renounce&lt;br/&gt;All things immoral, putting them aside.&lt;br/&gt;And I will begin without delay&lt;br/&gt;After I have quickly named&lt;br/&gt;The man for whom I’m making this book,&lt;br/&gt;And myself as well, for doubtless&lt;br/&gt;I have no excuse to be remiss,&lt;br/&gt;Being constrained and held thereto,&lt;br/&gt;Obliged much more than anyone else&lt;br/&gt;Because refined love commands me&lt;br/&gt;And delight wishes I see to it.&lt;br/&gt;And delight never at all desires&lt;br/&gt;Anything too frivolous.&lt;br/&gt;&lt;/p&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:b25c1896-90f9-4286-83f3-934357c4702d">
+    <oa:hasSource rdf:resource="urn:uuid:62c7e21b-d61d-4ed0-ab87-61713455dfc9"/>
+    <oa:hasSelector rdf:resource="urn:uuid:331c8370-41d6-45ac-94b0-3f73c0f0c3bc"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:04ef0ec9-0f4b-4d2e-802b-45a1eea9b7ce">
+    <dcterms:description>Created from the contents of your old DM workspace</dcterms:description>
+    <ore:aggregates rdf:resource="urn:uuid:37dc415d-5e74-44d6-ac9f-6b55343316fd"/>
+    <ore:aggregates rdf:resource="urn:uuid:e1983fea-08bd-43a5-b609-a78c9482f6fb"/>
+    <rdf:type rdf:resource="http://dm.drew.edu/ns/Project"/>
+    <ore:aggregates rdf:resource="urn:uuid:17808f2c-7abb-46df-af93-4c5eed304142"/>
+    <ore:aggregates rdf:resource="urn:uuid:b7278962-9094-4d54-a2a6-f5eb9087d707"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Project"/>
+    <ore:aggregates rdf:resource="urn:uuid:b308ace5-1ba1-4e0f-a747-d2290fe76bd7"/>
+    <dc:title>Imported Project</dc:title>
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/Aggregation"/>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+    <ore:aggregates rdf:resource="urn:uuid:9bb424aa-94a5-413a-bb63-5cfcad797572"/>
+    <ore:aggregates rdf:resource="urn:uuid:575f6697-151a-4754-88e6-dffbe6f18776"/>
+    <ore:aggregates rdf:resource="urn:uuid:62c7e21b-d61d-4ed0-ab87-61713455dfc9"/>
+    <ore:aggregates rdf:resource="urn:uuid:09e4f5bc-151d-43b3-a0fd-b6cbf123a38b"/>
+    <ore:aggregates rdf:resource="urn:uuid:d5e662c4-44a5-4e2e-8300-8782319a8f48"/>
+    <ore:aggregates rdf:resource="urn:uuid:6399cff4-e07d-483e-8df7-e15626d6b879"/>
+    <ore:aggregates rdf:resource="urn:uuid:a15fa529-1dbc-44f8-9ad1-4820886618b1"/>
+    <ore:aggregates rdf:resource="urn:uuid:f1bed138-ac8f-4d88-8fa5-cdb89f646cbb"/>
+    <ore:aggregates rdf:resource="urn:uuid:58ec161a-1913-49f3-bf1b-02d68c559627"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:09e4f5bc-151d-43b3-a0fd-b6cbf123a38b">
+    <dc:title>BNF f. fr. 9221 fol. 83 r.</dc:title>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3885</exif:height>
+    <rdf:type rdf:resource="http://www.shared-canvas.org/ns/Canvas"/>
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3000</exif:width>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a7285662-e75c-44ae-b9de-66e02815d11e">
+    <oa:hasTarget rdf:resource="urn:uuid:62c7e21b-d61d-4ed0-ab87-61713455dfc9"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="http://ada.drew.edu/annotation_store/media/user_images/112453.jpg"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:9bb424aa-94a5-413a-bb63-5cfcad797572">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>Provenance of MS F</dc:title>
+    <cnt:chars>&lt;p class=""&gt;A dating ca. 1390 was proposed in Rive 1780.  Most later studies, on the basis of the
+contents of the manuscript, have placed F-G within Machaut’s lifetime as the
+last of the manuscripts prepared under the supervision of the author […].  On art historical grounds, however, Avril
+(1928a, 129) has again placed it in the 1390s.  &lt;/p&gt;
+&lt;p class=""&gt; &lt;/p&gt;
+&lt;p class=""&gt;The original owner is unknown, but the many representations
+of a coat of arms in several miniatures may identify the original owner, a
+member of the upper middle class and not a member of the aristocracy.&lt;/p&gt;
+&lt;p class=""&gt; &lt;/p&gt;
+&lt;p class=""&gt;First rediscovered by the abbé Lebeuf in a Carmelite library ca. 1735.&lt;/p&gt;&lt;p class=""&gt;&lt;br/&gt;&lt;/p&gt;&lt;p class=""&gt;(Earp 91).&lt;/p&gt;&lt;p class=""&gt;&lt;br/&gt;&lt;/p&gt;&lt;p class=""&gt;Avril indicates that “[o]n ne connaît
+pas le premier possesseur de ce manuscrit, mais ce problème d’origine pourrait
+bien un jour être élucidé lorsqu’on aura identifié les armoires qui ont été
+peintes à plusieurs reprises dans les miniatures, et même utilisées comme fond
+décoratif" (Avril 129).&lt;/p&gt;&lt;p class=""&gt;&lt;br/&gt;&lt;/p&gt;&lt;p class=""&gt;&lt;br/&gt;&lt;/p&gt;&lt;p class=""&gt;We find more varied backgrounds on a later &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b60007997/f252.image"&gt;folio&lt;/a&gt;, 122 v.&lt;br/&gt;&lt;/p&gt;&lt;p class=""&gt;&lt;br/&gt;
+&lt;/p&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:58ec161a-1913-49f3-bf1b-02d68c559627">
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>Untitled text document</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:6ba9da68-1831-4905-bca2-e52fdedfffae">
+    <cnt:chars>&lt;p class=""&gt;As Earp indicates, decorated intials other than the ones which begin a new poem are two lines tall, alternating solid red with
+black filigree and solid blue with red filigree.  Here, the decorated letter in the title is solid blue with red filigree, two lines tall.&lt;br/&gt;&lt;/p&gt;</cnt:chars>
+    <dc:title>Decorated letter in title, MS F</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:331c8370-41d6-45ac-94b0-3f73c0f0c3bc">
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='527,3184 605,3175 685,3178 685,3294 640,3323 546,3336 524,3246 527,3236 527,3184' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:14ac6da3-a3d7-404f-baa2-9c2aa17c7dcb">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1673,3234 2346,3234 2346,3273 1673,3273 1673,3234' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:5eeb4eb4-0eb9-4c7e-a3e6-ca05dbdc536d">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='560,3154 1263,3154 1263,3316 560,3316 560,3154' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:f1c48382-91bd-4877-a3a3-8336d1bcec7f">
+    <cnt:chars>&lt;p class=""&gt;Francois Avril dicusses the date of the miniatures
+in MS F and identifies the illuminator as Perrin Remiet: 
+&lt;/p&gt;&lt;p class=""&gt;&lt;br/&gt;
+« [U]n artiste sans grande originalité et plutôt retardataire utilisant en
+la dernière décennie du XIVe siècle les formules désuètes en suage sous le
+règne de Charles V.  Cet artiste […] se
+caractérise par son dessin sec et ses figures peu modelées, presque
+plates.  Il utilise pour les fonds de ses
+manuscrits le répertoire ornemental traditionnel à Paris depuis les années
+1330-1340 : ses fonds de couleurs variées sont le plus souvent quadrillés
+de files dorés entrecroisés, ou parcourus de rinceaux dorés filiformes " (Avril 130).&lt;/p&gt;&lt;p class=""&gt;&lt;br/&gt;&lt;/p&gt;&lt;p class=""&gt;&lt;font size="4"&gt;François
+Avril, “Les Manuscrits enluminés de Guillaume de Machaut” &lt;i&gt;&lt;span lang="FR" style="font-style: italic; "&gt;Guillaume
+de Machaut: Poète et compositeur. &lt;/span&gt;&lt;span style='line-height: 115%; font-family: "Calibri","sans-serif";'&gt;Actes
+et colloques. Reims (19-22 avril 1978)&lt;/span&gt;&lt;/i&gt;&lt;/font&gt;&lt;span style='font-size: 11pt; line-height: 115%; font-family: "Calibri","sans-serif";'&gt;&lt;font size="4"&gt;
+(Éditions Klincksieck, 1982), pp. 117 – 133.&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=""&gt;&lt;br/&gt;&lt;span style='font-size: 11pt; line-height: 115%; font-family: "Calibri","sans-serif";'&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=""&gt;&lt;br/&gt;&lt;span style='font-size: 11pt; line-height: 115%; font-family: "Calibri","sans-serif";'&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=""&gt;&lt;span style='font-size: 11pt; line-height: 115%; font-family: "Calibri","sans-serif";'&gt;&lt;font size="4"&gt;In this image, we find a blue background with the "&lt;/font&gt;&lt;/span&gt;&lt;font size="4"&gt;rinceaux dorés filiformes."  Three trees are painted behinf the poet and the fountain.  There is a red uppercase "C" on the far right side of the miniature--I am unsure what this may signify.&lt;/font&gt;&lt;/p&gt;&lt;p class=""&gt;&lt;br/&gt;&lt;/p&gt;&lt;p class=""&gt;&lt;font size="4"&gt;&lt;br/&gt;&lt;/font&gt; &lt;/p&gt;</cnt:chars>
+    <dc:title>Miniature decription MS F</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:53dc1b9e-bef8-41ff-91e3-57547ed3e6c4">
+    <oa:hasTarget rdf:resource="urn:uuid:09e4f5bc-151d-43b3-a0fd-b6cbf123a38b"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:d5e662c4-44a5-4e2e-8300-8782319a8f48"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:3a1486c0-e042-4924-98a0-4c41d4ceb38e">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="http://ada.drew.edu/annotation_store/media/user_images/112460.jpg"/>
+    <oa:hasTarget rdf:resource="urn:uuid:09e4f5bc-151d-43b3-a0fd-b6cbf123a38b"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ada.drew.edu/annotation_store/media/user_images/112453.jpg">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Image"/>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3883</exif:height>
+    <dc:title>BNF f. fr. 22545</dc:title>
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3000</exif:width>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:5ddfeefa-8a23-49cd-8f8d-4797377af605">
+    <oa:hasSource rdf:resource="urn:uuid:09e4f5bc-151d-43b3-a0fd-b6cbf123a38b"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:ad360d24-aa64-4c48-8054-2fce26fb23a6"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:97724f39-e19d-44d6-85a5-529b2f7cfa14">
+    <dc:title>Anagram MS F</dc:title>
+    <cnt:chars>&lt;p&gt;This folio ends with the 40th line of the poem.  Interestingly, lines 40 and 41 contain an anagram and the poet's name.  The reader must thus turn back and forth between lines 40 and 41, folio 119 v. and and &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b60007997/f247.image"&gt;120 r&lt;/a&gt; in order to (attempt to) solve the puzzle.&lt;br/&gt;&lt;/p&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:6c372376-2bad-4a2e-b612-b1ab1e5e5b0a">
+    <oa:hasBody rdf:resource="urn:uuid:59acfdb2-c3d0-4120-aed9-8b5ae9233f98"/>
+    <oa:hasTarget rdf:resource="urn:uuid:796e848b-edcd-44f7-bdb9-e5edf201626a"/>
+    <oa:hasTarget rdf:resource="urn:uuid:09e4f5bc-151d-43b3-a0fd-b6cbf123a38b"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:2a7fbfa4-51b8-4cac-9d76-644b19c5f083">
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1840,900 1845,715 1862,512 1930,422 1958,490 1969,613 1969,760 1986,906 1924,906 1840,900' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:65871c7d-1a8f-4a76-85b5-745990cb4e35">
+    <oa:hasSource rdf:resource="urn:uuid:62c7e21b-d61d-4ed0-ab87-61713455dfc9"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:6e25de58-60ea-4627-89d7-da9eb00fe74f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a15fa529-1dbc-44f8-9ad1-4820886618b1">
+    <cnt:chars>&lt;p&gt;The title "Le Livre Morpheus" in MS E (as opposed to the "Le Dit de la Fonteinne Amoureuse", as it is titled in the majority of accessible Machaut manuscripts) suggests the desire to more prominently feature Morpheus as a presiding, omniscient director of the scene. It may be said that the importance of the fountain, which is the prince's product, is downplayed in this manuscript, and that the poet and poetry take on greater status as intermediaries between Morpheus (and by extension the realm of dreams and imagination) and the prince (and by extension, the realm of nobility and materiality). In the &lt;i style="font-style: italic; "&gt;dit&lt;/i&gt;, the prince praises the poet through his praise for Morpheus, who allows him to communicate with his lover. "Le Livre Morpheus" itself suggests a privileging of imagined space and unrealized desires, as the prince says he wants to build a temple to Morpheus but does not do so in the course of the &lt;i style="font-style: italic; "&gt;dit&lt;/i&gt;, while "Le Dit de la Fonteinne Amoureuse" privileges the prince's concrete material construction. Thus, "Le Livre Morpheus" may also be said to honor the poet, who works with relatively immaterial words and emotions and who is finally rewarded with the prince's material wealth and lands.&lt;br/&gt;&lt;br/&gt;In &lt;i style="font-style: italic; "&gt;Oeuvres de Guillaume de Machaut, vol. 3, &lt;/i&gt;Ernest Hoepffner notes the particularity of manuscript E with the use of this title, but he points out that it appears in manuscript M as well and suggests that this is evidence of authorial ambivalence regarding the title: "On n'est donc pas simplement en présence d'une modification individuelle qu'on puisse attribuer au copiste de E; les deux copistes de M et de E ont trouvé ce titre, indépendamment l'un de l'autre, dans une tradition plus ancienne, déjà solidement établie. Ceci est confirmé par Machaut lui-meme : Dans le &lt;i style="font-style: italic; "&gt;Livre du Voir Dit&lt;/i&gt;, qui fut composé peu apres le &lt;i style="font-style: italic; "&gt;Dit de la Fonteinne amoureuse&lt;/i&gt;, il parle à deux reprises de notre poème. La première fois il dit à son amie : 'Je vous fais escrire l'un de mes livres que j'ay fait derrainement, que on appelle la &lt;i style="font-style: italic; "&gt;Fontaine amoureuse&lt;/i&gt;'. Il emploie donc lui-même les deux titres sans préférence marquée pour l'un ou pour l'autre. Dans ces conditions, il nous sera permis de conserver le titre de &lt;i style="font-style: italic; "&gt;Dit de la Fontaine amoureuse&lt;/i&gt; qui a été définitivement consacré par la tradition commune des meilleurs manuscrits" (Hoepffner xxi-xxii).&lt;br/&gt;&lt;br/&gt;-Guillaume, and Ernest Hœpffner.
+&lt;i&gt;OEuvres De Guillaume De Machaut&lt;/i&gt;, Pub. Par Ernest Hoepffner.
+
+Paris: Firmin-Didot,
+1908-21.&lt;/p&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>Title "Le Livre Morpheus" in MS E</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dm.drew.edu/store/users/uva-1@googlegroups.com">
+    <perm:mayDelete rdf:resource="urn:uuid:04ef0ec9-0f4b-4d2e-802b-45a1eea9b7ce"/>
+    <perm:mayUpdate rdf:resource="urn:uuid:04ef0ec9-0f4b-4d2e-802b-45a1eea9b7ce"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    <perm:mayAdminister rdf:resource="urn:uuid:04ef0ec9-0f4b-4d2e-802b-45a1eea9b7ce"/>
+    <perm:mayCreateChildrenOf rdf:resource="urn:uuid:04ef0ec9-0f4b-4d2e-802b-45a1eea9b7ce"/>
+    <dm:lastOpenProject rdf:resource="urn:uuid:04ef0ec9-0f4b-4d2e-802b-45a1eea9b7ce"/>
+    <perm:mayRead rdf:resource="urn:uuid:04ef0ec9-0f4b-4d2e-802b-45a1eea9b7ce"/>
+    <perm:mayAugment rdf:resource="urn:uuid:04ef0ec9-0f4b-4d2e-802b-45a1eea9b7ce"/>
+    <perm:hasPermissionOver rdf:resource="urn:uuid:04ef0ec9-0f4b-4d2e-802b-45a1eea9b7ce"/>
+    <foaf:mbox rdf:resource="mailto:uva-1@googlegroups.com"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:0d76a3d0-0d89-4f7c-8041-d581792752ec">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='475,267 1329,267 1329,1626 475,1626 475,267' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:d55ab165-14bb-49ed-b7f4-e293915fb5b3">
+    <oa:hasTarget rdf:resource="urn:uuid:09e4f5bc-151d-43b3-a0fd-b6cbf123a38b"/>
+    <oa:hasTarget rdf:resource="urn:uuid:0c6ef44c-3231-44f6-a0ba-80bf38a4a8a3"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:a15fa529-1dbc-44f8-9ad1-4820886618b1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:5f47c92f-0303-4f81-8796-4ba3ba5b73c7">
+    <oa:hasTarget rdf:resource="urn:uuid:62c7e21b-d61d-4ed0-ab87-61713455dfc9"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:812f3e56-a584-49ef-a186-7f6d74635ee3"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:7a98c7f2-ac50-47f5-a128-69c4c46af712">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:62c7e21b-d61d-4ed0-ab87-61713455dfc9"/>
+    <oa:hasSelector rdf:resource="urn:uuid:5eeb4eb4-0eb9-4c7e-a3e6-ca05dbdc536d"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:59acfdb2-c3d0-4120-aed9-8b5ae9233f98">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>Poet figure MS F</dc:title>
+    <cnt:chars>&lt;p&gt;As in &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b84490444/f329.image"&gt;MS A&lt;/a&gt;, &lt;a href="http://www.diamm.ac.uk/jsp/AnnotationManager?imageKey=25356"&gt;MS Vg&lt;/a&gt;, MS E (linked within DM) and others, the poet figure is depicted at the beginning of the poem.  In F, the poet is shown looking at the fountain.  Interestingly, the lover is absent here despite the fact that according to the poem, the lover and poet are together in the garden.  This leads the reader/viewer to interpret the poet figure as more central to the poem.  &lt;br/&gt;&lt;/p&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:e1983fea-08bd-43a5-b609-a78c9482f6fb">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;a href="https://collab.itc.virginia.edu/access/content/group/658f937f-3041-433a-86c3-c9394b36163d/Machaut%20Texts/Machautvolume1.pdf"&gt;Guillaume de Machaut The Prologue and Four Love Poems&lt;/a&gt;&lt;br/&gt;</cnt:chars>
+    <dc:title>Palmer text on Collab</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:234dcc07-e8fb-40ad-8f2f-4bcaaf652bef">
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <cnt:chars>&lt;circle fill='rgba(15, 108, 214, 0.6)'  stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' cx='1926.02568191' cy='531.20808746' r='7' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:da45cd75-6e59-40ab-9556-16b61cb3835e">
+    <oa:hasBody rdf:resource="urn:uuid:65871c7d-1a8f-4a76-85b5-745990cb4e35"/>
+    <oa:hasTarget rdf:resource="urn:uuid:f1c48382-91bd-4877-a3a3-8336d1bcec7f"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:bc3f93f5-0ecd-4cdc-9651-955282a24fbc">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;p&gt;Lawrence Earp points out that most poems in the manuscript "begin with a gold and
+blue divided initial four lines high, with red and black filigree" (Earp 91).  We find that to be the case here.&lt;br/&gt;&lt;br/&gt;
+&lt;/p&gt;&lt;p class=""&gt; Earp, Lawrence. &lt;i style="font-style: italic; "&gt;Guillaume de Machaut : A Guide to Research &lt;/i&gt;(Garland, 1995).&lt;/p&gt;
+&lt;br/&gt;&lt;br/&gt;  </cnt:chars>
+    <dc:title>Decorated letter</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:f1dae0e9-75f3-42c4-954b-154d8faa96da">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:234dcc07-e8fb-40ad-8f2f-4bcaaf652bef"/>
+    <oa:hasSource rdf:resource="urn:uuid:62c7e21b-d61d-4ed0-ab87-61713455dfc9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:03b39860-5772-4e39-8313-882f13b97341">
+    <oa:hasBody rdf:resource="urn:uuid:cf78572b-6270-474b-9ae7-44fe6de194b8"/>
+    <oa:hasTarget rdf:resource="urn:uuid:a2b7bfa4-4e17-429a-b524-1522035a8da4"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:09e4f5bc-151d-43b3-a0fd-b6cbf123a38b"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:b7278962-9094-4d54-a2a6-f5eb9087d707">
+    <dc:title>Untitled text document</dc:title>
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:46aa256b-923d-4bd7-8512-d4d478035abe">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>New Annotation on BNF f. fr. 22545 fol. 119 v.</dc:title>
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:9aa9c1aa-16c2-4b3f-849c-df3f60374320">
+    <oa:hasTarget rdf:resource="urn:uuid:6caf9af4-4403-4959-b6dd-c90eeb7597ff"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:97724f39-e19d-44d6-85a5-529b2f7cfa14"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a43aa775-c706-49bc-aac3-9244a7314847">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:f6fd21a7-e261-4bf9-b93e-b38bc9f9dcb1"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasBody rdf:resource="urn:uuid:42c710f8-efed-47a4-a0c2-ff83775baec7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:ea20549c-a24c-41e8-9263-d8fe94e0f286">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:09e4f5bc-151d-43b3-a0fd-b6cbf123a38b"/>
+    <oa:hasBody rdf:resource="urn:uuid:e1983fea-08bd-43a5-b609-a78c9482f6fb"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:cf78572b-6270-474b-9ae7-44fe6de194b8">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;a href="http://t-pen.org/TPEN/transcription.jsp?projectID=2240&amp;amp;p=1712782#currentPage"&gt;TPen transcription of title and ll. 1-12 &lt;/a&gt;&lt;br/&gt;</cnt:chars>
+    <dc:title>TPen transcription of title and ll. 1-12</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:da8ac75c-e73b-4212-bf1e-1717335bb96b">
+    <dc:title>New Annotation on BNF f. fr. 9221 fol. 83 r.</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:76c6ae36-29f8-45d1-a2a9-de29a0d5c259">
+    <oa:hasSource rdf:resource="urn:uuid:09e4f5bc-151d-43b3-a0fd-b6cbf123a38b"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:2002d8ba-c978-4dc5-b0a5-9abc354bd3ca"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:575f6697-151a-4754-88e6-dffbe6f18776">
+    <dc:title>Transcription of BNF f. fr. 22545 fol. 119 v.</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;p&gt;This transrciption is from R. Barton Palmer's transcription and translation of Machaut's&lt;i&gt; Prologue and Four Love Poems.&lt;/i&gt;  He uses, however, MS A as the basis for his edition and this transcription may not be entirely faithful to MS F.  It remains a good point of departure (Palmer 34-37).&lt;br/&gt;&lt;br/&gt;Pour moy deduire et soulacier &lt;br/&gt;Et pour ma pensee lacier&lt;br/&gt;En loial amour qui me lace&lt;br/&gt;En ses las (ou point ne me lasse,&lt;br/&gt;Car jamais ne seroie las&lt;br/&gt;D’estre y, n’en diroie “helas”),&lt;br/&gt;Vueil commencier a chiere lie,&lt;br/&gt;En l’onneur ma dame jolie,&lt;br/&gt;Chose qui sera liement&lt;br/&gt;Vëuë, et joliement&lt;br/&gt;Faite de sentement joli&lt;br/&gt;Et de vray cuer qui est a li.&lt;br/&gt;Or pri a ceuls qui le liront,&lt;br/&gt;Qui le bien dou mal esliront,&lt;br/&gt;15 S’il y est, qu’il vueillent au lire&lt;br/&gt;Laissier le mal, le bien eslire.&lt;br/&gt;Car quant la chose est bien eslite,&lt;br/&gt;Par raison homs plus s’i delite,&lt;br/&gt;Et dames et cils qui le lit&lt;br/&gt;Penre y doivent plus grant delit,&lt;br/&gt;Et cils dont il sera leüs&lt;br/&gt;Soit ou nombre des esleüs.&lt;br/&gt;Mais mettre n’i vueil chose laide,&lt;br/&gt;Car quant y tonne et il eslaide,&lt;br/&gt;Li temps est noirs, obscurs, et lais,&lt;br/&gt;Mais assez est plus dous que lais&lt;br/&gt;Contre mesdit, par sainte Helainne!&lt;br/&gt;Pour ce a toute chose villeinne&lt;br/&gt;Vueil renuncier et la delay.&lt;br/&gt;Si commencerai sans delay&lt;br/&gt;Mais qu’aie nommé a delivre&lt;br/&gt;Celui pour qui je fais ce livre,&lt;br/&gt;Et mon nom aussi, car sans failie,&lt;br/&gt;Il n’est pas raison qu’a ce faille,&lt;br/&gt;Car je y sui contreins et tenus&lt;br/&gt;Et oubligiez trop plus que nus&lt;br/&gt;Qu’amours fine le me commande&lt;br/&gt;Et deduis vuet que je y entende.&lt;br/&gt;Et toutevoie ne vuet mie&lt;br/&gt;Deduis nulle grant muserie.&lt;br/&gt;&lt;/p&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:899741b0-13f6-4d6a-93f9-5f30d597d510">
+    <cnt:chars>&lt;circle fill='rgba(15, 108, 214, 0.6)'  stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' cx='1736.31644024' cy='362.995653485' r='7' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:ac1ecdae-1ea9-47ec-9198-7dc6442de5a2">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:f5436eb2-1849-4f68-99a9-1d9d6048bf42"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasTarget rdf:resource="urn:uuid:62c7e21b-d61d-4ed0-ab87-61713455dfc9"/>
+    <oa:hasTarget rdf:resource="urn:uuid:5ddfeefa-8a23-49cd-8f8d-4797377af605"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:9ee73ead-765f-4500-a47a-f6cdc8883a15">
+    <oa:hasBody rdf:resource="urn:uuid:b308ace5-1ba1-4e0f-a747-d2290fe76bd7"/>
+    <oa:hasTarget rdf:resource="urn:uuid:09e4f5bc-151d-43b3-a0fd-b6cbf123a38b"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:b308ace5-1ba1-4e0f-a747-d2290fe76bd7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:b308ace5-1ba1-4e0f-a747-d2290fe76bd7">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>Earp's description of MS E</dc:title>
+    <cnt:chars>&lt;p&gt;DESCRIPTION. Parchment, iv + 238 + iii fols., with four additional paper flyleaves in front and four in back; foliation A-F (second two parchment flyleaves, then old index); old foliation i-ccxxxviii, top right recto. Dimensions 40.6 x 30 cm, writing block ca. 29.5 x 20.5 cm, 3 cols. at 60 ll./col. Contains music. Formal bookhand; two scribes divided the copying: scribe A wrote fols. 1r-58r...and fols. 107r-129r...Scribe B wrote fols. 61r-106r...fols 131r-238r...and the original index on fols. Cr-Er....Red staves 1.45 cm tall. Bound in brown leather over boards, with the arms of Napoleon I on the cover, and the monogram "N" on the spine. (92)&lt;br/&gt;&lt;br/&gt;INSCRIPTIONS. The second parchment bifolio guard sheet at the front of the manuscript has an Ex-libris inscribed in a very ornate script...by Nicolas Flamel, secretary of John, duke of Berry...with the monogram "N" below. (93)&lt;br/&gt;&lt;br/&gt;-Earp,
+Lawrence. &lt;i style="font-style: italic; "&gt;Guillaume de Machaut : A
+Guide to Research &lt;/i&gt;(Garland, 1995).&lt;br/&gt;&lt;/p&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:2002d8ba-c978-4dc5-b0a5-9abc354bd3ca">
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='817,795 898,862 839,981 780,981 765,914 802,840 817,795' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:75afb89a-a92d-485a-a216-14a7626b5278">
+    <oa:hasBody rdf:resource="urn:uuid:5334715f-a4af-4e57-bfd4-63a9f06ac5a5"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:5334715f-a4af-4e57-bfd4-63a9f06ac5a5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:b7096ec7-b6a1-4709-a0a3-91af70ed13c0">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:62c7e21b-d61d-4ed0-ab87-61713455dfc9"/>
+    <oa:hasBody rdf:resource="urn:uuid:6399cff4-e07d-483e-8df7-e15626d6b879"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a2b7bfa4-4e17-429a-b524-1522035a8da4">
+    <oa:hasSource rdf:resource="urn:uuid:09e4f5bc-151d-43b3-a0fd-b6cbf123a38b"/>
+    <oa:hasSelector rdf:resource="urn:uuid:ecff1983-ef41-48b8-b7a1-36c8ef6974e0"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:3735e0b5-ab2a-4e22-8c3b-ded152699b8d">
+    <oa:hasTarget rdf:resource="urn:uuid:09e4f5bc-151d-43b3-a0fd-b6cbf123a38b"/>
+    <oa:hasTarget rdf:resource="urn:uuid:62c7e21b-d61d-4ed0-ab87-61713455dfc9"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:37dc415d-5e74-44d6-ac9f-6b55343316fd"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:f6fd21a7-e261-4bf9-b93e-b38bc9f9dcb1">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:0d76a3d0-0d89-4f7c-8041-d581792752ec"/>
+    <oa:hasSource rdf:resource="urn:uuid:62c7e21b-d61d-4ed0-ab87-61713455dfc9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:6e25de58-60ea-4627-89d7-da9eb00fe74f">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='2458,494 2391,532 2398,577 2446,593 2463,589 2406,510 2458,494' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ada.drew.edu/annotation_store/media/user_images/112460.jpg">
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3000</exif:width>
+    <dc:title>BNF f. fr. 9221</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Image"/>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3885</exif:height>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:f1bed138-ac8f-4d88-8fa5-cdb89f646cbb">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;p class=""&gt;Earp suggests that MS F could be closely related to &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b84490444" style="text-decoration: underline; "&gt;MS A&lt;/a&gt;: [...MS F] was probably copied from the same authoritative exemplar
+material [as MS A]. In addition, the program of illustrations is almost identical
+between the two manuscripts, as well as the placement of the miniatures."&lt;br/&gt;&lt;/p&gt;&lt;p class=""&gt;Earp, Lawrence. &lt;i style="font-style: italic; "&gt;&lt;a href="http://www.jstor.org/stable/831503%20." style="font-style: italic; text-decoration: underline; "&gt;Machaut's Role in the Production of Manuscripts of His Works&lt;/a&gt;. &lt;/i&gt;Journal of the American Musicological Society, Vol. 42, No. 3 (Autumn, 1989). p. 44.&lt;/p&gt;&lt;p class=""&gt;&lt;br/&gt;&lt;/p&gt;&lt;p class=""&gt;Earp indicates in &lt;i style="font-style: italic; "&gt;Guillaume de Machaut : A Guide to Research &lt;/i&gt;(Garland, 1995) that the scribe and artist are both consistent throughout MS F-G.&lt;br/&gt;&lt;/p&gt;&lt;p class=""&gt;
+&lt;/p&gt;&lt;p class=""&gt; &lt;/p&gt;
+
+Artist indentified by Avril: Remiet (or Perrin Remy); fl. Ca. 1368-ca.
+1401, Parisian.&lt;p class=""&gt; &lt;/p&gt;</cnt:chars>
+    <dc:title>Production of MS F</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:62c7e21b-d61d-4ed0-ab87-61713455dfc9">
+    <dc:title>BNF f. fr. 22545 fol. 119 v.</dc:title>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3883</exif:height>
+    <rdf:type rdf:resource="http://www.shared-canvas.org/ns/Canvas"/>
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3000</exif:width>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:3b82424c-8207-4bb4-9c9b-6f9aa176b489">
+    <dc:title>Exphat, Confort d'un ami</dc:title>
+    <cnt:chars>&lt;p&gt;The text which precedes the&lt;i&gt; Fontainne amoureuse&lt;/i&gt; contains a similar theme: the poet consoling the lover/prince who is being kept from his lady.  &lt;br/&gt;&lt;/p&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:ef2fb17e-d09a-4b15-b97f-32388845eaee">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:62c7e21b-d61d-4ed0-ab87-61713455dfc9"/>
+    <oa:hasSelector rdf:resource="urn:uuid:37922b5d-231c-4aea-96c3-63354e0720f8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:03e758ef-1b14-454a-b5c3-e5f6d29f54c5">
+    <dc:title>Description of folio</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;p&gt;Two columns on parchment. 35.5 x 26cm.  Formal bookhand, one scribe througout MS.  The left column contains the Exphat of "Confort d'un ami."&lt;br/&gt;&lt;br/&gt;The title is found at the bottom of the second column and begins with a two-line tall decorated letter (see annotation for Decorated letter in title, MS F).&lt;br/&gt;&lt;br/&gt;The second column contains a miniature showing the poet looking at the fountain (see annotation "Poet figure MS F"), and the first forty lines of the text, including the first line of the anagram (see Anagram MS F).&lt;br/&gt;&lt;br/&gt;No punctuation, in contrast with E.&lt;br/&gt;&lt;/p&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:8693ee7e-6b33-4f8c-a78e-ed912c52e2a9">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:76c6ae36-29f8-45d1-a2a9-de29a0d5c259"/>
+    <oa:hasTarget rdf:resource="urn:uuid:62c7e21b-d61d-4ed0-ab87-61713455dfc9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:42c710f8-efed-47a4-a0c2-ff83775baec7">
+    <dc:title>New Annotation on BNF f. fr. 22545 fol. 119 v.</dc:title>
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:f5436eb2-1849-4f68-99a9-1d9d6048bf42">
+    <cnt:chars>&lt;p&gt;This opening miniature features the poet at work at his desk with his writing tools. He is in an interior space with what appears to be a balcony behind him and a decorated wall behind the balcony. The colors used in this miniature are red, blue, gold, and black. It is the twenty-second of thirty-eight miniatures in MS E. Earp describes this miniature as follows: "The narrator sits writing at a long desk; a pen case and ink well are visible on the desk" (Earp 171).&lt;br/&gt;&lt;br/&gt;Compared with the miniatures in other manuscripts that begin this &lt;i&gt;dit&lt;/i&gt; (for example the miniature on 119v in MS F which shows the prince at the fountain), the miniature in MS E emphasizes the poet in his writing space and the materiality of the text he is working on. Thus, the miniature in MS E would seem to suggest the poet's self-awareness and pride in his work, which would seem to be not merely a pastime but his vocation. The image may be said to suggest the medieval poet's assertion of his identity as poet/author at a time when this vocational identity was not yet established, or at least not yet established as an identity one might choose for oneself. Still, the miniature continues to honor the poet's clerical role by clothing him in a clerical robe, hat, and shoes, which seem to indicate the complication of, if not the tension between, the poet's identities.&lt;br/&gt;&lt;br/&gt;-Earp,
+Lawrence. &lt;i style="font-style: italic; "&gt;Guillaume de Machaut : A
+Guide to Research &lt;/i&gt;(Garland, 1995).&lt;br/&gt;&lt;/p&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>Description and analysis of miniature on 83r MS E</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:2e26e3fb-62ef-403a-91b1-5085bd911066">
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>New Annotation on BNF f. fr. 22545 fol. 119 v.</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:ad360d24-aa64-4c48-8054-2fce26fb23a6">
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='380,510 982,510 982,1090 380,1090 380,510' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+  </rdf:Description>
+</rdf:RDF>

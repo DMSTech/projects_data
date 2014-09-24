@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:cnt="http://www.w3.org/2011/content#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:dm="http://dm.drew.edu/ns/"
+   xmlns:exif="http://www.w3.org/2003/12/exif/ns#"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:oa="http://www.w3.org/ns/oa#"
+   xmlns:ore="http://www.openarchives.org/ore/terms/"
+   xmlns:perm="http://vocab.ox.ac.uk/perm#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="urn:uuid:c0e10e1e-a34f-4173-8598-543ccbd98b31">
+    <oa:hasTarget rdf:resource="urn:uuid:9b267b64-cae8-4610-be86-4a23b09a990d"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:9b267b64-cae8-4610-be86-4a23b09a990d"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:766fa6c8-d587-4b89-80be-2f496ed799a2">
+    <oa:hasSelector rdf:resource="urn:uuid:0c4cf534-1b5b-47d4-8baf-e481522c901b"/>
+    <oa:hasSource rdf:resource="urn:uuid:0c0544f2-88fd-4e5b-b04c-b3f09af7329d"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:f4883f05-9905-4aa8-9a6a-1c6ce022e965">
+    <oa:hasBody rdf:resource="urn:uuid:803cdf94-ef88-4840-bf7e-a71e4ef48d30"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:a7106509-7bdc-4ca8-8e65-01e0b678a51b"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:0c0544f2-88fd-4e5b-b04c-b3f09af7329d">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>Fountain Depiction in BNF f. fr. 9221 fol. 86 v.</dc:title>
+    <cnt:chars>&lt;div&gt;In this depiction, as well as in the other two that occur in Manuscript E (see &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b6000795k/f201.item"&gt;fr. 9221 fol. 89r&lt;/a&gt; and &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b6000795k/f204.item"&gt;fr. 9221 fol. 90v&lt;/a&gt;), the fountain itself takes a visual as well as metaphorical backseat role to that of the relationship between the poet and the prince. The fountain, rather than being depicted in the foreground of the image, or even in the same plane as the poet and the prince, as often occurs in Manuscript F (fr. &lt;span about="urn:uuid:edc46f74-f4e4-4240-b06d-47cb65488223" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;22545 fol. 127r&lt;/span&gt;), is behind the two men. Though the text describes the fountain in great detail, the fact that the fountain was not depicted by the artist in the way it was described by Machaut serves to downplay the actual role of the fountain in a capacity other than a narrative element used to &lt;span about="urn:uuid:0c4cf534-1b5b-47d4-8baf-e481522c901b" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;facilitate the dream space&lt;/span&gt;. &lt;/div&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:cb426397-fcf5-43ea-a4b7-a4ae255c34cc">
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='959,438 923,488 924,630 939,738 919,843 965,894 1026,988 1073,900 1124,819 1088,696 1090,561 1110,435 1023,418 959,438' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:5f008faf-285c-4f2b-9c43-1842437a78bb">
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='2102,1378 2099,1428 2571,1432 2573,1484 2671,1489 2671,1375 2102,1378' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:4bad094d-0910-4563-9bd6-66bac8b81a25">
+    <oa:hasBody rdf:resource="urn:uuid:0c0544f2-88fd-4e5b-b04c-b3f09af7329d"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:d0907a88-610e-42b8-9af5-96d648e328be"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:7e4f32d3-ae2a-4f07-a4c7-4f566ff91a35">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>Pour la fille Calcas de Troie</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:2e3733a8-ea6e-4be2-b92c-38088c49d579">
+    <cnt:chars>&lt;p&gt;The rubricated caption to the illustration on this page reads, "Co(m)me(n)t l'ama(n)t et lamy regarde(nt) la fo(n)taine."&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;It is interesting to note that the caption refers to the poet as &lt;i&gt;l'ami&lt;/i&gt; versus a more neutral epithet, especially given that the narrative states that the prince and the poet had only just met and were of completely different social status. The caption expresses the intention of the text in that it denotes the intense intimacy that the poet stresses, and places the focus on the relationship between the poet and the prince rather than on the fountain, which, despite the lavish description it was given in the poem, only takes a minor, background role in the narrative &lt;span about="urn:uuid:a4c86f14-3d15-4ed7-82f2-4b7897cf8655" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;as facilitator of the dream space&lt;/span&gt;. &lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;Indeed, even though the caption claims the illustration depicts how the &lt;i&gt;amant &lt;/i&gt;and the &lt;i&gt;ami regardent la fontaine&lt;/i&gt;, neither of the two men are &lt;b&gt;actually&lt;/b&gt; looking at the fountain; instead, they are looking at one another, further emphasizing the importance of human relationship over object significance.&lt;/div&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>Illustration Caption on BNF f. fr. 9221 fol. 86 v.</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:f7e2a1ee-ae15-4eea-abe9-7ade2129adae">
+    <oa:hasTarget rdf:resource="urn:uuid:1d53f08d-9322-49f2-ae31-f68654161517"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:1d53f08d-9322-49f2-ae31-f68654161517"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ada.drew.edu/annotation_store/media/user_images/112495.jpg">
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3000</exif:width>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4114</exif:height>
+    <dc:title>BNF f. fr. 9221</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Image"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:59ef93c1-b955-4403-8d52-0578ef3a3f3d">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>overtly</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:0624629e-73d0-409f-8a3f-4fc5a647b68a">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:6fd6cfb9-9dd4-4d53-a5c0-bf1975c02e5d"/>
+    <oa:hasSource rdf:resource="urn:uuid:62612ff0-cbc8-4dc8-9140-16d4972d2454"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:78d36e84-a530-4cfc-8652-bd53377ff846">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:38d18070-124f-46f0-8e48-ac826a7642c8"/>
+    <oa:hasTarget rdf:resource="urn:uuid:9b267b64-cae8-4610-be86-4a23b09a990d"/>
+    <oa:hasTarget rdf:resource="urn:uuid:62612ff0-cbc8-4dc8-9140-16d4972d2454"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:803cdf94-ef88-4840-bf7e-a71e4ef48d30">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:f8655b8e-81df-4a6c-896a-79d04fc02e54"/>
+    <oa:hasSelector rdf:resource="urn:uuid:6b588d65-2541-40ff-b68a-05962ac04acb"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:79e116d4-e5f2-4c9c-9588-82e4ccbf2127">
+    <oa:hasSelector rdf:resource="urn:uuid:d26c5493-73a5-4338-87bb-d500550e5b61"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:62612ff0-cbc8-4dc8-9140-16d4972d2454"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:66e758ac-c5c4-43d1-b235-63f0bb2adbfa">
+    <oa:hasBody rdf:resource="urn:uuid:5d684b27-94c2-482b-a3c5-e149c0e6ad58"/>
+    <oa:hasTarget rdf:resource="urn:uuid:62612ff0-cbc8-4dc8-9140-16d4972d2454"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:ab67f3fb-c2cf-45eb-82aa-e9648f0046e9">
+    <oa:hasBody rdf:resource="urn:uuid:85128d23-02fc-4471-99ea-df46bbc557c4"/>
+    <oa:hasTarget rdf:resource="urn:uuid:e975aa4b-7693-4513-b77d-50490c8ad1aa"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:edc46f74-f4e4-4240-b06d-47cb65488223">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>22545 fol. 127r</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:1d53f08d-9322-49f2-ae31-f68654161517">
+    <oa:hasSelector rdf:resource="urn:uuid:a4c86f14-3d15-4ed7-82f2-4b7897cf8655"/>
+    <oa:hasSource rdf:resource="urn:uuid:2e3733a8-ea6e-4be2-b92c-38088c49d579"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:e4d798a5-d36d-4b84-a167-aca48a3a3db5">
+    <oa:hasTarget rdf:resource="urn:uuid:e975aa4b-7693-4513-b77d-50490c8ad1aa"/>
+    <oa:hasBody rdf:resource="urn:uuid:29b64182-0c10-411c-aceb-b401b6968fad"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:9a653780-3fb4-4120-8325-17dac4ae1f81">
+    <oa:hasTarget rdf:resource="urn:uuid:62612ff0-cbc8-4dc8-9140-16d4972d2454"/>
+    <oa:hasBody rdf:resource="http://ada.drew.edu/annotation_store/media/user_images/112502.jpg"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:6fd6cfb9-9dd4-4d53-a5c0-bf1975c02e5d">
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='725,1008 725,1008' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:48cacbc8-63b0-4b3e-83cf-3e11d48d9ded">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:76543668-9f14-4587-89e7-0a1c84025801"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasBody rdf:resource="urn:uuid:07ce32d1-384c-4486-ad69-124789b1f916"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:87db7e1b-c639-4fb9-9077-ffb568a09ee7">
+    <oa:exact>N’a ses mortels cops contrester.</oa:exact>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:dfd99686-ac1c-4160-8733-4f1650c2151b">
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasTarget rdf:resource="urn:uuid:62612ff0-cbc8-4dc8-9140-16d4972d2454"/>
+    <oa:hasTarget rdf:resource="urn:uuid:450dc301-0de6-4467-ae2d-9d5eee8c4954"/>
+    <oa:hasBody rdf:resource="urn:uuid:b95bbb7f-b501-422b-8129-4dd6d7067c50"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a7ffa6d2-9b5a-4c71-837c-4e4618a372db">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>Par Pymalion, qui bien ouevre,</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:e2f965c3-02d8-47eb-bb2e-2529dd68c867">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>Qui de ce serpent l’or donna,</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:e7a15e1e-1466-4350-b55c-24a5b30ace33">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>Il s’assist et me fist sëoir</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:79d65135-06c1-40f5-ba3c-c3e73c106c3f">
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasTarget rdf:resource="urn:uuid:3f917fe9-47a7-466a-87af-4f26feefb5d8"/>
+    <oa:hasTarget rdf:resource="urn:uuid:f9a1a41a-a1ac-4e68-ac72-36d1087e68cb"/>
+    <oa:hasBody rdf:resource="urn:uuid:e0d65843-ee34-48e1-9645-c01d20947df0"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:e2255ce7-ca2c-4d59-aa25-3009048f4dfa">
+    <oa:hasSelector rdf:resource="urn:uuid:4a7bd0a7-9676-499a-95db-1df0b200d687"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:f9a1a41a-a1ac-4e68-ac72-36d1087e68cb"/>
+    <oa:hasSelector rdf:resource="urn:uuid:20e0667d-a896-497f-ad18-3c52448532a1"/>
+    <oa:hasSelector rdf:resource="urn:uuid:a7ffa6d2-9b5a-4c71-837c-4e4618a372db"/>
+    <oa:hasSelector rdf:resource="urn:uuid:ee3f0120-5299-46ac-884e-0eaa0b05078a"/>
+    <oa:hasSelector rdf:resource="urn:uuid:e2f965c3-02d8-47eb-bb2e-2529dd68c867"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:d34ddc41-6c5c-4c42-9fd6-86eec28a010c">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>depiction of the poet</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:8ae833df-3475-4e1b-8cb3-bcd31e9c82fe">
+    <oa:hasTarget rdf:resource="urn:uuid:f9a1a41a-a1ac-4e68-ac72-36d1087e68cb"/>
+    <oa:hasBody rdf:resource="urn:uuid:019bb08e-4e32-4f53-9005-651606a5ca39"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:27c7c474-d0e2-4150-950b-80c884202ca2">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>Occioit tant de gens a traire</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:718c81f9-002d-4d2c-a6ce-c50a25c24a1a">
+    <dc:title>Text immediately following first image</dc:title>
+    <cnt:chars>&lt;p&gt;"Livre de la Fonteinne Amoureuse," edited by R. Barton Palmer&lt;/p&gt;&lt;p&gt;lines 1333-1340&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span about="urn:uuid:465e1e14-982d-41db-9212-1e85cd41b888" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Mais n’i pooit rien conquester.  &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span about="urn:uuid:87db7e1b-c639-4fb9-9077-ffb568a09ee7" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;N’a ses mortels cops contrester. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span about="urn:uuid:8978e35c-c09f-4c3a-b5e5-0251f0cb4022" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Et le mervilleus sagittaire &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span about="urn:uuid:27c7c474-d0e2-4150-950b-80c884202ca2" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Occioit tant de gens a traire &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span about="urn:uuid:5bc17780-a725-4dbd-9028-c7ea5b287dbd" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Que c’estoit une grant merveille. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span about="urn:uuid:3dbd38ff-2747-4f11-bf0e-ca61dc582535" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Et Troïllus moult se traveille &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span about="urn:uuid:7e4f32d3-ae2a-4f07-a4c7-4f566ff91a35" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Pour la fille Calcas de Troie&lt;/span&gt;&lt;span about="urn:uuid:a9fd450f-619b-4ba0-bdd2-a7f66d440cbc" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;, &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span about="urn:uuid:89320355-d2be-4eff-b547-85e713a6bf08" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Briseÿda. Que vous diroie?&lt;/span&gt; &lt;/p&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:3f4ba138-6e68-4c94-9b4b-65071400ca72">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:30af75d0-e648-40fa-9e7c-39dd8763f2b3"/>
+    <oa:hasBody rdf:resource="urn:uuid:30af75d0-e648-40fa-9e7c-39dd8763f2b3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:450dc301-0de6-4467-ae2d-9d5eee8c4954">
+    <oa:hasSelector rdf:resource="urn:uuid:7e4f32d3-ae2a-4f07-a4c7-4f566ff91a35"/>
+    <oa:hasSelector rdf:resource="urn:uuid:27c7c474-d0e2-4150-950b-80c884202ca2"/>
+    <oa:hasSelector rdf:resource="urn:uuid:a9fd450f-619b-4ba0-bdd2-a7f66d440cbc"/>
+    <oa:hasSelector rdf:resource="urn:uuid:89320355-d2be-4eff-b547-85e713a6bf08"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:87db7e1b-c639-4fb9-9077-ffb568a09ee7"/>
+    <oa:hasSelector rdf:resource="urn:uuid:8978e35c-c09f-4c3a-b5e5-0251f0cb4022"/>
+    <oa:hasSelector rdf:resource="urn:uuid:5bc17780-a725-4dbd-9028-c7ea5b287dbd"/>
+    <oa:hasSource rdf:resource="urn:uuid:718c81f9-002d-4d2c-a6ce-c50a25c24a1a"/>
+    <oa:hasSelector rdf:resource="urn:uuid:3dbd38ff-2747-4f11-bf0e-ca61dc582535"/>
+    <oa:hasSelector rdf:resource="urn:uuid:465e1e14-982d-41db-9212-1e85cd41b888"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:22c589eb-cf3d-4ef5-91e4-896eced18506">
+    <oa:hasTarget rdf:resource="urn:uuid:e08c53ef-17cc-43b0-a51d-397808125bb8"/>
+    <oa:hasBody rdf:resource="urn:uuid:a8dd2388-a7a9-49e2-ac77-a812ff7fc0cc"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:e8e227eb-1a4f-49e1-b596-a0d3137f701e">
+    <oa:hasBody rdf:resource="urn:uuid:30af75d0-e648-40fa-9e7c-39dd8763f2b3"/>
+    <oa:hasTarget rdf:resource="urn:uuid:30af75d0-e648-40fa-9e7c-39dd8763f2b3"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:5bc17780-a725-4dbd-9028-c7ea5b287dbd">
+    <oa:exact>Que c’estoit une grant merveille.</oa:exact>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:2e40f3cb-ad66-43a5-920f-844da62ead72">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+    <ore:aggregates rdf:resource="urn:uuid:f9a1a41a-a1ac-4e68-ac72-36d1087e68cb"/>
+    <ore:aggregates rdf:resource="urn:uuid:f8655b8e-81df-4a6c-896a-79d04fc02e54"/>
+    <rdf:type rdf:resource="http://dm.drew.edu/ns/Project"/>
+    <ore:aggregates rdf:resource="urn:uuid:718c81f9-002d-4d2c-a6ce-c50a25c24a1a"/>
+    <ore:aggregates rdf:resource="urn:uuid:62612ff0-cbc8-4dc8-9140-16d4972d2454"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Project"/>
+    <dc:title>Imported Project</dc:title>
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/Aggregation"/>
+    <dcterms:description>Created from the contents of your old DM workspace</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:89320355-d2be-4eff-b547-85e713a6bf08">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>Briseÿda. Que vous diroie?</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:59ee65b5-6382-4820-bb0a-72a2ffeeaba0">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;p&gt;The vine decoration surrounding the two illuminations is intertwined, which could lead the reader to assume that the images themselves intertwine to represent the same story. The supporting text does indeed reinforce the similarity of the illuminations' program. They both depict the lover and poet looking at the fountain, and the text on this folio, before and after both illuminations, carefully describes the fountain's carvings and the physical space surrounding it. &lt;/p&gt;</cnt:chars>
+    <dc:title>Vine decoration</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a4c86f14-3d15-4ed7-82f2-4b7897cf8655">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>as facilitator of the dream space</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a7106509-7bdc-4ca8-8e65-01e0b678a51b">
+    <cnt:chars>&lt;p&gt;Here, the poet is depicted in a manner befitting the classical nature of poet-patron representations. In contrast to the prince, the clerk is smaller in physical stature, indicating a difference of &lt;i&gt;hauteur&lt;/i&gt; in social status; the prince, higher on the social ladder, is also physically taller than the poet. Instead of being clothed in a powerful red like the prince, the poet is robed in a muted purple, signifying a secular rather than noble status. &lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;The poet is \ shaven, as opposed to having a beard, like the prince, which could also be indicative of his status as a secular clerk. (The this same depiction of bearded prince vs. clean-shaven poet also appears in &lt;a href="http://www.diamm.ac.uk/jsp/AnnotationManager?imageKey=25374"&gt;Manuscript Vg f. 206r&lt;/a&gt; and &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b84490444/f350.image"&gt;Manuscript A f. 350v&lt;/a&gt;.)  &lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;The body language of the poet--head tilted downward, hands concealed demurely in his robes--is also indicative of his bowing (literal and figurative) to the prince. This depiction of the poet coincides with what the owner of Manuscript E, Jean de Berry, would have expected to see as the noble patron of the poet Machaut.&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>Poet Depiction on BNF f. fr. 9221 fol. 86 v.</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ada.drew.edu/annotation_store/media/user_images/112502.jpg">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Image"/>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3863</exif:height>
+    <dc:title>BNF f. fr. 22545</dc:title>
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3000</exif:width>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:8a661849-0598-4783-91ea-98a1a5128afe">
+    <oa:hasSelector rdf:resource="urn:uuid:97134447-4b17-48d4-9283-545907afb010"/>
+    <oa:hasSelector rdf:resource="urn:uuid:8576eeb7-96e3-4f30-9a01-c2b248835ebc"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:20108a91-ddab-43bb-a5dd-06891720936a"/>
+    <oa:hasSelector rdf:resource="urn:uuid:59ef93c1-b955-4403-8d52-0578ef3a3f3d"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:d812a344-e9f2-4939-a570-9e537f46d19c">
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='2542,958 2523,965 2511,970 2507,981 2507,988 2516,990 2523,1006 2523,1017 2518,1023 2501,1052 2492,1057 2490,1047 2485,1033 2476,1029 2469,1040 2468,1047 2479,1045 2489,1064 2490,1107 2507,1112 2485,1192 2469,1300 2456,1319 2442,1325 2440,1338 2425,1351 2429,1352 2449,1343 2461,1334 2466,1328 2481,1313 2545,1314 2540,1330 2519,1342 2503,1345 2510,1349 2538,1351 2548,1338 2566,1333 2566,1326 2561,1322 2558,1308 2580,1301 2568,1142 2585,1116 2593,1057 2579,1033 2566,1023 2561,998 2570,998 2577,986 2575,977 2558,961 2542,958' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:0c4cf534-1b5b-47d4-8baf-e481522c901b">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>facilitate the dream space</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:c3801fe4-06d5-40a0-871d-d0154bbb6da7">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:f8655b8e-81df-4a6c-896a-79d04fc02e54"/>
+    <oa:hasSelector rdf:resource="urn:uuid:fd5a76a0-7900-4985-a101-97bbcf8ebef3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:218b54ff-3ab2-4bb2-93b1-8b39ec2d2e32">
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='2264,977 2260,1008 2254,1019 2254,1037 2249,1047 2240,1057 2240,1062 2229,1068 2222,1085 2225,1098 2233,1108 2225,1114 2211,1128 2201,1142 2164,1164 2175,1178 2167,1268 2196,1281 2209,1289 2255,1300 2301,1289 2301,1282 2326,1274 2327,1230 2327,1185 2337,1170 2321,1159 2308,1152 2301,1125 2290,1115 2281,1113 2291,1107 2296,1094 2297,1082 2294,1069 2288,1067 2290,1053 2279,1045 2274,1042 2273,1032 2273,1021 2274,1012 2269,990 2266,983 2264,977' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:97134447-4b17-48d4-9283-545907afb010">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>caption</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:55106ea4-5b6e-44ea-bfa1-3980c2157dca">
+    <oa:hasSource rdf:resource="urn:uuid:62612ff0-cbc8-4dc8-9140-16d4972d2454"/>
+    <oa:hasSelector rdf:resource="urn:uuid:435cf327-efb5-49dd-8de4-8f187ba41f29"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:cc935814-1ee9-4a86-924e-e30bab580037">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:e2255ce7-ca2c-4d59-aa25-3009048f4dfa"/>
+    <oa:hasBody rdf:resource="urn:uuid:e2255ce7-ca2c-4d59-aa25-3009048f4dfa"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:d0907a88-610e-42b8-9af5-96d648e328be">
+    <oa:hasSelector rdf:resource="urn:uuid:218b54ff-3ab2-4bb2-93b1-8b39ec2d2e32"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:f8655b8e-81df-4a6c-896a-79d04fc02e54"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:e0d65843-ee34-48e1-9645-c01d20947df0">
+    <dc:title>Hand gestures</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;div&gt;This illumination occurs just before line 1371: "He sat down and made me sit," which describes an order from lover to poet. The text that follows, however, equalizes the relationship. The lover asks the poet if he thinks the fountain needs any improvement, though the fountain had been created by the gods Jupiter and Venus! &lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;The hand gestures of both the lover &lt;i&gt;and&lt;/i&gt; the poet reinforce their relationship more as equals than as poet-patron. The inclusion of the poet's hand gesture suggests a mutual conversation, where the lover is asking the poet's opinion on the fountain, inviting his participation, rather than an order or a lecture.&lt;/div&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:cb9dc10d-ae83-4d00-bbca-333f37e39286">
+    <dc:title>Poet's clothing</dc:title>
+    <cnt:chars>&lt;p&gt;Art historian François Avril, referring to MS C, states that the secular clothing of Machaut in the illuminations indicates that it was illuminated during a period of his career when he frequented the Court of France, in the 1360s. (Éditions Klincksieck, 1982). &lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;MS F is believed to have been illuminated in the late 1380s/early 1390s, after Machaut's death in 1377 (&lt;a href="https://collab.itc.virginia.edu/access/content/group/658f937f-3041-433a-86c3-c9394b36163d/Readings%20for%202_13/EarpJournalofAmerMusSoc.pdf"&gt;see Earp diagram, pg. 474&lt;/a&gt;). Thus, following Avril's pattern, the ecclesiastical robes of the poet/Machaut in MS F suggest that the illuminations represent Machaut's position of canon near the end of his life. &lt;/div&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:81b5cc39-b7ee-40c3-8323-d5598b622f25">
+    <oa:hasBody rdf:resource="urn:uuid:6ae38030-2756-48f3-aad2-5d8aea41f6ff"/>
+    <oa:hasTarget rdf:resource="urn:uuid:76543668-9f14-4587-89e7-0a1c84025801"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:f9a1a41a-a1ac-4e68-ac72-36d1087e68cb">
+    <cnt:chars>&lt;p&gt;"Livre de La Fonteinne Amoureuse," edited by R. Barton Palmer&lt;/p&gt;&lt;p&gt;lines 1371-1403&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span about="urn:uuid:e7a15e1e-1466-4350-b55c-24a5b30ace33" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Il s’assist et me fist sëoir&lt;/span&gt; &lt;/p&gt;
+&lt;p&gt;Pour escouter et pour vëoir &lt;/p&gt;
+&lt;p&gt;L’ordenance de la fonteinne, &lt;/p&gt;
+&lt;p&gt;Qui n’estoit rude ne villeinne, &lt;/p&gt;
+&lt;p&gt;Et le lieu qui estoit entour &lt;/p&gt;
+&lt;p&gt;Compassez et fais a droit tour. &lt;/p&gt;
+&lt;p&gt;Et puis me prist a demander &lt;/p&gt;
+&lt;p&gt;S’il y avoit rien qu’amender. &lt;/p&gt;
+&lt;p&gt;Je dis: “Par m’ame, nennil, sire.” &lt;/p&gt;
+&lt;p&gt;Et adont il me prist a dire &lt;/p&gt;
+&lt;p&gt;Que ce fu jadis li demours &lt;/p&gt;
+&lt;p&gt;De Cupido, le dieu d’amours, &lt;/p&gt;
+&lt;p&gt;Et que Jupiter et Venus &lt;/p&gt;
+&lt;p&gt;Y sont par maintes fois venus &lt;/p&gt;
+&lt;p&gt;Pour eaus deduire et solacier, &lt;/p&gt;
+&lt;p&gt;Pour acoler, pour embracier, &lt;/p&gt;
+&lt;p&gt;Et pour le deduit ou nature &lt;/p&gt;
+&lt;p&gt;Mist plus son entente et sa cure &lt;/p&gt;
+&lt;p&gt;Pour avoir plaisence et solas,  &lt;/p&gt;
+&lt;p&gt;(Comment qu’on en soit de po las &lt;/p&gt;
+&lt;p&gt;Car aucune fois il anuie &lt;/p&gt;
+&lt;p&gt;Plus qu’apres biau temps longue pluie) &lt;/p&gt;
+&lt;p&gt;&lt;span about="urn:uuid:4a7bd0a7-9676-499a-95db-1df0b200d687" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Et que Jupiter l’ordonna&lt;/span&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span about="urn:uuid:e2f965c3-02d8-47eb-bb2e-2529dd68c867" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Qui de ce serpent l’or donna,&lt;/span&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span about="urn:uuid:ee3f0120-5299-46ac-884e-0eaa0b05078a" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Et Venus le marbre et l’ivoire&lt;/span&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span about="urn:uuid:20e0667d-a896-497f-ad18-3c52448532a1" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Fist entaillier, c’est chose voire,&lt;/span&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span about="urn:uuid:a7ffa6d2-9b5a-4c71-837c-4e4618a372db" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Par Pymalion, qui bien ouevre,&lt;/span&gt; &lt;/p&gt;
+&lt;p&gt;Qui escheva toute ceste ouevre &lt;/p&gt;
+&lt;p&gt;— Cupido fist le remenant, &lt;/p&gt;
+&lt;p&gt;Qui est bel et bien avenant — &lt;/p&gt;
+&lt;p&gt;Et que les nimphes et les fees &lt;/p&gt;
+&lt;p&gt;Y faisoient leurs assamblees, &lt;/p&gt;
+&lt;p&gt;Et qu’encor souvent y venoient &lt;/p&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>Text immediately following second image</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:df2aa8be-e084-497d-b7f5-0ac46726ea3e">
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1538,708 1538,708' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:4e2905ad-8f06-47d6-a32f-c3ccdf2c1d74">
+    <oa:hasBody rdf:resource="urn:uuid:803cdf94-ef88-4840-bf7e-a71e4ef48d30"/>
+    <oa:hasTarget rdf:resource="urn:uuid:62612ff0-cbc8-4dc8-9140-16d4972d2454"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:465e1e14-982d-41db-9212-1e85cd41b888">
+    <oa:exact>Mais n’i pooit rien conquester.</oa:exact>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:34bdb0f0-2c14-4aea-9d3e-62e640b7b23d">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:a6945971-3789-4e77-8598-4cf0d7252be5"/>
+    <oa:hasBody rdf:resource="urn:uuid:a6945971-3789-4e77-8598-4cf0d7252be5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a9fd450f-619b-4ba0-bdd2-a7f66d440cbc">
+    <oa:exact>,</oa:exact>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:c5a485a5-3ef7-4953-87f4-d13827250af4">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:df2aa8be-e084-497d-b7f5-0ac46726ea3e"/>
+    <oa:hasSource rdf:resource="urn:uuid:62612ff0-cbc8-4dc8-9140-16d4972d2454"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:f9e4d3e6-418c-4c80-ac09-499d2687c3df">
+    <oa:hasTarget rdf:resource="urn:uuid:55106ea4-5b6e-44ea-bfa1-3980c2157dca"/>
+    <oa:hasBody rdf:resource="urn:uuid:e211e9d5-a1e9-492f-8884-4f2ff284e91b"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a8dd2388-a7a9-49e2-ac77-a812ff7fc0cc">
+    <cnt:chars>&lt;p&gt;As noted in the annotation of the &lt;span about="urn:uuid:d34ddc41-6c5c-4c42-9fd6-86eec28a010c" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;depiction of the poet&lt;/span&gt; on this folio, the prince is shown here in a manner befitting his stature; he is taller than the poet, who bows his head deferentially to him, and wears jewelry, indicating his wealth, as well as a sword, indicating his position as nobility. The prince is also differentiated from the poet-clerk through his beard, which is consistently portrayed throughout the other illuminations in Manuscript E (see also &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b6000795k/f201.item" style="text-decoration: underline; "&gt;fr. 9221 fol. 89r&lt;/a&gt; and &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b6000795k/f204.item" style="text-decoration: underline; "&gt;fr. 9221 fol. 90v&lt;/a&gt;). &lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;[Side note: the body language in the image on &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b6000795k/f204.item" style="text-decoration: underline; "&gt;fr. 9221 fol. 90v&lt;/a&gt; also serves to portray the power of the prince versus that of the poet: after the dream, though the poet is the one who recounts most of the story, the prince appears to be the one taking control of the conversation in this image. His raised and pointed index finger, in conjunction with his slightly-forward body position, contrasts with the reclined and unassuming position of the poet, giving the impression of confidence and assuredness on the part of the prince--which isn't at all how he is portrayed at this point in the text.] &lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;The sword further serves to highlight the difference between the simple poet-clerk, who, as stated by the poet himself at the beginning of the &lt;i style="font-style: italic; "&gt;Fontaine&lt;/i&gt;, would be better suited to the art of wordplay, versus a warrior-lord, trained in the art swordplay:&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;(Cited from &lt;i style="font-style: italic; "&gt;Guillaume de Machaut: The Prologue and Four Love Poems&lt;/i&gt;, ed. R. Barton Palmer)&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;
+&lt;p class=""&gt;"Let he who thinks himself a good example, think about his worth, &lt;/p&gt;&lt;p class=""&gt;For I intend to testify and state &lt;/p&gt;&lt;p class=""&gt;That a cowardly knight &lt;/p&gt;&lt;p class=""&gt;And a clerk who would be brave&lt;/p&gt;
+&lt;p class=""&gt;Aren’t worth my hand full of straw &lt;/p&gt;&lt;p class=""&gt;In a passage of arms or battle&lt;/p&gt;
+&lt;p class=""&gt;For each is acting against what is right; &lt;/p&gt;&lt;p class=""&gt;And so if they do well it’s luck" (Palmer 41, lines 131-138)&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;The color of the robes of the prince serves further to distinguish him from the poet. The bold color red of his tunic presents a striking contrast with the muted purple of the poet's habits, implying bravery and nobility. &lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>Prince Depiction in BNF f. fr. 9221 fol. 86 v.</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:85128d23-02fc-4471-99ea-df46bbc557c4">
+    <dc:title>Clothes</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:90fd80cf-c4a3-4ce1-8a92-9e85a9762596">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:d34ddc41-6c5c-4c42-9fd6-86eec28a010c"/>
+    <oa:hasSource rdf:resource="urn:uuid:a8dd2388-a7a9-49e2-ac77-a812ff7fc0cc"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:363dbe94-b8a5-4afb-bb71-3bcfe6222c0a">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:f8655b8e-81df-4a6c-896a-79d04fc02e54"/>
+    <oa:hasSelector rdf:resource="urn:uuid:5f008faf-285c-4f2b-9c43-1842437a78bb"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:38d18070-124f-46f0-8e48-ac826a7642c8">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>Illumination comparison with other folio in F</dc:title>
+    <cnt:chars>&lt;p&gt;In this folio of MS F, the two illuminations depict the lover and poet looking at the Fountain of Love. Though the surrounding text provides a detailed description of the decoration of the fountain, the illuminations keep the reader within the narrative frame of lover and poet, rather than that of Hector and Achilles or Jupiter and Venus. &lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;To compare, in &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b60007997/f252.image" style="text-decoration: underline; "&gt;folio 122v of the same MS&lt;/a&gt;, there is a high concentration of illuminations (4) illustrating the myth of Ceyx and Alcyone, which calls attention to its narration as opposed to that of the poet hearing and writing down the lover's lament. &lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;Comparing these illuminations with those of folio 127r, we can understand how the illuminations guide the reader to stay within a certain narrative frame. &lt;a href="https://collab.itc.virginia.edu/access/content/group/658f937f-3041-433a-86c3-c9394b36163d/Readings%20for%202_13/fren5150.huot.a-late-redaction-of-machauts-oeuvre.pdf"&gt;As Huot has suggested&lt;/a&gt;, the "truth" of the text (in this case the detailed description of the figures carved into the fountain) is not called into question. Instead, the narrative focus is on that of the poet and the lover (299).&lt;/div&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:4d9116c4-8496-4497-a76c-76d025c7f1d9">
+    <cnt:chars>&lt;p&gt;The illuminator has made the lover and the poet quite distinguishable. The poet's less vibrantly colored robes contrast the deep red of those of the lover, which is indicative of the class difference. Furthermore, the lover/price is wearing an illuminated, decorative sash. &lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;While the illumination does elucidate the difference between poet and lover/prince, and &lt;a href="https://collab.itc.virginia.edu/access/content/group/658f937f-3041-433a-86c3-c9394b36163d/Readings%20for%202_13/fren5150.huot.a-late-redaction-of-machauts-oeuvre.pdf"&gt;Huot&lt;/a&gt; notes that &lt;i style="font-style: italic; "&gt;La Fonteinne&lt;/i&gt; is the poem in which Machaut most explicitly presents himself as poet in
+      the service of an aristocratic patron (293), certain aspects reinforce the more egalitarian relationship suggested in the text. Lines 1243-6 read, &lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;"Every day I heard so much said about you &lt;/p&gt;
+&lt;p&gt;That reason drew my will &lt;/p&gt;
+&lt;p&gt;Toward loving and obeying you, &lt;/p&gt;
+&lt;p&gt;As well as, and gladly, &lt;i style="font-style: italic; "&gt;seeing&lt;/i&gt; you."&lt;/p&gt;&lt;p&gt;(emphasis mine)&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;The poet does not merely wish to blindly love and obey the prince, he also wishes to &lt;i style="font-style: italic; "&gt;see&lt;/i&gt; him, to interact with him. Soon after, in line 1271, the prince addresses the poet as his "sweet friend." Their relationship has a more friendly, egalitarian dynamic rather than the submissive poet/noble patron relationship more typical of Machaut's other work. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;This is depicted in the illumination: the poet is standing at the same height as the lover/prince, with a relaxed posture. Additionally, the decorative detailing on the poet's shoes catch the attention of the reader's eye. Avril has noted that Remy, the illuminator of this MS, usually drew his figures flat and with few details (Éditions Klincksieck, 1982, pg. 129). Because he took care to decorate the poet's shoes, we can imagine that the poet is just as important as the lover in this illumination.&lt;/p&gt;&lt;/div&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>Identifying lover and poet</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:6ae38030-2756-48f3-aad2-5d8aea41f6ff">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>Fountain sets up dream space</dc:title>
+    <cnt:chars>&lt;p&gt;The two illuminations on this folio illustrate the Fountain of Love, though they do not necessarily depict word-for-word the detailed descriptions of the carvings on the fountain given in the surrounding text. Because we still see the poet and the lover, as well as the fountain, it seems that the illuminations seek to set up them up in the dream space. &lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;The image of the fountain, with its twelve-headed serpent, certainly suggests a mythological atmosphere. Additionally, in lines 1305-07, the text reads, &lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;"But there was no sheep or ewe, &lt;/div&gt;
+&lt;p&gt;No bitch, stag, or household animal &lt;/p&gt;
+&lt;p&gt;Who ever drank there, for it was mounted atop &lt;/p&gt;
+&lt;p&gt;A great pillar of ivory"&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;The reader understands that the fountain does not serve the practical purpose of providing water for animals. Rather, it is a fountain for lovers, whose decoration evokes gods and mythological figures. &lt;a href="http://www.jstor.org/stable/pdfplus/3526160.pdf?acceptTC=true"&gt;As Anne Stone has written&lt;/a&gt; in a piece about Ciconia's &lt;i&gt;Sus une fontanye&lt;/i&gt;, "the image of the fountain was a common-place of medieval French poetry, in which its real-life role as a source of water represented metaphorically a source of more abstract attributes-love, virtue and so on" (375). &lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Because these illuminations illustrate the fountain &lt;i style="font-style: italic; "&gt;as well as&lt;/i&gt; the surrounding nature and the poet and lover, it seems to guide the reader into the dream space without letting them get too involved in the image of the fountain itself, where the focus is on the story of the lover and the poet. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:019bb08e-4e32-4f53-9005-651606a5ca39">
+    <oa:hasSource rdf:resource="urn:uuid:f9a1a41a-a1ac-4e68-ac72-36d1087e68cb"/>
+    <oa:hasSelector rdf:resource="urn:uuid:e7a15e1e-1466-4350-b55c-24a5b30ace33"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:62612ff0-cbc8-4dc8-9140-16d4972d2454">
+    <dc:title>BNF f. fr. 22545 fol. 127 r.</dc:title>
+    <rdf:type rdf:resource="http://www.shared-canvas.org/ns/Canvas"/>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3863</exif:height>
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3000</exif:width>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:e50bac41-fe59-4d90-82c8-eda491fc5388">
+    <oa:hasTarget rdf:resource="urn:uuid:f8655b8e-81df-4a6c-896a-79d04fc02e54"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="http://ada.drew.edu/annotation_store/media/user_images/112495.jpg"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:3f917fe9-47a7-466a-87af-4f26feefb5d8">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:62612ff0-cbc8-4dc8-9140-16d4972d2454"/>
+    <oa:hasSelector rdf:resource="urn:uuid:dfbdf07b-b316-4664-bed8-b46c154c872b"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:3dbd38ff-2747-4f11-bf0e-ca61dc582535">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>Et Troïllus moult se traveille</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:6f20540f-f590-42c6-9854-aa6a4de7a4af">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+    <dc:title></dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:48ae22d1-a4e6-4b0e-84ed-d12eeab2df40">
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='716,1011 716,1011' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:76543668-9f14-4587-89e7-0a1c84025801">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:62612ff0-cbc8-4dc8-9140-16d4972d2454"/>
+    <oa:hasSelector rdf:resource="urn:uuid:cb426397-fcf5-43ea-a4b7-a4ae255c34cc"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:ee3f0120-5299-46ac-884e-0eaa0b05078a">
+    <oa:exact>Et Venus le marbre et l’ivoire</oa:exact>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:d2efd568-c71e-415a-955b-9df3c188b478">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:90fd80cf-c4a3-4ce1-8a92-9e85a9762596"/>
+    <oa:hasTarget rdf:resource="urn:uuid:a7106509-7bdc-4ca8-8e65-01e0b678a51b"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:d26c5493-73a5-4338-87bb-d500550e5b61">
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='542,545 680,546 795,532 804,611 836,677 887,636 914,747 830,832 840,1017 473,1005 541,770 520,745 542,545' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:20e0667d-a896-497f-ad18-3c52448532a1">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>Fist entaillier, c’est chose voire,</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:914ffc7d-0812-4bdf-b38f-3ba37f356844">
+    <oa:hasTarget rdf:resource="urn:uuid:f8655b8e-81df-4a6c-896a-79d04fc02e54"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:a7106509-7bdc-4ca8-8e65-01e0b678a51b"/>
+    <oa:hasTarget rdf:resource="urn:uuid:d0907a88-610e-42b8-9af5-96d648e328be"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:8ea3cd89-6300-471b-916b-2027305f05ba">
+    <oa:hasBody rdf:resource="urn:uuid:20108a91-ddab-43bb-a5dd-06891720936a"/>
+    <oa:hasTarget rdf:resource="urn:uuid:5512e049-add7-4788-90f3-052a1a299d79"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:6acefa0f-e064-4edc-8b25-bf76f571ac16">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:3f917fe9-47a7-466a-87af-4f26feefb5d8"/>
+    <oa:hasBody rdf:resource="urn:uuid:f9a1a41a-a1ac-4e68-ac72-36d1087e68cb"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a4fe2a6b-e44a-495b-b83c-429b7387cfe3">
+    <oa:hasTarget rdf:resource="urn:uuid:e0d65843-ee34-48e1-9645-c01d20947df0"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:30af75d0-e648-40fa-9e7c-39dd8763f2b3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:fd5a76a0-7900-4985-a101-97bbcf8ebef3">
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='2113,1418 2112,1411 2112,1411 2113,1418' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:435cf327-efb5-49dd-8de4-8f187ba41f29">
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='547,613 534,725 569,731 511,963 652,956 657,855 644,728 661,700 655,676 639,651 626,636 618,627 654,665 610,623 547,613' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:57994fe9-fa24-4a76-bb9e-2a7237a3cc01">
+    <oa:hasTarget rdf:resource="urn:uuid:cafe6742-0cbe-4478-b5e8-43b65b588f19"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:cafe6742-0cbe-4478-b5e8-43b65b588f19"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:f688e1a5-111c-4e9e-9a8a-92dcb2cf74f2">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>Hand Gestures on fr. 22545 fol. 127r</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:1fc0cd0d-dddb-46fa-b064-93ba515d65dc">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:48ae22d1-a4e6-4b0e-84ed-d12eeab2df40"/>
+    <oa:hasSource rdf:resource="urn:uuid:62612ff0-cbc8-4dc8-9140-16d4972d2454"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:b543c039-12dc-4999-bf03-11a0140a609d">
+    <oa:hasSelector rdf:resource="urn:uuid:7ccd1575-b997-4dc0-b24a-adb8fc12ea8f"/>
+    <oa:hasSource rdf:resource="urn:uuid:62612ff0-cbc8-4dc8-9140-16d4972d2454"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:29b64182-0c10-411c-aceb-b401b6968fad">
+    <cnt:chars>&lt;p&gt;As stated by Earp in &lt;i&gt;Guillaume de Machaut : A Guide to Research&lt;/i&gt; (Garland, 1995), there is a remarkable similarity in the locations of the miniatures in MSS A and F-G, which suggests that they shared the same exemplars. The contents of the miniatures, though, differ greatly. &lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;For a comparison of these two miniatures in MSS A and F-G, refer to &lt;i&gt;Guillaume de Machaut : The Prologue and Four Love Poems&lt;/i&gt;, edited by R. Barton Palmer, pages 102 and 106. &lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;[then go in and do more specific differences]&lt;/div&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>Miniatures </dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:5512e049-add7-4788-90f3-052a1a299d79">
+    <oa:hasSelector rdf:resource="urn:uuid:d744f03e-4c2d-418f-bcc0-f1e661927c1b"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:f8655b8e-81df-4a6c-896a-79d04fc02e54"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:3053e4c9-5188-4d58-8fcf-1b38e2d23293">
+    <oa:hasTarget rdf:resource="urn:uuid:f8a7cb51-b481-48b7-a08c-6d1fbe7d639d"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:f8a7cb51-b481-48b7-a08c-6d1fbe7d639d"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:c52ef6ac-b5b6-4f65-a4b1-007586d32ff6">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:0c0544f2-88fd-4e5b-b04c-b3f09af7329d"/>
+    <oa:hasBody rdf:resource="urn:uuid:766fa6c8-d587-4b89-80be-2f496ed799a2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:8662359f-6387-4c52-9897-8f5bc5470771">
+    <oa:hasTarget rdf:resource="urn:uuid:b543c039-12dc-4999-bf03-11a0140a609d"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasBody rdf:resource="urn:uuid:59ee65b5-6382-4820-bb0a-72a2ffeeaba0"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:6585779f-1816-49f8-ac56-c8646258924b">
+    <oa:hasBody rdf:resource="urn:uuid:8a661849-0598-4783-91ea-98a1a5128afe"/>
+    <oa:hasTarget rdf:resource="urn:uuid:2e3733a8-ea6e-4be2-b92c-38088c49d579"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:b95bbb7f-b501-422b-8129-4dd6d7067c50">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>Placement of illuminations</dc:title>
+    <cnt:chars>&lt;p&gt;MS A includes a heading declaring that it has been organized according to Guillaume de Machaut's wishes, declaring the effort of the aged author to order his works definitively.  &lt;a href="https://collab.itc.virginia.edu/access/content/group/658f937f-3041-433a-86c3-c9394b36163d/Readings%20for%202_13/EarpJournalofAmerMusSoc.pdf" style="text-decoration: underline; "&gt;Earp&lt;/a&gt; has proposed that MS F was copied from the same exemplar as MS A, given that the placement and program of the miniatures is almost identical (489). &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b84490444/f348.image" style="text-decoration: underline; "&gt;Though the program of these 2 illuminations differs from that of MS A&lt;/a&gt;, their placement within the text is most likely that desired by Machaut himself. &lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;The first illumination occurs amidst supplementary information about the decoration on the fountain. More specifically, lines 1330-3 state, &lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;"Lower down was the battle 
+&lt;p&gt;Where Achilles in the melee &lt;/p&gt;
+&lt;p&gt;Was fighting against Hector."&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;The next space contains the illumination, and the 7 lines following pertain to the story of Hector and Achilles, but not necessarily the description of the carvings in the fountain. Although the program of the illumination does not correspond exactly to the authoritative MS A, neither depict the exact description narrated in the text. It seems probable that Machaut wanted the reader to remain within the narrative frame of the poet and the lover in the garden with the fountain, rather than getting caught up in the story of Hector and Achilles. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;The second illumination on this folio resembles very closely the first. It occurs just after a description of the nature surrounding the fountain, which further sets up the garden as a dream space. The major difference between the two illuminations is that in the second, the poet and prince are seated. Additionally, whereas the first occurred in the middle of a narration of a description of the fountain, the second seems to indicate a new, fresh thought. The text goes from a description of the area surrounding the fountain, to the illumination, to a narration of the poet and lover's actions: &lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;"He sat down and made me sit &lt;/p&gt;
+&lt;p&gt;To listen and look over &lt;/p&gt;
+&lt;p&gt;The fountain’s design" (lines 1371-1373).&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Given that the two characters are now seated and that the illumination breaks up two trains of thought, it seems to prepare the reader to focus on the description of the fountain that continues. &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;/div&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:e08c53ef-17cc-43b0-a51d-397808125bb8">
+    <oa:hasSelector rdf:resource="urn:uuid:d812a344-e9f2-4939-a570-9e537f46d19c"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:f8655b8e-81df-4a6c-896a-79d04fc02e54"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:4a7bd0a7-9676-499a-95db-1df0b200d687">
+    <oa:exact>Et que Jupiter l’ordonna</oa:exact>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:6b588d65-2541-40ff-b68a-05962ac04acb">
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='2466,961 2437,977 2427,986 2432,1000 2434,1007 2428,1017 2407,1033 2391,1074 2383,1110 2381,1135 2385,1151 2384,1170 2381,1192 2391,1203 2385,1251 2378,1285 2400,1295 2396,1310 2386,1321 2386,1338 2387,1343 2402,1330 2402,1318 2409,1306 2418,1309 2418,1293 2457,1298 2456,1306 2462,1312 2477,1330 2481,1339 2492,1343 2493,1326 2487,1317 2484,1309 2469,1305 2476,1264 2483,1196 2492,1154 2488,1125 2488,1108 2486,1074 2481,1051 2477,1035 2469,1023 2469,1012 2481,1001 2490,988 2487,977 2476,973 2468,968 2466,961' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:07ce32d1-384c-4486-ad69-124789b1f916">
+    <dc:title>Fountain as visual artifact </dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;a href="https://collab.itc.virginia.edu/access/content/group/658f937f-3041-433a-86c3-c9394b36163d/Readings%20for%202_13/fren5150.huot.a-late-redaction-of-machauts-oeuvre.pdf"&gt;Sylvia Huot, in her reading of Machaut's oeuvre&lt;/a&gt;, asserts that the presence of Machaut's &lt;i&gt;Roman de la Rose&lt;/i&gt; in &lt;i&gt;La Fonteinne Amoureuse&lt;/i&gt; is suggested by the description of the fountain and the corresponding images. And, as in the &lt;i&gt;Roman&lt;/i&gt;, there is a coupling of Guillaume de Machaut and Jean de Berry; and "once again the orally expressed, lyric lament of the lover-singer is transformed into a written text by the poet-writer, whose intervention allows for a fulfillment, at least poetically, of the lover's dilemma" (296). &lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;Though Huot is referring to the &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b84490444/f347.image"&gt;illuminations in MS A&lt;/a&gt;, the illuminations of the fountain in F occur at the same point in the text, and in both A and F the depiction of the fountain is rather vague as compared to the detailed description in the text. Nevertheless, the prominent role of the visual artifact in both MSS is stressed, and readers who are familiar with the &lt;i&gt;Rose&lt;/i&gt; and its illuminations are able to recognize the reference and understand the parallels between the two works. &lt;/div&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:c5032a97-25be-467e-a28a-2c91ba800e16">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:62612ff0-cbc8-4dc8-9140-16d4972d2454"/>
+    <oa:hasSelector rdf:resource="urn:uuid:25ef05e6-d9cc-46d1-a14b-c05b5121665a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:f8655b8e-81df-4a6c-896a-79d04fc02e54">
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4114</exif:height>
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3000</exif:width>
+    <rdf:type rdf:resource="http://www.shared-canvas.org/ns/Canvas"/>
+    <dc:title>BNF f. fr. 9221 fol. 86 v.</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:8978e35c-c09f-4c3a-b5e5-0251f0cb4022">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>Et le mervilleus sagittaire</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:e112ab4e-6496-42c3-bb64-824ed241a3df">
+    <oa:hasTarget rdf:resource="urn:uuid:55106ea4-5b6e-44ea-bfa1-3980c2157dca"/>
+    <oa:hasBody rdf:resource="urn:uuid:cb9dc10d-ae83-4d00-bbca-333f37e39286"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:8576eeb7-96e3-4f30-9a01-c2b248835ebc">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>states</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:b27e4551-7ab3-4473-a020-05c2eae30359">
+    <oa:hasBody rdf:resource="urn:uuid:2e3733a8-ea6e-4be2-b92c-38088c49d579"/>
+    <oa:hasTarget rdf:resource="urn:uuid:363dbe94-b8a5-4afb-bb71-3bcfe6222c0a"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dm.drew.edu/store/users/uva-4@googlegroups.com">
+    <perm:mayDelete rdf:resource="urn:uuid:2e40f3cb-ad66-43a5-920f-844da62ead72"/>
+    <dm:lastOpenProject rdf:resource="urn:uuid:2e40f3cb-ad66-43a5-920f-844da62ead72"/>
+    <perm:mayAugment rdf:resource="urn:uuid:2e40f3cb-ad66-43a5-920f-844da62ead72"/>
+    <perm:mayAdminister rdf:resource="urn:uuid:2e40f3cb-ad66-43a5-920f-844da62ead72"/>
+    <perm:mayRead rdf:resource="urn:uuid:2e40f3cb-ad66-43a5-920f-844da62ead72"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    <foaf:mbox rdf:resource="mailto:uva-4@googlegroups.com"/>
+    <perm:hasPermissionOver rdf:resource="urn:uuid:2e40f3cb-ad66-43a5-920f-844da62ead72"/>
+    <perm:mayCreateChildrenOf rdf:resource="urn:uuid:2e40f3cb-ad66-43a5-920f-844da62ead72"/>
+    <perm:mayUpdate rdf:resource="urn:uuid:2e40f3cb-ad66-43a5-920f-844da62ead72"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:d744f03e-4c2d-418f-bcc0-f1e661927c1b">
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='2497,1053 2491,1044 2487,1037 2482,1029 2472,1028 2472,1041 2467,1045 2483,1050 2484,1061 2515,1131 2507,1137 2513,1150 2522,1140 2537,1134 2551,1131 2551,1125 2540,1122 2528,1124 2520,1124 2513,1126 2497,1053' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:e0482754-71c1-47f4-b414-93be00ae7cb3">
+    <oa:hasTarget rdf:resource="urn:uuid:79e116d4-e5f2-4c9c-9588-82e4ccbf2127"/>
+    <oa:hasBody rdf:resource="urn:uuid:4d9116c4-8496-4497-a76c-76d025c7f1d9"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:7ccd1575-b997-4dc0-b24a-adb8fc12ea8f">
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1501,219 1320,219 1320,1104 1501,1104 1501,219' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:25ef05e6-d9cc-46d1-a14b-c05b5121665a">
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='716,1028 716,1028' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:dfbdf07b-b316-4664-bed8-b46c154c872b">
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1703,560 1777,548 1835,575 1865,570 1885,543 1972,513 1986,574 1862,585 1776,641 1757,593 1702,609 1703,610 1703,560' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:20108a91-ddab-43bb-a5dd-06891720936a">
+    <dc:title>Hand Gestures on BNF f. fr. 9221 fol. 86 v.</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;p&gt;Despite the striking differences in depiction of the poet and the prince on this folio, all of which seem to underscore the societal differences between the two, the placement of the hand of the prince on the shoulder of the poet serves to promote the idea of intimacy, and perhaps even a hint of equality, between them. The prince, in showing the poet his wondrous fountain and asking him what he thinks of it, is indeed asking the opinion of an &lt;i&gt;ami&lt;/i&gt;, as the &lt;span about="urn:uuid:97134447-4b17-48d4-9283-545907afb010" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;caption &lt;/span&gt;&lt;span about="urn:uuid:59ef93c1-b955-4403-8d52-0578ef3a3f3d" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;overtly&lt;/span&gt;&lt;span about="urn:uuid:8576eeb7-96e3-4f30-9a01-c2b248835ebc" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt; states&lt;/span&gt;. &lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;However, perhaps this is less indicative of a true friendship crossing the boundaries of social classes, and more of a &lt;i&gt;collaboration &lt;/i&gt;between poet and patron, as Wilkins describes in his article, "A Pattern of Patronage: Machaut, Froissart and the Houses of Luxembourg and Bohemia in the Fourteenth Century": "Of particular interest are those passages which reveal to us not only the stages and processes of the composition of lyrics, but also of the character of instruction and collaboration between lords and ladies and their underlings...the master invents a texts, the 'vallès' writes it down and helps him to sing it, in such a way that the eventual merits and &lt;i&gt;grace&lt;/i&gt; of the piece are admitted to be due to both in equal measure..." (Wilkins 273).&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;The artist, conscious of the Duke of Berry's long history of patronage of Machaut ("Jean's patronage of Machaut dates back at least to about 1360"(Earp 489-490)), possibly sought to depict the poet and the prince in the same way Machaut and the Duke would have interacted--a sort of &lt;i&gt;separate but differently equal &lt;/i&gt;collaboration between someone gifted with status by birth, and someone gifted with poetic expression. Each is divinely gifted in his own right, but on different scales of measure.&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;Ultimately, however, it is still the prince who is the one initiating the intimacy in this depiction, implying that it is only through the choice and the action of the socially higher-ranked individual that intimacy between these two can be achieved.&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;Compare with &lt;span about="urn:uuid:f688e1a5-111c-4e9e-9a8a-92dcb2cf74f2" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Hand Gestures on fr. 22545 fol. 127r&lt;/span&gt;.&lt;br/&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;Text corresponding to the image (cited from &lt;i&gt;Guillaume de Machaut: The Prologue and Four Love Poems&lt;/i&gt;, ed. R. Barton Palmer):&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;"Il s’assist et me fist sëoir &lt;/div&gt;&lt;div&gt;Pour escouter et pour vëoir &lt;/div&gt;&lt;div&gt;L’ordenance de la fonteinne, &lt;/div&gt;&lt;div&gt;Qui n’estoit rude ne villeinne,&lt;/div&gt;
+&lt;p class=""&gt;Et le lieu qui estoit entour &lt;/p&gt;&lt;p class=""&gt;Compassez et fais a droit tour.&lt;/p&gt;
+&lt;p class=""&gt;Et puis me prist a demander &lt;/p&gt;&lt;p class=""&gt;S’il y avoit rien qu’amender" (Palmer 106, lines 1371-1378)&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:30af75d0-e648-40fa-9e7c-39dd8763f2b3">
+    <oa:hasSource rdf:resource="urn:uuid:20108a91-ddab-43bb-a5dd-06891720936a"/>
+    <oa:hasSelector rdf:resource="urn:uuid:f688e1a5-111c-4e9e-9a8a-92dcb2cf74f2"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:5d684b27-94c2-482b-a3c5-e149c0e6ad58">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:0c0544f2-88fd-4e5b-b04c-b3f09af7329d"/>
+    <oa:hasSelector rdf:resource="urn:uuid:edc46f74-f4e4-4240-b06d-47cb65488223"/>
+  </rdf:Description>
+</rdf:RDF>

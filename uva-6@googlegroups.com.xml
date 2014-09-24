@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:cnt="http://www.w3.org/2011/content#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:dm="http://dm.drew.edu/ns/"
+   xmlns:exif="http://www.w3.org/2003/12/exif/ns#"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:oa="http://www.w3.org/ns/oa#"
+   xmlns:ore="http://www.openarchives.org/ore/terms/"
+   xmlns:perm="http://vocab.ox.ac.uk/perm#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="urn:uuid:e0fe6686-667f-4f29-a729-d5747e37b6d6">
+    <oa:hasBody rdf:resource="urn:uuid:d74722a2-7218-486a-8fe3-021d0bc2d024"/>
+    <oa:hasTarget rdf:resource="urn:uuid:6298d653-b9f4-4e1b-9722-8a9ddb061a3d"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:3e9041a4-a048-42b8-990d-4c35aaa6c1e4">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;p&gt;Here the fountain seems to be the location for a discourse between Poet and Prince: the two are clearly engaging with eachother in a way that reflects the metaliterary or metatextual thematic quality of this miniature&lt;br/&gt;&lt;br/&gt;For other images of the fountain:&lt;br/&gt;&lt;br/&gt;Literal and realistic fountain, with running water, perhaps symbolizing the waters of poetic creation.  Poet and Prince are participating together.&lt;br/&gt;MS A - &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b84490444/f347.image"&gt;163r&lt;/a&gt;, &lt;br/&gt;&lt;br/&gt;Fountain as site for the mutual dream&lt;br/&gt;MS A - &lt;br/&gt;&lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b84490444/f352.image"&gt;165v&lt;/a&gt; - The Prince enveloped in the Poet's coat&lt;br/&gt;&lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b84490444/f359.image"&gt;169r&lt;/a&gt; - Here the Prince is in a more dominant position&lt;br/&gt;&lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b84490444/f360.image"&gt;169v&lt;/a&gt; - "Le confort de l'amant et de la dame" &lt;br/&gt;&lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b84490444/f367.image"&gt;173r&lt;/a&gt; - Poet and Prince on opposite sides of the fountain, just before capture&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;</cnt:chars>
+    <dc:title>The Fountain on BNF f. fr. 9221 fol. 90 v.</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:d74722a2-7218-486a-8fe3-021d0bc2d024">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:4ee70cd4-3778-4cc1-98a5-c73e29c58aff"/>
+    <oa:hasSource rdf:resource="urn:uuid:15be75d1-0efe-48db-a3fa-37334c462531"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:42959133-8be2-4562-b4cd-35fe603810a9">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:72cf02bc-9257-4284-8a70-e8ccf0146eba"/>
+    <oa:hasSelector rdf:resource="urn:uuid:d82c20ee-fe8b-4f9b-bb0e-8aa46bee235e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:e29db5b6-2ecf-4967-955b-32327069c5e5">
+    <oa:hasTarget rdf:resource="urn:uuid:dbdc9a76-0ebb-4e96-9dd7-9ae53857d06d"/>
+    <oa:hasBody rdf:resource="urn:uuid:2bffcdf9-62bb-4aa5-a499-8c1569e8ecff"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:5a4a1f9e-abc4-4a17-8ed7-e37f3b62ba88">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>Abbreviations and Expansions</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:5d62cfdd-7608-4d32-aeff-1fbc928b7d2e">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>Abbreviations and Expansions on Readership on BNF f. fr. 22545 fol. 134 r.</dc:title>
+    <cnt:chars>&lt;p&gt;This text does not include abbreviations or expansions, thus indicating an assumption that its readers would not be capable of incorporating expansion marks into their reading and understanding of the text (for a text with expansion marks, see &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b6000795k/f1.image"&gt;MS E 9221&lt;/a&gt;).
+&lt;br/&gt;&lt;/p&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a1b3c3b4-e1b7-404b-8d5f-938f9c592c4f">
+    <oa:exact>the poet's hand</oa:exact>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:83819bc6-6593-423d-89f6-b9dadb965fae">
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1634,1973 1640,2071 1627,2071 1625,2112 1723,2147 1820,2127 1833,2117 1814,2047 1814,1956 1771,1904 1777,1871 1762,1852 1744,1778 1710,1848 1688,1872 1693,1906 1673,1941 1673,1943 1634,1973' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a862eeb7-cb22-426a-822e-fe3fd6447ede">
+    <oa:hasBody rdf:resource="urn:uuid:1b707fe4-0ff1-4f37-9010-ae2d2267c0fd"/>
+    <oa:hasTarget rdf:resource="urn:uuid:db941aa8-0019-42ce-a52e-1222fc240572"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:96d31e4a-12ec-41b8-8371-d57cf52cd31b">
+    <oa:hasTarget rdf:resource="urn:uuid:9f5ee722-a88e-4beb-86af-8881f2ce4259"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasBody rdf:resource="urn:uuid:8d6fe7ba-64f8-47cb-9cb9-99c14d3cb75d"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:4f3467de-c616-49d8-8697-5e0d36fb518b">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:05f99d8e-04f7-49f4-8fe2-da70cc9da589"/>
+    <oa:hasBody rdf:resource="urn:uuid:a6c1ab9f-f8ee-483a-8698-bb3d8d1597da"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:d82c20ee-fe8b-4f9b-bb0e-8aa46bee235e">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>MS E 9221 fol. 90 v.</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ada.drew.edu/annotation_store/media/user_images/113393.jpg">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Image"/>
+    <dc:title>BNF f. fr. 9221 fol. 90 v.</dc:title>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4115</exif:height>
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3000</exif:width>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:548b995f-9a86-49ea-a959-346570026e47">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:05f99d8e-04f7-49f4-8fe2-da70cc9da589"/>
+    <oa:hasSelector rdf:resource="urn:uuid:8dfac872-3092-484a-884a-d28b0fdeb531"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:86fc2ded-43a3-45ee-8f0f-f598d4baf4e6">
+    <cnt:chars>&lt;br/&gt;&lt;br/&gt;</cnt:chars>
+    <dc:title>New Annotation on BNF f. fr. 22545 fol. 134 r.</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:24a62336-380c-4268-a3b9-4ebb121f8751">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>Audience Inclusion in Illustration</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:6395626a-1738-4d89-a422-c83a985d9e68">
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1506,2023 1471,2050 1471,2125 1491,2193 1486,2218 1528,2260 1504,2294 1580,2284 1649,2307 1630,2242 1627,2180 1584,2160 1586,2108 1543,2073 1562,2023 1547,2025 1564,2023 1564,2025 1560,2030 1564,2028 1506,2023' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:9c4b04e6-4983-42a7-add6-b6c2132cf0a5">
+    <dc:title>New Annotation on BNF f. fr. 22545 fol. 134 r.</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;br/&gt;&lt;br/&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:2bcf1f34-dfc4-47c4-b6ce-16a6be42b7c9">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <cnt:chars>&lt;polyline fill='none' stroke='rgba(3, 75, 158, 0.7)' stroke-width='6' points='1836,1254 1727,1257 1732,1256' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:434f312d-4c11-4feb-933d-7ce7fb0c7e1d">
+    <oa:hasBody rdf:resource="urn:uuid:5f0486f0-f7a9-4c44-83d1-8607a3d6c4c0"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:15be75d1-0efe-48db-a3fa-37334c462531"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:15be75d1-0efe-48db-a3fa-37334c462531">
+    <rdf:type rdf:resource="http://www.shared-canvas.org/ns/Canvas"/>
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3000</exif:width>
+    <dc:title>BNF f. fr. 22545 fol. 134 r.</dc:title>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3863</exif:height>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:4ee70cd4-3778-4cc1-98a5-c73e29c58aff">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='2112,1932 2155,2046 2261,2308 1986,2309 1991,1994 2033,1922 2072,1910 2112,1932' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:f8839e00-59b8-4af2-af41-7d919ec11169">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:e1fcb1a3-af6f-48a6-92b1-d5730480968c"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasTarget rdf:resource="urn:uuid:1a48eb92-63ca-4e2a-aa5e-e764532b5d39"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:99c41f92-4b67-4771-8e1b-5b15d556099a">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:94265fd0-82fb-479b-afd8-5cfef2575dd8"/>
+    <oa:hasBody rdf:resource="urn:uuid:7c6764e4-de24-4f09-8538-6908eea269b5"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:8ac96662-67c8-46cb-8c7d-abc914c6fd3a">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;br/&gt;&lt;br/&gt;</cnt:chars>
+    <dc:title>New Annotation on BNF f. fr. 22545 fol. 134 r.</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:885d4df8-8a22-4c1b-a32b-5e7cea078aaa">
+    <oa:hasBody rdf:resource="urn:uuid:3157a261-eb9d-4bbf-b00d-a73a93927ba0"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:0fc00505-5af1-43ff-845e-47ad43358502"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:f67b9a41-816a-4697-9082-e9ed90969441">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:b580fec1-c467-407f-bf97-f3e8dd1f725e"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasBody rdf:resource="urn:uuid:79c56961-2647-4868-bd31-e0ec0caa2171"/>
+    <oa:hasTarget rdf:resource="urn:uuid:99704fd2-3e13-4b40-9573-4fe204c7e812"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:e73ba063-8cde-4076-a8f7-fd390b14ec99">
+    <dc:title>Poet's Hand on BNF f. fr. 22545 fol. 134 r.</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;span about="urn:uuid:00df2c75-f732-48e9-9155-85d65911eeba" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;The poet's hand&lt;/span&gt; is here seen grasping the prince's arm in a possessive, dependent, and almost feminine manner.&lt;br/&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;For depictions of feminine dependency, see:&lt;/div&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:2bffcdf9-62bb-4aa5-a499-8c1569e8ecff">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:15be75d1-0efe-48db-a3fa-37334c462531"/>
+    <oa:hasSelector rdf:resource="urn:uuid:00ba8f1f-8ecb-4f10-b4fe-558032e6d2d9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:f7328ee0-f0c2-4eda-8512-7737abd97eb3">
+    <oa:hasSelector rdf:resource="urn:uuid:83819bc6-6593-423d-89f6-b9dadb965fae"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:05f99d8e-04f7-49f4-8fe2-da70cc9da589"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a3882e27-4b05-4c5e-9b67-e8f5aea14175">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:e195b19a-8581-49c8-9bce-36da1edceba8"/>
+    <oa:hasTarget rdf:resource="urn:uuid:e195b19a-8581-49c8-9bce-36da1edceba8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:01c0e642-dc41-4aab-83c1-f0bda1f45ebc">
+    <dc:title>The poet on BNF f. fr. 22545 fol. 134 r.</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;p&gt;In this miniature the poet prostrates himself before his patron and prince.  He is not showing the bravado we see in other manuscripts of this text.&lt;br/&gt;&lt;/p&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:f0d397f8-4f2e-4e98-b9b5-42ccaeabf69c">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>Patronage on BNF f. fr. 9221 fol. 90 v.</dc:title>
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:ee1ab9c9-7f4d-4768-a029-5eabe3fe3537">
+    <dc:title>New Annotation on BNF f. fr. 9221 fol. 90 v.</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:dbdc9a76-0ebb-4e96-9dd7-9ae53857d06d">
+    <oa:hasSelector rdf:resource="urn:uuid:a1b3c3b4-e1b7-404b-8d5f-938f9c592c4f"/>
+    <oa:hasSource rdf:resource="urn:uuid:72cf02bc-9257-4284-8a70-e8ccf0146eba"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:79c56961-2647-4868-bd31-e0ec0caa2171">
+    <dc:title>Specific Moment of Illustration on Readership on BNF f. fr. 22545 fol. 134 r.</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;div&gt;
+The miniature in this folio illustrates a specific moment within the story - the moment where a knight of the prince's court goes to the prince and requests that the prince return to the manor to eat.
+&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;    &lt;/span&gt;But while we were entertaining ourselves&lt;br/&gt;&lt;span&gt;    &lt;/span&gt;And debating the doings of love,&lt;br/&gt;&lt;span&gt;    &lt;/span&gt;A knight appeared before us,&lt;br/&gt;&lt;span&gt;    &lt;/span&gt;Who went down at once to his knees,&lt;br/&gt;&lt;span&gt;    &lt;/span&gt;And said this to him quite directly:&lt;br/&gt;&lt;span&gt;    &lt;/span&gt;“Sire, your meal is spoiled&lt;br/&gt;&lt;span&gt;    &lt;/span&gt;Because you have been here&lt;br/&gt;&lt;span&gt;    &lt;/span&gt;More than half a summer’s day.”&lt;br/&gt;&lt;span&gt;    &lt;/span&gt;And so we rose from that spot&lt;br/&gt;&lt;span&gt;    &lt;/span&gt;And went toward his manor,&lt;br/&gt;&lt;span&gt;    &lt;/span&gt;Which is the most handsome, to tell the truth,&lt;br/&gt;&lt;span&gt;    &lt;/span&gt;In France or the Empire.&lt;br/&gt;&lt;span&gt;    &lt;/span&gt;But we didn’t go without his people,&lt;br/&gt;&lt;span&gt;    &lt;/span&gt;For many a knight handsome and noble,&lt;br/&gt;&lt;span&gt;    &lt;/span&gt;Attractive, good looking, nicely turned out,&lt;br/&gt;&lt;span&gt;    &lt;/span&gt;And genteel attended him under a lime tree (l. 2745-2760).
+&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;The choice of this specific moment within the story is an interesting choice: this is not a meta-moment, or an instance where the text is discussing more complex themes.  It is a small moment of concrete certainty, illustrating a plausible moment of reality.  A meta-textual moment (also possible for illustration, as the text itself is included in this folio) would be the poet and prince's discussion of Venus.  This is a moment more in line with the meta-themes of the poem, as opposed to the concrete moment of a knight's summons of his lord to dinner.&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;The use of a specific moment vs. a meta-textual moment speaks to the intended audience in that a meta-textual moment calls on an understanding of the continuous themes throughout the text; an illustration of a concrete moment draws the reader into the story more effectively, requiring less continued cognizance of the story, and allowing for a more momentary relationship with it.  This also hints at the possibility of silent vs. oral reading: a text with meta-illustrations could rely on a silent reader to be continuously engaged with the text, whereas an oral reading would necessarily rely on concrete moments to continuously engage the listener, and bring them back to the threads of the story.&lt;/div&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ada.drew.edu/annotation_store/media/user_images/113386.jpg">
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3863</exif:height>
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3000</exif:width>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Image"/>
+    <dc:title>BNF f. fr. 22545 fol. 134 r.</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:2c1c5152-d199-4d74-872c-753adedbd14d">
+    <oa:hasSelector rdf:resource="urn:uuid:5a4a1f9e-abc4-4a17-8ed7-e37f3b62ba88"/>
+    <oa:hasSource rdf:resource="urn:uuid:5f0486f0-f7a9-4c44-83d1-8607a3d6c4c0"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:4d7d3ce8-7378-441c-a1f3-d128af1c4a32">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1934,1827 1840,1810 1746,1821 1702,1928 1617,2285 1957,2305 1946,2125 1992,1950 1986,1915 1934,1827' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:e73e6d93-5d50-4bdc-93fc-df0514e2b48a">
+    <oa:exact>Specific Moment of Illustration</oa:exact>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:2c7419fb-2345-4f87-9b3a-9481e130493c">
+    <cnt:chars>&lt;br/&gt;&lt;br/&gt;</cnt:chars>
+    <dc:title>New Annotation on BNF f. fr. 22545 fol. 134 r.</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:05f99d8e-04f7-49f4-8fe2-da70cc9da589">
+    <rdf:type rdf:resource="http://www.shared-canvas.org/ns/Canvas"/>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4115</exif:height>
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3000</exif:width>
+    <dc:title>BNF f. fr. 9221 fol. 90 v.</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:9f5ee722-a88e-4beb-86af-8881f2ce4259">
+    <oa:hasSource rdf:resource="urn:uuid:05f99d8e-04f7-49f4-8fe2-da70cc9da589"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:2bcf1f34-dfc4-47c4-b6ce-16a6be42b7c9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:8dfac872-3092-484a-884a-d28b0fdeb531">
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1448,1739 2026,1739 2026,2343 1448,2343 1448,1739' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:3970fa77-9fa7-4da1-aa74-876a8f8d35f2">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:2c1c5152-d199-4d74-872c-753adedbd14d"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasBody rdf:resource="urn:uuid:5d62cfdd-7608-4d32-aeff-1fbc928b7d2e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:7c6764e4-de24-4f09-8538-6908eea269b5">
+    <dc:title>The poet on BNF f. fr. 9221 fol. 90 v.</dc:title>
+    <cnt:chars>&lt;p&gt;Other images of the poet:&lt;br/&gt;&lt;br/&gt;Poetic creation, interior spaces, and literality&lt;br/&gt;MS A –  &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b84490444/f332.image"&gt;155v&lt;/a&gt;&lt;br/&gt;MS F -&lt;br/&gt;&lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b60007997/f247.image"&gt;120r &lt;/a&gt;- Poet asleep&lt;br/&gt;&lt;br/&gt;Dream states and Morpheus&lt;br/&gt;MS A –  &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b84490444/f337.image"&gt;158r&lt;/a&gt;, &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b84490444/f338.image"&gt;158v&lt;/a&gt;&lt;br/&gt;MS F - &lt;br/&gt;&lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b60007997/f252.image"&gt;122v&lt;/a&gt; - the "messagiere" appearing very much like Morpheus&lt;br/&gt;&lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b60007997/f253.image"&gt;123r&lt;/a&gt; - Morpheus appearing in bedchamber of sleeping lord/prince (crown)&lt;br/&gt;&lt;/p&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:4091a375-9e83-4ac1-b4dc-e33fce1effe0">
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+    <dc:title>New Annotation on BNF f. fr. 9221 fol. 90 v.</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:1b707fe4-0ff1-4f37-9010-ae2d2267c0fd">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>Presentation of the text New Annotation on BNF f. fr. 22545 fol. 134 r.</dc:title>
+    <cnt:chars>&lt;p&gt;In this miniature we see the poet presenting the text to his patron, the prince.  In other images we see the poet in a position of power but here he prostrates himself before the prince with the gift of his own manuscript in hand.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:8d6fe7ba-64f8-47cb-9cb9-99c14d3cb75d">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>Abbreviations and Expansions on BNF f. fr. 9221 fol. 90 v.</dc:title>
+    <cnt:chars>&lt;p&gt;This word shows the use of signs to represent letters that are taken out of the word to conserve space.  It takes a more educated readerships to digest these nuances in their written form than it would take when the reader expanded the words in an oral recitation.  &lt;br/&gt;&lt;/p&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:99eadd1d-8d74-485b-b6dd-83e6e65028f7">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:00df2c75-f732-48e9-9155-85d65911eeba"/>
+    <oa:hasSource rdf:resource="urn:uuid:e73ba063-8cde-4076-a8f7-fd390b14ec99"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:b580fec1-c467-407f-bf97-f3e8dd1f725e">
+    <oa:hasSource rdf:resource="urn:uuid:5f0486f0-f7a9-4c44-83d1-8607a3d6c4c0"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:e73e6d93-5d50-4bdc-93fc-df0514e2b48a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:5f0486f0-f7a9-4c44-83d1-8607a3d6c4c0">
+    <dc:title>Readership on BNF f. fr. 22545 fol. 134 r.</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;p&gt;Assumptions can be made as to the intended audience of this manuscript, based on examination of this folio.  Three elements indicate the text was for a noble, non-scholarly audience:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span about="urn:uuid:5a4a1f9e-abc4-4a17-8ed7-e37f3b62ba88" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Abbreviations and Expansions&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span about="urn:uuid:e73e6d93-5d50-4bdc-93fc-df0514e2b48a" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Specific Moment of Illustration&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span about="urn:uuid:24a62336-380c-4268-a3b9-4ebb121f8751" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;Audience Inclusion in Illustration&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:20d5e8d9-dda2-4e87-a3ca-86422c2f4e3b">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:4d7d3ce8-7378-441c-a1f3-d128af1c4a32"/>
+    <oa:hasSource rdf:resource="urn:uuid:15be75d1-0efe-48db-a3fa-37334c462531"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:3157a261-eb9d-4bbf-b00d-a73a93927ba0">
+    <dc:title>Feminine Dependence on Depiction of Poet on BNF f. fr. 22545 fol. 134 r.</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;div&gt;&lt;strong&gt;For further depictions of feminine dependence in this manuscript, see:&lt;/strong&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;Poet and prince sleeping beside fountain&lt;/div&gt;&lt;div&gt;Poet and prince astride horse - &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b60007997/f276.image"&gt;MS F 22545 fol. 134 v.&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;For further depictions of feminine dependence in other manuscripts, see:&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:ecf3e3ff-bd9e-4303-880a-0d3b93e38296">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1853,2102 1881,2088 1879,2030 1905,2019 1944,2050 1927,2076 1951,2115 1949,2175 1949,2214 1951,2255 1922,2284 1879,2290 1842,2301 1816,2321 1799,2331 1801,2312 1816,2303 1786,2307 1706,2305 1699,2294 1801,2271 1810,2197 1821,2195 1842,2108 1844,2106 1853,2102' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:00df2c75-f732-48e9-9155-85d65911eeba">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>The poet's hand</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:bdb580f4-c590-4066-8b8f-ba2233601721">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+    <dc:title></dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dm.drew.edu/store/users/uva-6@googlegroups.com">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    <perm:hasPermissionOver rdf:resource="urn:uuid:a45c0ba5-7218-495b-a828-56b7ef71ade0"/>
+    <perm:mayAugment rdf:resource="urn:uuid:a45c0ba5-7218-495b-a828-56b7ef71ade0"/>
+    <perm:mayAdminister rdf:resource="urn:uuid:a45c0ba5-7218-495b-a828-56b7ef71ade0"/>
+    <perm:mayCreateChildrenOf rdf:resource="urn:uuid:a45c0ba5-7218-495b-a828-56b7ef71ade0"/>
+    <perm:mayUpdate rdf:resource="urn:uuid:a45c0ba5-7218-495b-a828-56b7ef71ade0"/>
+    <foaf:mbox rdf:resource="mailto:uva-6@googlegroups.com"/>
+    <perm:mayRead rdf:resource="urn:uuid:a45c0ba5-7218-495b-a828-56b7ef71ade0"/>
+    <perm:mayDelete rdf:resource="urn:uuid:a45c0ba5-7218-495b-a828-56b7ef71ade0"/>
+    <dm:lastOpenProject rdf:resource="urn:uuid:a45c0ba5-7218-495b-a828-56b7ef71ade0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a45c0ba5-7218-495b-a828-56b7ef71ade0">
+    <rdf:type rdf:resource="http://dm.drew.edu/ns/Project"/>
+    <dc:title>Imported Project</dc:title>
+    <ore:aggregates rdf:resource="urn:uuid:05f99d8e-04f7-49f4-8fe2-da70cc9da589"/>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+    <ore:aggregates rdf:resource="urn:uuid:15be75d1-0efe-48db-a3fa-37334c462531"/>
+    <dcterms:description>Created from the contents of your old DM workspace</dcterms:description>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Project"/>
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/Aggregation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:4c7ca3c2-97ed-4cff-884c-10c0fbb38318">
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+    <dc:title>New Annotation on BNF f. fr. 22545 fol. 134 r.</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:73c363fa-582f-409e-8e88-ce9164d761cd">
+    <oa:hasSelector rdf:resource="urn:uuid:ecf3e3ff-bd9e-4303-880a-0d3b93e38296"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:05f99d8e-04f7-49f4-8fe2-da70cc9da589"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:723c6dcd-cbba-439d-a9f6-520fe5e22806">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:05f99d8e-04f7-49f4-8fe2-da70cc9da589"/>
+    <oa:hasBody rdf:resource="http://ada.drew.edu/annotation_store/media/user_images/113393.jpg"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:2ef3ccc8-fcbf-441f-8e70-66e64df01526">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:2bffcdf9-62bb-4aa5-a499-8c1569e8ecff"/>
+    <oa:hasBody rdf:resource="urn:uuid:0fc00505-5af1-43ff-845e-47ad43358502"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:e1fcb1a3-af6f-48a6-92b1-d5730480968c">
+    <dc:title>Audience Inclusion in Illustration on Readership on BNF f. fr. 22545 fol. 134 r.</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;div&gt;
+&lt;span about="urn:uuid:aeb6c159-aceb-46fb-b738-e7d3b1f2e6eb" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;The inclusion of a knight&lt;/span&gt; in the miniature is a moment where the text speaks directly to its intended audience.  As a representative of the noble class, the knight's inclusion in the miniature is an attempt to draw the reader into the text, indicating a kind of participation on the part of the reader in the events of the story.  This is perhaps why the artist chose this specific moment of the story to illustrate, as opposed to other, more visually-appealing specific moments; to include a member of the intended audience within the story creates the illusion of reality, thereby allowing for a greater engagement on the part of the reader.&lt;br/&gt;&lt;/div&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:6298d653-b9f4-4e1b-9722-8a9ddb061a3d">
+    <oa:hasSelector rdf:resource="urn:uuid:aeb6c159-aceb-46fb-b738-e7d3b1f2e6eb"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:e1fcb1a3-af6f-48a6-92b1-d5730480968c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:155942f4-557f-47de-97fa-c1f17fb18a81">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:58a5966c-322e-4343-8138-5ada241553d2"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasBody rdf:resource="urn:uuid:9c4b04e6-4983-42a7-add6-b6c2132cf0a5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:1a48eb92-63ca-4e2a-aa5e-e764532b5d39">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:5f0486f0-f7a9-4c44-83d1-8607a3d6c4c0"/>
+    <oa:hasSelector rdf:resource="urn:uuid:24a62336-380c-4268-a3b9-4ebb121f8751"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:72cf02bc-9257-4284-8a70-e8ccf0146eba">
+    <cnt:chars>&lt;div&gt;The relationship between poet and prince in this manuscript is one of simultaneous equality and subtle subservience on the part of the poet.  While the poet and prince are shown in an intimate relationship (see &lt;span about="urn:uuid:a1b3c3b4-e1b7-404b-8d5f-938f9c592c4f" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;the poet's hand&lt;/span&gt; grasping the prince's arm in a possessive, dependent, almost feminine manner), thus indicating a high degree of equality, that equality is subtly problematized.  The poet is standing behind the prince, not next to him, is grasping his arm, and is clearly dressed in a clerk's clothing, as opposed to the clothing of a nobleman 
+(for greater equality in dress, see &lt;span about="urn:uuid:d82c20ee-fe8b-4f9b-bb0e-8aa46bee235e" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact"&gt;MS E 9221 fol. 90 v.&lt;/span&gt;, &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b60007997/f273.image"&gt;MS F 22545 fol. 133 r.&lt;/a&gt;).&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;For further representations of problematized equality between poet and prince in this manuscript, see:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;Poet and prince standing beside fountain - &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b60007997/f260.image"&gt;MS F 22545 fol. 126 v.&lt;/a&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;Poet and prince standing beside fountain, seated beside fountain - &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b60007997/f261.image"&gt;MS F 22545 fol. 127 r. (2)&lt;/a&gt;&lt;/div&gt;&lt;div&gt;Poet and prince with the complaint - &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b60007997/f263.image"&gt;MS F 22545 fol. 128 r.&lt;/a&gt;&lt;/div&gt;&lt;div&gt;Prince asleep in poet's arms beside fountain - &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b60007997/f264.image"&gt;MS F 22545 fol. 128 v.&lt;/a&gt;&lt;/div&gt;&lt;div&gt;Poet and prince standing beside fountain - &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b60007997/f273.image"&gt;MS F 22545 fol. 133 r.&lt;/a&gt;&lt;/div&gt;&lt;div&gt;Poet and prince astride horse - &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b60007997/f276.image"&gt;MS F 22545 fol. 134 v.&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;For representations of equality (or problematized equality) between poet and prince in other manuscripts, see:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;Poet and prince standing beside fountain - &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b6000795k/f196.image"&gt;MS E 9221 fol. 86 v.&lt;/a&gt;&lt;/div&gt;&lt;div&gt;Poet and prince lying beside fountain - &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b6000795k/f201.image"&gt;MS E 9221 fol. 89 r.&lt;/a&gt;&lt;/div&gt;&lt;div&gt;Poet and prince seated beside fountain - &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b6000795k/f204.image"&gt;MS E 9221 fol. 90 v.&lt;/a&gt;&lt;/div&gt;&lt;div&gt;Poet in study, prince in the margins - &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b84490444/f332.image"&gt;MS A 1584 fol. 155 v.&lt;/a&gt;&lt;/div&gt;&lt;div&gt;Poet and prince in conversation - &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b84490444/f344.image"&gt;MS A 1584 fol. 161 v.&lt;/a&gt;&lt;/div&gt;&lt;div&gt;Poet and prince beside fountain - &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b84490444/f347.image"&gt;MS A 1584 fol. 163 r.&lt;/a&gt;&lt;/div&gt;&lt;div&gt;Poet and prince in conversation - &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b84490444/f350.image"&gt;MS A 1584 fol. 164 v.&lt;/a&gt;&lt;/div&gt;&lt;div&gt;Poet and prince sleeping beside fountain - &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b84490444/f352.image"&gt;MS A 1584 fol. 165 v.&lt;/a&gt;&lt;br/&gt;&lt;/div&gt;&lt;div&gt;Poet and prince sleeping beside fountain (converse of fol. 165 v., above) - &lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b84490444/f359.image"&gt;MS A 1584 fol. 169 r.&lt;/a&gt;&lt;/div&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>Depiction of Poet and Prince on BNF f. fr. 22545 fol. 134 r.</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a6c1ab9f-f8ee-483a-8698-bb3d8d1597da">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;p&gt;The figurative thematic of this miniature suggests a more educated and/or scholarly readership.  The image depicts the symbolic environment of poetic creation wherein the poet and the prince collaborate within the creative space of the poem, denoted by the fountain.&lt;br/&gt;&lt;br/&gt;The image proposes a certain metaliterature that would appeal to an erudite audience.  &lt;br/&gt;&lt;/p&gt;</cnt:chars>
+    <dc:title>Readership on BNF f. fr. 9221 fol. 90 v.</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:1de67574-06fb-4061-b306-69853ba0c106">
+    <oa:hasBody rdf:resource="urn:uuid:f0d397f8-4f2e-4e98-b9b5-42ccaeabf69c"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasTarget rdf:resource="urn:uuid:73c363fa-582f-409e-8e88-ce9164d761cd"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:0a518f49-305d-4a02-970f-9cc3f153eabb">
+    <oa:hasTarget rdf:resource="urn:uuid:f7328ee0-f0c2-4eda-8512-7737abd97eb3"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasBody rdf:resource="urn:uuid:3e9041a4-a048-42b8-990d-4c35aaa6c1e4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:eee99a6b-5a83-4033-a977-46a22448794e">
+    <oa:hasTarget rdf:resource="urn:uuid:15be75d1-0efe-48db-a3fa-37334c462531"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="http://ada.drew.edu/annotation_store/media/user_images/113386.jpg"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:aeb6c159-aceb-46fb-b738-e7d3b1f2e6eb">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#TextQuoteSelector"/>
+    <oa:exact>The inclusion of a knight</oa:exact>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:17e053e5-9c6d-4e20-9455-d9d7c8f98671">
+    <oa:hasTarget rdf:resource="urn:uuid:f5dd0d0b-c949-4c15-b30f-a67eba6fd1c7"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:72cf02bc-9257-4284-8a70-e8ccf0146eba"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasTarget rdf:resource="urn:uuid:20d5e8d9-dda2-4e87-a3ca-86422c2f4e3b"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:cabe316a-763f-4f99-bd32-e9b8cb3cd646">
+    <oa:hasBody rdf:resource="urn:uuid:26b28719-172c-4648-a873-4dbf9d87f12c"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:99eadd1d-8d74-485b-b6dd-83e6e65028f7"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:94265fd0-82fb-479b-afd8-5cfef2575dd8">
+    <oa:hasSource rdf:resource="urn:uuid:05f99d8e-04f7-49f4-8fe2-da70cc9da589"/>
+    <oa:hasSelector rdf:resource="urn:uuid:6395626a-1738-4d89-a422-c83a985d9e68"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:00ba8f1f-8ecb-4f10-b4fe-558032e6d2d9">
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1810,1970 1813,1943 1836,1946 1850,1986 1838,2011 1828,1995 1810,1970' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:e6898165-a713-4907-9095-e3db23f9e843">
+    <oa:hasTarget rdf:resource="urn:uuid:548b995f-9a86-49ea-a959-346570026e47"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:42959133-8be2-4562-b4cd-35fe603810a9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:26b28719-172c-4648-a873-4dbf9d87f12c">
+    <dc:title>New Annotation on Poet's Hand on BNF f. fr. 22545 fol. 134 r.</dc:title>
+    <cnt:chars>&lt;br/&gt;&lt;br/&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:79502b28-c343-43be-bea5-7ebccb0dc280">
+    <oa:hasBody rdf:resource="urn:uuid:19c85d0a-dcca-4177-ab6f-fb64250962fc"/>
+    <oa:hasTarget rdf:resource="urn:uuid:1b707fe4-0ff1-4f37-9010-ae2d2267c0fd"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+</rdf:RDF>

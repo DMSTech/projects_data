@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:cnt="http://www.w3.org/2011/content#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:dm="http://dm.drew.edu/ns/"
+   xmlns:exif="http://www.w3.org/2003/12/exif/ns#"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:oa="http://www.w3.org/ns/oa#"
+   xmlns:ore="http://www.openarchives.org/ore/terms/"
+   xmlns:perm="http://vocab.ox.ac.uk/perm#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="urn:uuid:bf062e09-3d6b-4c5d-8fc6-90faa35159f2">
+    <oa:hasSelector rdf:resource="urn:uuid:0e6371b9-8a11-449d-818f-819cd54db8b7"/>
+    <oa:hasSource rdf:resource="urn:uuid:c46eaba3-c920-437f-8c6a-8364ed065c08"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a6fbe4a5-77b9-4bce-b5ea-6be75662bcca">
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='432,478 971,478 971,1026 432,1026 432,478' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:7abcb683-1553-4055-bb41-2a59c1af02ec">
+    <oa:hasSelector rdf:resource="urn:uuid:c13d0c86-c9d2-461d-a799-5a00174d9879"/>
+    <oa:hasSource rdf:resource="urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:24a07f37-a34f-4ac7-8ae2-1925194d496f">
+    <oa:hasSource rdf:resource="urn:uuid:c46eaba3-c920-437f-8c6a-8364ed065c08"/>
+    <oa:hasSelector rdf:resource="urn:uuid:9c318a32-d814-402f-9e17-18485a81e888"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a943d63e-92d6-4d98-936e-4f57ba009de1">
+    <oa:hasBody rdf:resource="http://ada.drew.edu/annotation_store/media/user_images/112481.jpg"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:17b63ecb-26fe-45d9-93ef-a9a68fde7c4a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:ca76cfb2-e9e2-4072-8b92-a99ccb5153df">
+    <oa:hasSource rdf:resource="urn:uuid:c46eaba3-c920-437f-8c6a-8364ed065c08"/>
+    <oa:hasSelector rdf:resource="urn:uuid:965e3f7b-7a37-4b42-9ef9-f9bbd2aa1b3b"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ada.drew.edu/annotation_store/media/user_images/112488.jpg">
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3000</exif:width>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4115</exif:height>
+    <dc:title>BNF f. fr. 9221</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Image"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:117f39c3-c74e-4a2e-9f31-7cc96e0a24f5">
+    <oa:hasBody rdf:resource="urn:uuid:ff87779b-b5ca-49fb-bdaf-b7117ffba437"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:0a8eaf0f-96e1-45a0-9188-935f9f6f4c67"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:b92829eb-ed96-454b-8b3f-380ff5de5eaa">
+    <oa:hasTarget rdf:resource="urn:uuid:26789a11-e866-461d-8c1e-4a7b8289220a"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasBody rdf:resource="urn:uuid:6d0ea6ae-4f67-47fc-ba72-9717a1b853b8"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:9794c741-1987-4fb5-9a95-70165264116d">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>Annotation on "Suzanne au bain" miniature</dc:title>
+    <cnt:chars>&lt;p&gt;This image is remarkable different in theme than the opening miniature in Mss F.  This image privileges the exemplary story that is related early in the text, that of Suzanna bathing.  Instead of visually representing the transmission of the book from poet to prince, this image chooses to visually represent the didactic substance of the text.&lt;br/&gt;&lt;/p&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:c13d0c86-c9d2-461d-a799-5a00174d9879">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='654,609 744,609 744,789 654,789 654,609' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a7505e70-45fd-43a6-8763-ec45fb961165">
+    <oa:hasSelector rdf:resource="urn:uuid:9dc1a5ab-a2c5-48ef-89db-1e05bfb8a0a9"/>
+    <oa:hasSource rdf:resource="urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:3d263768-0423-4c40-b833-1d8b0ac02d43">
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1935,678 1955,649 2002,673 1993,717 1935,678' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:b34b1abe-3e36-4d34-bc36-12d968a701a9">
+    <oa:hasTarget rdf:resource="urn:uuid:9eca8239-b1d0-4a54-9716-a3d8f24ebba6"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasBody rdf:resource="urn:uuid:e015c620-5adf-427f-9f25-0e38abe085fb"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ada.drew.edu/annotation_store/media/user_images/113405.jpg">
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3885</exif:height>
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3000</exif:width>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Image"/>
+    <dc:title>BNF f. fr. 9221 fol. 93 r.</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:e75a644c-e00b-4e2c-b3ce-d16cbb4cdc7b">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:55da32a7-e987-4702-9e08-958a15d11757"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasTarget rdf:resource="urn:uuid:a7505e70-45fd-43a6-8763-ec45fb961165"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:8adf10ae-606d-4836-b43a-48a1b89a49b3">
+    <cnt:chars>&lt;p&gt;Le vieillard, qui fait un geste de proposition vers Suzanne&lt;/p&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>New Annotation on BNF f. fr. 9221 fol. 93 r.</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:965e3f7b-7a37-4b42-9ef9-f9bbd2aa1b3b">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1954,656 1954,661 1954,661 1954,656' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:b3e5922a-7bbf-4b0a-814f-b81150979544">
+    <oa:hasSelector rdf:resource="urn:uuid:e771aeea-5ee0-4eea-8316-adf847026ad5"/>
+    <oa:hasSource rdf:resource="urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:58edafce-7aee-4ae5-985e-986ccd7a9e83">
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:6233c803-13e6-4f85-9b86-eddd597bb67e"/>
+    <oa:hasTarget rdf:resource="urn:uuid:a7505e70-45fd-43a6-8763-ec45fb961165"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:5dab19b0-4708-4314-8c36-fe9eea33e0c7">
+    <cnt:chars>&lt;p&gt;Richly attired, and seated on a formally on a throne.  Behind him stands a guard, to the left, a person that appears to be in a religious order but who is also probably charged with guarding him.  This religious person looks in the direction of the poet, who is represented as being not physically present at the scene.&lt;br/&gt;&lt;/p&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>Annotation on the figure of the Prince</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:97a8ab8f-6bbe-48a6-b8a4-169ca35587fd">
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasTarget rdf:resource="urn:uuid:7abcb683-1553-4055-bb41-2a59c1af02ec"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:d2a4d468-9f7f-419e-b309-a049fc7f1202"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:26789a11-e866-461d-8c1e-4a7b8289220a">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:c46eaba3-c920-437f-8c6a-8364ed065c08"/>
+    <oa:hasSelector rdf:resource="urn:uuid:cf43576a-c58c-48cd-9924-bbf128fbfd4e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a9f5e9b1-f939-4d4c-b4ea-6455b240f24b">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;p&gt;This is a richly decorated letter A, with some gold-leafing.  This is in keeping with the upper bourgeois owner of this manuscript.  &lt;br/&gt;&lt;/p&gt;</cnt:chars>
+    <dc:title>Annotation on historiated letter of line 1</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:935e5a02-0424-4130-873a-67c6fc94b55c">
+    <cnt:chars>&lt;p&gt;Un des vieillards&lt;/p&gt;</cnt:chars>
+    <dc:title>New Annotation on BNF f. fr. 9221 fol. 93 r.</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:402178f9-3a14-4639-bb2a-75bd45f6b134">
+    <oa:hasBody rdf:resource="http://ada.drew.edu/annotation_store/media/user_images/112488.jpg"/>
+    <oa:hasTarget rdf:resource="urn:uuid:08433390-f50d-4f40-a46f-5591002b07f1"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:fa037187-7a6b-414b-97e9-72c2a084f00c">
+    <oa:hasTarget rdf:resource="urn:uuid:5ea54275-5788-47fa-b4b3-f917a3588b6e"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:b8ac8ff5-0776-487e-9458-58aac55115a8"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:39b0f741-32e9-418b-a1c3-32d655bf8471">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='393,1034 557,1094 460,1264 401,1212 393,1034' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ada.drew.edu/annotation_store/media/user_images/112481.jpg">
+    <dc:title>BNF f. fr. 22545</dc:title>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3863</exif:height>
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3000</exif:width>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Image"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a86a5c29-cf68-45be-827f-a8b019a90cf3">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>Annotation </dc:title>
+    <cnt:chars>&lt;p&gt;This appears to be a paige of some sort, who delivers the book on the part of the poet.  This more accurately reflects what the poet writes, when he says that he has not written sooner because he did not have the means to deliver his work to the captive prince.  &lt;br/&gt;&lt;/p&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:6d0ea6ae-4f67-47fc-ba72-9717a1b853b8">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>Annotation on the figure of the poet in the miniature</dc:title>
+    <cnt:chars>&lt;p&gt;This appears to be the poet, who, interestingly, is visually depicted as being elsewhere, but nevertheless watching the scene where the messenger delivers his book to the imprisoned prince.  &lt;br/&gt;&lt;/p&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:ebe83c80-a307-42a9-bb36-5630bc5962c8">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:b4e16c77-167a-450d-9619-6b146b2bb731"/>
+    <oa:hasBody rdf:resource="urn:uuid:5350ce1c-7f1e-4f25-91df-ea94aa8d373b"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:c481c168-8fa3-449d-9009-e627ea3ef050">
+    <oa:hasTarget rdf:resource="urn:uuid:a7505e70-45fd-43a6-8763-ec45fb961165"/>
+    <oa:hasBody rdf:resource="urn:uuid:daa2c4cc-5894-4389-bb07-68f3e81d543b"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:fd2c9117-242a-48c1-944f-3b472a918472">
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='428,1023 955,1023 955,481 428,481 428,1023' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:35885bf0-95f1-41ae-8d67-453f7b9e1833">
+    <oa:hasSelector rdf:resource="urn:uuid:4c13f28f-2cf6-48ac-b205-950cfa1303bf"/>
+    <oa:hasSource rdf:resource="urn:uuid:c46eaba3-c920-437f-8c6a-8364ed065c08"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:cc386f71-f1c5-4945-86d6-f339de5b1627">
+    <oa:hasSource rdf:resource="urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590"/>
+    <oa:hasSelector rdf:resource="urn:uuid:8c8aa724-f218-435c-848e-499e9a01e402"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:d2a4d468-9f7f-419e-b309-a049fc7f1202">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>New Annotation on BNF f. fr. 9221 fol. 93 r.</dc:title>
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a77f00a8-2b97-4b97-81cc-e49680afca96">
+    <oa:hasTarget rdf:resource="urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:3fcab665-8d2e-45ad-9277-e0bc6a596b40"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:0317dd60-4aa5-414d-a30d-5b74d62ea623">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>New Annotation on BNF f. fr. 22545 fol. 98 v.</dc:title>
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:0b9fb133-1934-4ebe-9c50-b7ee47e739f2">
+    <oa:hasTarget rdf:resource="urn:uuid:3a1cd816-7683-44c8-8a03-544828538e51"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:a86a5c29-cf68-45be-827f-a8b019a90cf3"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:e015c620-5adf-427f-9f25-0e38abe085fb">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+    <dc:title>New Annotation on BNF f. fr. 9221 fol. 93 r.</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:8c8aa724-f218-435c-848e-499e9a01e402">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <cnt:chars>&lt;polyline fill='none' stroke='rgba(3, 75, 158, 0.7)' stroke-width='6' points='899,1064 433,1071 487,1071' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:9dc1a5ab-a2c5-48ef-89db-1e05bfb8a0a9">
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='884,901 863,543 684,582 705,586 799,910 884,901' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:1d26b521-43a3-4f9c-b803-b68228a0e472">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:7abcb683-1553-4055-bb41-2a59c1af02ec"/>
+    <oa:hasBody rdf:resource="urn:uuid:fb6c3aa4-f733-4278-afe4-3080b13d75a5"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:694dfc0f-a688-4e12-8a47-5f5bb5bacb8b">
+    <oa:hasBody rdf:resource="urn:uuid:e64ee43e-934e-4f23-9b32-181e462d5f68"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasTarget rdf:resource="urn:uuid:006a18eb-2a7d-4c00-9dc3-b4c1abd3d85c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:55da32a7-e987-4702-9e08-958a15d11757">
+    <dc:title>Annotation on Ms E--Bible Historiale images</dc:title>
+    <cnt:chars>&lt;p&gt;This image resonates with the image of Susanna in Bible Historiale at Bodleian Libarary Ms Douce 211&lt;br/&gt;&lt;a href="http://bodley30.bodley.ox.ac.uk:8180/luna/servlet/detail/ODLodl%7E1%7E1%7E40768%7E128104:Bible-historiale-?sort=Shelfmark%2CFolio_Page%2CRoll_%23%2CFrame_%23&amp;amp;qvq=q:douce%2B211;sort:Shelfmark%2CFolio_Page%2CRoll_%23%2CFrame_%23;lc:ODLodl%7E1%7E1&amp;amp;mi=109&amp;amp;trs=156"&gt;http://bodley30.bodley.ox.ac.uk:8180/luna/servlet/detail/ODLodl~1~1~40768~128104:Bible-historiale-?sort=Shelfmark%2CFolio_Page%2CRoll_%23%2CFrame_%23&amp;amp;qvq=q:douce%2B211;sort:Shelfmark%2CFolio_Page%2CRoll_%23%2CFrame_%23;lc:ODLodl~1~1&amp;amp;mi=109&amp;amp;trs=156&lt;/a&gt;&lt;br/&gt;&lt;/p&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:8f996d11-399c-4719-a783-a516bdb636d0">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;p class=""&gt;Transcription du texte:&lt;/p&gt;&lt;p class=""&gt;&lt;br/&gt;&lt;/p&gt;&lt;p class=""&gt;&lt;br/&gt;&lt;/p&gt;&lt;p class=""&gt;Amis, a toy donner
+confort &lt;/p&gt;
+&lt;p class=""&gt;Ay meintes fois pensé
+moult fort, &lt;/p&gt;
+&lt;p class=""&gt;Et Dieus scet que je le
+feroie, &lt;/p&gt;
+&lt;p class=""&gt;Plus que ne di, se je
+pouoie, &lt;/p&gt;
+&lt;p class=""&gt;De très bon cuer et
+volentiers; &lt;/p&gt;
+&lt;p class=""&gt;Mais il n'est voie ne
+sentiers &lt;/p&gt;
+&lt;p class=""&gt;Qui mon oueil peiist
+avoier &lt;/p&gt;
+&lt;p class=""&gt;Que vers toy pelisse
+envoier. &lt;/p&gt;
+&lt;p class=""&gt;Nompourquant je
+commenceray &lt;/p&gt;
+&lt;p class=""&gt;Et, se Dieu plaist, je
+fineray. &lt;/p&gt;
+&lt;p class=""&gt;Comment que soies assez
+sages &lt;/p&gt;
+&lt;p class=""&gt;Pour toy garder, sans mes
+messages &lt;/p&gt;
+&lt;p class=""&gt;Et sans mes confors
+recevoir. &lt;/p&gt;
+&lt;p class=""&gt;Mais je le fais sans
+décevoir &lt;/p&gt;
+&lt;p class=""&gt;Pour t'amour et la
+ramembrance &lt;/p&gt;
+&lt;p class=""&gt;Que j'ay toudis de ta
+grevence. &lt;/p&gt;
+&lt;p class=""&gt; Et par ma foy, quant a
+ton fait,&lt;/p&gt;
+&lt;p class=""&gt; Je croy que tu n'as riens
+meffait,&lt;/p&gt;
+&lt;p class=""&gt; Si t'en dois a Dieu
+conforter&lt;/p&gt;
+&lt;p class=""&gt;Et tes meschiés plus
+biau porter. &lt;/p&gt;
+&lt;p class=""&gt; Sire, et se je t'apelle
+amy,&lt;/p&gt;
+&lt;p class=""&gt;N'en aies pieur cuer a my
+;&lt;/p&gt;
+&lt;p class=""&gt; Car bien sçay que tu
+esmes sires,&lt;/p&gt;
+&lt;p class=""&gt;Et je des mieudres ne
+des pires &lt;/p&gt;
+&lt;p class=""&gt; Ne suis, mais sans riens
+retenir&lt;/p&gt;
+&lt;p class=""&gt; Sui tiens, quoy qu'il
+doie avenir.&lt;/p&gt;
+&lt;p class=""&gt; N'encor pas nommer ne te
+vueil&lt;/p&gt;
+&lt;p class=""&gt; Ne moy aussi, jusqu'à
+mon vueil, &lt;/p&gt;
+&lt;p class=""&gt; Car je vueil mettre nos
+deus nons&lt;/p&gt;
+&lt;p class=""&gt; Si proprement que feme
+n'homs&lt;/p&gt;
+&lt;p class=""&gt; N'i porra riens oster ne
+mettre&lt;/p&gt;
+&lt;p class=""&gt;Qu'une sillabe et une
+lettre; &lt;/p&gt;
+&lt;p class=""&gt; Mais on n'i puet riens
+adjouster,&lt;/p&gt;
+&lt;p class=""&gt; Et pour ce les couvient
+oster.&lt;/p&gt;
+&lt;p class=""&gt; Si osteras premièrementUne sillabe
+entièrement&lt;/p&gt;
+&lt;p class=""&gt; Au commencier dou ver
+onsieme&lt;/p&gt;
+&lt;p class=""&gt; Et une lettre dou disieme&lt;/p&gt;
+&lt;p class=""&gt; Près de la fin ; la les
+saras,&lt;/p&gt;
+&lt;p class=""&gt;Quant un petit y
+museras. &lt;/p&gt;
+&lt;p class=""&gt; Einsi les met, se Dieus
+m'aie,&lt;/p&gt;
+&lt;p class=""&gt; Seulement pour la
+muserie.&lt;/p&gt;
+&lt;p class=""&gt; Et sces tu, quant on les
+sara?&lt;/p&gt;
+&lt;p class=""&gt;Quant ma dame
+chevauchera. &lt;/p&gt;
+&lt;p class=""&gt; Si qu'amis, sans riens
+controuver,&lt;/p&gt;
+&lt;p class=""&gt; Par exemples te vueil
+prouver,&lt;/p&gt;
+&lt;p class=""&gt;Qui sont contenu en la
+Bible&lt;/p&gt;
+&lt;p class=""&gt;Et qui sont a nous
+impossible, &lt;/p&gt;
+&lt;p class=""&gt; Qu'adés cils qui en Dieu
+se fie,&lt;/p&gt;
+&lt;p class=""&gt;S'il a raison de sa
+partie &lt;/p&gt;
+&lt;p class=""&gt;Et s'il l'aimme, sert et
+honneure, &lt;/p&gt;
+&lt;p class=""&gt;Adés son fait vient au
+desseure. &lt;/p&gt;
+&lt;p class=""&gt; Or commencerai ma matere&lt;/p&gt;
+&lt;p class=""&gt;En suppliant Dieu nostre
+père &lt;/p&gt;
+&lt;p class=""&gt;Qu'il soit a mon
+commancement, &lt;/p&gt;
+&lt;p class=""&gt;Au moien et au
+finement. &lt;/p&gt;
+&lt;p class=""&gt; Cils qui tout scet et qui
+tout voit,&lt;/p&gt;
+&lt;p class=""&gt;Qui tout gouverne et tout
+pourvoit, &lt;/p&gt;
+&lt;p class=""&gt;Qui ciel et air et terre
+et mer &lt;/p&gt;
+&lt;p class=""&gt;Et quanqu'on scet
+dedens nommer,&lt;/p&gt;
+&lt;p class=""&gt; Tout ce qui est, fu et
+sera,&lt;/p&gt;
+&lt;p class=""&gt;Fist tout, et tout ce
+deffera &lt;/p&gt;
+&lt;p class=""&gt;A un terme qu'il y a mis,
+&lt;/p&gt;
+&lt;p class=""&gt; N'oublie onques ses
+bons amis,&lt;/p&gt;
+&lt;p class=""&gt; Eins les conseille et les
+conforte&lt;/p&gt;
+&lt;p class=""&gt;Et joie en misère leur
+porte &lt;/p&gt;
+&lt;p class=""&gt;Par mainte diverse
+manière, &lt;/p&gt;
+&lt;p class=""&gt; Et s'aimme d'amour si
+entière&lt;/p&gt;
+&lt;p class=""&gt; Qu'onques a confort ne
+failli&lt;/p&gt;
+&lt;p class=""&gt;Qui donna tout son cuer a
+li. &lt;/p&gt;
+&lt;p class=""&gt;Prouver le vueil par
+l'Escripture &lt;/p&gt;
+&lt;p class=""&gt; Qui en pluseurs lieus
+le figure.&lt;/p&gt;
+&lt;p class=""&gt; Jadis en Babiloinne avoit&lt;/p&gt;
+&lt;p class=""&gt;Un homme qui maint bien
+savoit.&lt;/p&gt;
+&lt;p class=""&gt; De grans richesses
+renommés&lt;/p&gt;
+&lt;p class=""&gt;Estoit; Joachin fu
+nommez. &lt;/p&gt;
+&lt;p class=""&gt; Une femme ot en mariage&lt;/p&gt;
+&lt;p class=""&gt;Qui fu très bêle, bonne
+et sage, &lt;/p&gt;
+&lt;p class=""&gt;Douce, courtoise et bien
+aprise&lt;/p&gt;&lt;p class=""&gt;Et duite en la loy de
+Moyse.&lt;/p&gt;
+&lt;p class=""&gt; Susenne avoit a non la
+dame,&lt;/p&gt;
+&lt;p class=""&gt;Qui Dieu doubta de cuer
+et d'ame, &lt;/p&gt;
+&lt;p class=""&gt; Joachim avoit un vergier&lt;/p&gt;
+&lt;p class=""&gt; Les sa maison,
+qu'onques bergier&lt;/p&gt;
+&lt;p class=""&gt; Ne fist, car trop fu
+delitables&lt;/p&gt;
+&lt;p class=""&gt;Et a tous fruis de délit
+ables. &lt;/p&gt;
+&lt;p class=""&gt;Pour c'a grans tourbes y
+aloient &lt;/p&gt;
+&lt;p class=""&gt; Li Juif et s'i
+esbatoient.&lt;/p&gt;
+&lt;p class=""&gt; En celle année establi
+furent&lt;/p&gt;
+&lt;p class=""&gt;Doi juge ancien qui se
+déçurent &lt;/p&gt;
+&lt;p class=""&gt;Par luxure et par
+couvoitise &lt;/p&gt;
+&lt;p class=""&gt; Qui maint mal engendre
+et atise,&lt;/p&gt;
+&lt;p class=""&gt; Desquels Nostres Sires
+parole&lt;/p&gt;
+&lt;p class=""&gt;Et dit einsi en sa parole
+: &lt;/p&gt;
+&lt;p class=""&gt;« Des juges babyloniens &lt;/p&gt;
+&lt;p class=""&gt; Qui furent vieus et
+anciens&lt;/p&gt;
+&lt;p class=""&gt; Et gouvernoient la cité&lt;/p&gt;
+&lt;p class=""&gt;Issue est grant iniquité.
+» &lt;/p&gt;
+&lt;p class=""&gt;Cils doi la maison
+frequentoient &lt;/p&gt;
+&lt;p class=""&gt; De Joachim et la
+faisoient&lt;/p&gt;
+&lt;p class=""&gt; Leur edis, leur
+commandemens,&lt;/p&gt;
+&lt;p class=""&gt;Leurs consauz et leurs
+jugemens. &lt;/p&gt;
+&lt;p class=""&gt;Pour ce a eaus laiens
+venoient &lt;/p&gt;
+&lt;p class=""&gt;Tuit cil qui jugement
+queroient.&lt;/p&gt;
+&lt;p class=""&gt;Quant li pueples partis
+s'estoit,&lt;/p&gt;
+&lt;p class=""&gt;Lors en son vergier
+s'esbatoit &lt;/p&gt;
+&lt;p class=""&gt;Susannë avec ces pucelles
+&lt;/p&gt;
+&lt;p class=""&gt;Qui estoient gentes
+et belles;&lt;/p&gt;
+&lt;p class=""&gt;Si la veoient ombroier&lt;/p&gt;
+&lt;p class=""&gt;Tous les jours et
+esbanoier &lt;/p&gt;
+&lt;p class=""&gt;Li vieillart plein
+d'iniquité, &lt;/p&gt;
+&lt;p class=""&gt;Si qu'en ordure et en
+vilté,&lt;/p&gt;
+&lt;p class=""&gt; En ardeur, en
+concupiscence,&lt;/p&gt;
+&lt;p class=""&gt;Par désir, par foie
+plaisence &lt;/p&gt;
+&lt;p class=""&gt;Furent puis pour l'amour
+de li, &lt;/p&gt;
+&lt;p class=""&gt;Lors scens et raison
+oublièrent&lt;/p&gt;
+&lt;p class=""&gt;Et leurs yeus en terre
+clinerent, &lt;/p&gt;
+&lt;p class=""&gt;Afin que veoir ne
+peùssent &lt;/p&gt;
+&lt;p class=""&gt; Le ciel et qu'en leur
+cuer n'eussent&lt;/p&gt;
+&lt;p class=""&gt; Mémoire dou souverain
+juge&lt;/p&gt;
+&lt;p class=""&gt;Qui fait tout par raison
+et juge. &lt;/p&gt;
+&lt;p class=""&gt;Si qu'il visoient sans
+séjour &lt;/p&gt;
+&lt;p class=""&gt; Que par un couvenable
+jour&lt;/p&gt;
+&lt;p class=""&gt; La peùssent seule
+trouver,&lt;/p&gt;
+&lt;p class=""&gt;Si qu'on ne peiïst riens
+prouver &lt;/p&gt;
+&lt;p class=""&gt;De leur fait ne de leur
+pensée. &lt;/p&gt;
+&lt;p class=""&gt; Un jour [estoit
+Susenne alee&lt;/p&gt;
+&lt;p class=""&gt; En vergier en tele
+manière&lt;/p&gt;
+&lt;p class=""&gt; Comme elle en estoit
+coustumiere,&lt;/p&gt;
+&lt;p class=""&gt; O deus pucelles
+seulement,&lt;/p&gt;
+&lt;p class=""&gt;Car en vergier
+secrètement &lt;/p&gt;
+&lt;p class=""&gt; Pour la chaleur qui
+grande estoit&lt;/p&gt;
+&lt;p class=""&gt; Baingnier et laver se
+voloit.&lt;/p&gt;
+&lt;p class=""&gt; Si leur dist : « Alez sans
+targier&lt;/p&gt;
+&lt;p class=""&gt; Et cloez Fuis de ce
+vergier &lt;/p&gt;
+&lt;p class=""&gt;Et m'aportez oile a mon
+vueil,&lt;/p&gt;
+&lt;p class=""&gt; Car laver et baingnier me
+vueil. »&lt;/p&gt;
+&lt;p class=""&gt; Li vieillart reponnu
+s'estoient&lt;/p&gt;
+&lt;p class=""&gt;Ou vergier, et la la
+gaitoient &lt;/p&gt;
+&lt;p class=""&gt; Que seule la peiissent
+prendre.&lt;/p&gt;
+&lt;p class=""&gt; Quant seule fu, sans plus
+attendre,&lt;/p&gt;
+&lt;p class=""&gt; Ynellement, les saus
+menus,&lt;/p&gt;
+&lt;p class=""&gt;En sont a Susanne
+venus &lt;/p&gt;
+&lt;p class=""&gt; Et dirent : « Li vergiers
+est clos,&lt;/p&gt;
+&lt;p class=""&gt; N'il n'a créature en cest
+clos&lt;/p&gt;
+&lt;p class=""&gt;Qui nous puist veoir
+n'encuser,&lt;/p&gt;
+&lt;p class=""&gt;Si ne dois mie
+refuser &lt;/p&gt;
+&lt;p class=""&gt; A faire tout nostre
+plaisir,&lt;/p&gt;
+&lt;p class=""&gt; Car lieu, temps en as et
+loisir.&lt;/p&gt;
+&lt;p class=""&gt; Car par ta biauté sommes
+pris&lt;/p&gt;
+&lt;p class=""&gt;Et de t'amour forment
+espris. &lt;/p&gt;
+&lt;p class=""&gt;Fay dont ce que nous
+requérons.&lt;/p&gt;
+&lt;p class=""&gt;Se ne le fais, nous te
+jurons&lt;/p&gt;
+&lt;p class=""&gt;Que de toy dirons
+tesmongnage &lt;/p&gt;
+&lt;p class=""&gt;Au pueple et a tout
+ton linage &lt;/p&gt;
+&lt;p class=""&gt; Qu'a toy gisant avons
+trouvé&lt;/p&gt;
+&lt;p class=""&gt;Un jouvencel ci tout
+prouvé &lt;/p&gt;
+&lt;p class=""&gt;Et pour l'amour dou
+bacheler &lt;/p&gt;
+&lt;p class=""&gt;En feïs tes femmes
+aler. » &lt;/p&gt;
+&lt;p class=""&gt; Quant Susanne les
+entendi,&lt;/p&gt;
+&lt;p class=""&gt; S'ame et son corps a Dieu
+rendi ;&lt;/p&gt;
+&lt;p class=""&gt; Fort pleure, gemist, fort
+se plaint&lt;/p&gt;
+&lt;p class=""&gt;Et dist, en gettant
+un grant plaint : &lt;/p&gt;
+&lt;p class=""&gt; « De toutes pars me tient
+engoisse&lt;/p&gt;
+&lt;p class=""&gt; Qui mon cuer destreint et
+engoisse.&lt;/p&gt;
+</cnt:chars>
+    <dc:title>Transcription </dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:8ecad41f-c37a-4ad6-88c9-e94ac7459d9f">
+    <cnt:chars>&lt;p&gt;Description du manuscrit:&lt;/p&gt;&lt;div&gt;http://books.google.com/books?id=IbA-AAAAYAAJ&amp;amp;pg=PR30&amp;amp;lpg=PR30&amp;amp;dq=duc+de+berry+manuscrits+machaut&amp;amp;source=bl&amp;amp;ots=2rdXqdorJ_&amp;amp;sig=XjTsToms8zC3qvj0i4jmf5vAkm0&amp;amp;hl=fr&amp;amp;sa=X&amp;amp;ei=PUleT465EoH30gH1rOCjDw&amp;amp;ved=0CCIQ6AEwAA#v=onepage&amp;amp;q=duc%20de%20berry%20manuscrits%20machaut&amp;amp;f=false&lt;/div&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>New Annotation on BNF f. fr. 9221 fol. 93 r.</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:daa2c4cc-5894-4389-bb07-68f3e81d543b">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>New Annotation on BNF f. fr. 9221 fol. 93 r.</dc:title>
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:c17f51c2-0e10-4d9f-82c0-bf7788b40103">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:b8ac8ff5-0776-487e-9458-58aac55115a8"/>
+    <oa:hasBody rdf:resource="urn:uuid:2116c1bd-2865-43d3-8350-244e033cc55a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:3a1cd816-7683-44c8-8a03-544828538e51">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:8d1ad54c-8370-414c-8618-68ba0b1e242d"/>
+    <oa:hasSource rdf:resource="urn:uuid:c46eaba3-c920-437f-8c6a-8364ed065c08"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:8d1ad54c-8370-414c-8618-68ba0b1e242d">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='2030,600 2091,604 2132,947 1952,804 2017,669 2030,600' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:320e5edc-7a27-4918-8ed7-64fcde1289bf">
+    <dc:title>New Annotation on BNF f. fr. 22545 fol. 98 v.</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:4071478f-d224-432a-a823-5b5c335f6154">
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='425,468 959,468 959,1012 425,1012 425,468' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:7fe28f89-b64e-4cf8-922c-3cf430d6c79c">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>New Annotation on BNF f. fr. 9221 fol. 93 r.</dc:title>
+    <cnt:chars>&lt;p&gt;Le jeune prophète Daniel qui un geste de la main pour condamner le vieillard lubrique. &lt;/p&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:1c86b38c-bfd0-4f82-83a1-6fb4bfcffcb8">
+    <dc:title>Transcription of fol. 98v</dc:title>
+    <cnt:chars>&lt;p&gt;Lines 1-41&lt;br/&gt;Barton Palmer edition (based on Mss A)&lt;br/&gt;&lt;br/&gt;Amis, a toy donner confort&lt;br/&gt;Ay meintes fois pensé moult fort,&lt;br/&gt;Et Diex scet que je le feroie&lt;br/&gt;Plus que ne di, se je pouoie&lt;br/&gt;De tres bon cuer et volentiers  (5)&lt;br/&gt;Mais il n'est voie ne sentiers&lt;br/&gt;Qui mon oueil peust avoier&lt;br/&gt;Que vers toy peusse envoier.&lt;br/&gt;Nompourquant je commenceray&lt;br/&gt;Et, se Diex plaist, je fineray     (10)&lt;br/&gt;Comment que soies assez sages&lt;br/&gt;Pour toy garder sans mes messages&lt;br/&gt;Et sans mes conforts recevoir.&lt;br/&gt;Mais je le fais sans decevoir&lt;br/&gt;Pour t'amour et la ramembrance    (15)&lt;br/&gt;Que j'ay toudis de ta grevence&lt;br/&gt;Et par ma foy, quant a ton fait,&lt;br/&gt;Je croy que tu n'as riens meffait,&lt;br/&gt;Si t'en dois a Dieu conforter&lt;br/&gt;Et tes meschiés plus biau porter.   (20)&lt;br/&gt;Sire, et si je t'appelle amy, &lt;br/&gt;N'en aies pieur cuer a my;&lt;br/&gt;Car bien scez que tu yès mes sires,&lt;br/&gt;Et je des mieudres ne des pires&lt;br/&gt;Ne suis, mais sans riens retenir     (25)&lt;br/&gt;Sui tiens, quoy qu'il doie avenir&lt;br/&gt;N'encor pas nommer ne te veuil,&lt;br/&gt;Ne moy aussi jusqu'a mon vueil&lt;br/&gt;Car je vueil mettre nos .ii. nons&lt;br/&gt;Si proprement que feme n'homs      (30)&lt;br/&gt;N'i porra riens oster ne mettre&lt;br/&gt;Qu'une sillabe et une lettre.&lt;br/&gt;Mais on n'i peut riens adjouster,&lt;br/&gt;Et pour ce les couvient oster.&lt;br/&gt;Si osteras premierement           (35)&lt;br/&gt;Une sillabe entierement&lt;br/&gt;Au commencier dou ver onsieme&lt;br/&gt;Et une lettre dou disieme&lt;br/&gt;Pres de la fin; la les saras&lt;br/&gt;Quant .i. petit y museras.      (40)&lt;br/&gt;&lt;/p&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:351e7a68-460b-465a-9d0b-49761858a54c">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <cnt:chars>&lt;circle fill='rgba(15, 108, 214, 0.6)'  stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' cx='2119.2135301' cy='404.056097773' r='7' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dm.drew.edu/store/users/uva-3@googlegroups.com">
+    <dm:lastOpenProject rdf:resource="urn:uuid:8a04bd19-9127-42d2-b280-4174d80421b2"/>
+    <perm:mayUpdate rdf:resource="urn:uuid:8a04bd19-9127-42d2-b280-4174d80421b2"/>
+    <perm:mayCreateChildrenOf rdf:resource="urn:uuid:8a04bd19-9127-42d2-b280-4174d80421b2"/>
+    <perm:mayAdminister rdf:resource="urn:uuid:8a04bd19-9127-42d2-b280-4174d80421b2"/>
+    <foaf:mbox rdf:resource="mailto:uva-3@googlegroups.com"/>
+    <perm:mayAugment rdf:resource="urn:uuid:8a04bd19-9127-42d2-b280-4174d80421b2"/>
+    <perm:mayDelete rdf:resource="urn:uuid:8a04bd19-9127-42d2-b280-4174d80421b2"/>
+    <perm:hasPermissionOver rdf:resource="urn:uuid:8a04bd19-9127-42d2-b280-4174d80421b2"/>
+    <perm:mayRead rdf:resource="urn:uuid:8a04bd19-9127-42d2-b280-4174d80421b2"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:43e650d9-f4ce-49ec-824a-a72500b1771d">
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1816,474 1898,461 1968,918 1690,918 1816,474' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:6aa13028-f271-43fa-a7de-5f6bb5fe502e">
+    <oa:hasTarget rdf:resource="urn:uuid:9eca8239-b1d0-4a54-9716-a3d8f24ebba6"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasBody rdf:resource="urn:uuid:9794c741-1987-4fb5-9a95-70165264116d"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:82c5f0d8-7bd1-4031-9d89-ee02a5e84a2c">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:b4e16c77-167a-450d-9619-6b146b2bb731"/>
+    <oa:hasBody rdf:resource="urn:uuid:935e5a02-0424-4130-873a-67c6fc94b55c"/>
+    <oa:hasTarget rdf:resource="urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:ae231b84-9b58-4015-9a16-4bac999468dc">
+    <oa:hasBody rdf:resource="urn:uuid:006a18eb-2a7d-4c00-9dc3-b4c1abd3d85c"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:c46eaba3-c920-437f-8c6a-8364ed065c08">
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3883</exif:height>
+    <rdf:type rdf:resource="http://www.shared-canvas.org/ns/Canvas"/>
+    <dc:title>BNF f. fr. 22545 fol. 98 v.</dc:title>
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3000</exif:width>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:e5c24ab5-9de5-4238-911d-37a362ddd860">
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1676,335 2587,335 2587,942 1676,942 1676,335' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:e64ee43e-934e-4f23-9b32-181e462d5f68">
+    <cnt:chars>&lt;p&gt;Miniature représentant l'auteur et son messager qui donne au roi le Comfort d'ami. Thème complètement différent du manuscrit précédent qui illustre le texte. Ici, mise en abime du texte. &lt;/p&gt;</cnt:chars>
+    <dc:title>New Annotation on BNF f. fr. 22545 fol. 98 v.</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:4d3de4dd-569d-4f69-bce9-f64407a3a98d">
+    <cnt:chars>&lt;p&gt;Here is Machaut's anagram to name both himself and his intended audience, Charles of Navarre.&lt;br/&gt;&lt;/p&gt;</cnt:chars>
+    <dc:title>Anagram notation</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:c09e10b9-7d3c-4d2f-9ec8-61f29bd95065">
+    <oa:hasSelector rdf:resource="urn:uuid:aa78219c-7b2d-4b85-9b55-3cf99be1d138"/>
+    <oa:hasSource rdf:resource="urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:6c9e1593-ded6-46f4-ab60-31bb00964e36">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="http://ada.drew.edu/annotation_store/media/user_images/113405.jpg"/>
+    <oa:hasTarget rdf:resource="urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:b8ac8ff5-0776-487e-9458-58aac55115a8">
+    <cnt:chars>&lt;p&gt;Miniature. Le fond représente le verger dans lequel se trouve Suzanne,, espace clos cerné par un mur.&lt;/p&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>New Annotation on BNF f. fr. 9221 fol. 93 r.</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:fb6c3aa4-f733-4278-afe4-3080b13d75a5">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>New Annotation on BNF f. fr. 9221 fol. 93 r.</dc:title>
+    <cnt:chars>&lt;p&gt;Suzanne au bain, dans le verger&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:b4e16c77-167a-450d-9619-6b146b2bb731">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590"/>
+    <oa:hasSelector rdf:resource="urn:uuid:fd2c9117-242a-48c1-944f-3b472a918472"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:4c13f28f-2cf6-48ac-b205-950cfa1303bf">
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <cnt:chars>&lt;polyline fill='none' stroke='rgba(3, 75, 158, 0.7)' stroke-width='6' points='1948,1049 2423,1042 2418,1037' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:8bbcf5e6-15a5-4d63-9606-1d24d8229768">
+    <oa:hasBody rdf:resource="urn:uuid:592b6a3d-9097-41c8-94d9-ce818ae9cfe2"/>
+    <oa:hasTarget rdf:resource="urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:d2dd523e-719e-4fa2-9ff9-44a25c2fe257">
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasBody rdf:resource="urn:uuid:320e5edc-7a27-4918-8ed7-64fcde1289bf"/>
+    <oa:hasTarget rdf:resource="urn:uuid:2e4c8059-ff09-4b76-af0b-bba098a4e318"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:c8107bd6-ad63-4f78-9bca-a70bb9d3d7c4">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>New Annotation on BNF f. fr. 9221 fol. 93 r.</dc:title>
+    <cnt:chars>&lt;p&gt;Lettre décorée, rouge et bleu. Luxe montrant l'appartenance du manuscrit à un membre de la haute noblesse, le duc de Berry. Le texte est ensuite réparti en 3 colonnes. écriture gothique.&lt;/p&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:60fcdece-d245-460d-808e-42b9a36dfce3">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:8262a767-77e1-406c-93c6-aefef8e0b03a"/>
+    <oa:hasTarget rdf:resource="urn:uuid:3fcab665-8d2e-45ad-9277-e0bc6a596b40"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:a1d6e269-29ea-443e-beb9-1df294b75ab8">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:3e8e8b39-4aaa-48fd-bea4-ee0f422312df"/>
+    <oa:hasBody rdf:resource="urn:uuid:a9f5e9b1-f939-4d4c-b4ea-6455b240f24b"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ada.drew.edu/annotation_store/media/user_images/113412.jpg">
+    <dc:title>BNF f. fr. 22545 fol. 98 v.</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Image"/>
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3000</exif:width>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3883</exif:height>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:e193f4a0-cda1-4d49-aac0-3b16358de55f">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+    <dc:title>New Annotation on BNF f. fr. 9221 fol. 93 r.</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:0a8eaf0f-96e1-45a0-9188-935f9f6f4c67">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:3d263768-0423-4c40-b833-1d8b0ac02d43"/>
+    <oa:hasSource rdf:resource="urn:uuid:c46eaba3-c920-437f-8c6a-8364ed065c08"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:cf43576a-c58c-48cd-9924-bbf128fbfd4e">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='2371,420 2479,400 2531,912 2358,890 2353,526 2371,420' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:8a04bd19-9127-42d2-b280-4174d80421b2">
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/Aggregation"/>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+    <ore:aggregates rdf:resource="urn:uuid:1c86b38c-bfd0-4f82-83a1-6fb4bfcffcb8"/>
+    <ore:aggregates rdf:resource="urn:uuid:c46eaba3-c920-437f-8c6a-8364ed065c08"/>
+    <ore:aggregates rdf:resource="urn:uuid:8262a767-77e1-406c-93c6-aefef8e0b03a"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Project"/>
+    <dc:title>Imported Project</dc:title>
+    <ore:aggregates rdf:resource="urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590"/>
+    <rdf:type rdf:resource="http://dm.drew.edu/ns/Project"/>
+    <dcterms:description>Created from the contents of your old DM workspace</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:d1fbceb0-2ecf-45e2-a503-67b9aa098b71">
+    <oa:hasTarget rdf:resource="urn:uuid:b3e5922a-7bbf-4b0a-814f-b81150979544"/>
+    <oa:hasBody rdf:resource="urn:uuid:8ecad41f-c37a-4ad6-88c9-e94ac7459d9f"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:467e270f-c3f2-4085-9dc9-2960eb219164">
+    <oa:hasSource rdf:resource="urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:68cafc26-f728-493e-8a37-678576e8b10b"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:7e800c4c-3460-4da0-8717-5db78be3bd40">
+    <oa:hasTarget rdf:resource="urn:uuid:8beaeb17-6ce0-49e6-97f3-9ee10e05defa"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasBody rdf:resource="urn:uuid:5dab19b0-4708-4314-8c36-fe9eea33e0c7"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:27a3512e-2ffd-4a14-8ec8-be2b6e178e60">
+    <oa:hasSelector rdf:resource="urn:uuid:8296fd7d-68ab-4c13-aee0-a1678ba22eab"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:c46eaba3-c920-437f-8c6a-8364ed065c08"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:11807a3e-920d-46bb-b46c-0a7e8baf5a59">
+    <oa:hasBody rdf:resource="urn:uuid:2e4c8059-ff09-4b76-af0b-bba098a4e318"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasTarget rdf:resource="urn:uuid:2e4c8059-ff09-4b76-af0b-bba098a4e318"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:b7248138-04de-462b-bd2b-1aa48b36fe5d">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:b3e5922a-7bbf-4b0a-814f-b81150979544"/>
+    <oa:hasTarget rdf:resource="urn:uuid:b3e5922a-7bbf-4b0a-814f-b81150979544"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:8296fd7d-68ab-4c13-aee0-a1678ba22eab">
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1818,468 1898,461 1818,468' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:006a18eb-2a7d-4c00-9dc3-b4c1abd3d85c">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:e5c24ab5-9de5-4238-911d-37a362ddd860"/>
+    <oa:hasSource rdf:resource="urn:uuid:c46eaba3-c920-437f-8c6a-8364ed065c08"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:0e6371b9-8a11-449d-818f-819cd54db8b7">
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <cnt:chars>&lt;polyline fill='none' stroke='rgba(3, 75, 158, 0.7)' stroke-width='6' points='1724,2665 2421,2663 2407,2665' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:ff87779b-b5ca-49fb-bdaf-b7117ffba437">
+    <dc:title>Annotation on the book being presented</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;p&gt;The book is small and bound--perhaps indicating personal, devotional use?&lt;br/&gt;&lt;/p&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:9eca8239-b1d0-4a54-9716-a3d8f24ebba6">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:a6fbe4a5-77b9-4bce-b5ea-6be75662bcca"/>
+    <oa:hasSource rdf:resource="urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:2cd28f34-9a9e-4c06-a69f-2b01509f23c9">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="http://ada.drew.edu/annotation_store/media/user_images/113412.jpg"/>
+    <oa:hasTarget rdf:resource="urn:uuid:c46eaba3-c920-437f-8c6a-8364ed065c08"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:9591b365-11f2-4f26-bd57-8bef0fde5c36">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590"/>
+    <oa:hasSelector rdf:resource="urn:uuid:39b0f741-32e9-418b-a1c3-32d655bf8471"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:6fb5c972-62ca-45ef-a244-00eedccea93c">
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:7fe28f89-b64e-4cf8-922c-3cf430d6c79c"/>
+    <oa:hasTarget rdf:resource="urn:uuid:a7505e70-45fd-43a6-8763-ec45fb961165"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:aa78219c-7b2d-4b85-9b55-3cf99be1d138">
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='547,567 594,567 594,914 547,914 547,567' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:9f16eacd-d6a8-43c0-b717-b6b3c31938d4">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+    <dc:title>New Annotation on BNF f. fr. 9221 fol. 93 r.</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:3fcab665-8d2e-45ad-9277-e0bc6a596b40">
+    <oa:hasSelector rdf:resource="urn:uuid:351e7a68-460b-465a-9d0b-49761858a54c"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:c46eaba3-c920-437f-8c6a-8364ed065c08"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:8beaeb17-6ce0-49e6-97f3-9ee10e05defa">
+    <oa:hasSelector rdf:resource="urn:uuid:43e650d9-f4ce-49ec-824a-a72500b1771d"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSource rdf:resource="urn:uuid:c46eaba3-c920-437f-8c6a-8364ed065c08"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:9c318a32-d814-402f-9e17-18485a81e888">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='2367,430 2494,394 2494,394 2367,430' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:62b625f0-f7a3-4430-8812-535ace3eda8b">
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasTarget rdf:resource="urn:uuid:9591b365-11f2-4f26-bd57-8bef0fde5c36"/>
+    <oa:hasTarget rdf:resource="urn:uuid:cc386f71-f1c5-4945-86d6-f339de5b1627"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:c8107bd6-ad63-4f78-9bca-a70bb9d3d7c4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:6233c803-13e6-4f85-9b86-eddd597bb67e">
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>New Annotation on BNF f. fr. 9221 fol. 93 r.</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:6565edb0-9044-4959-a33a-c4d205cf1364">
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1656,999 1925,1002 1930,1237 1550,1416 1501,1144 1575,1078 1656,999' /&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:68cafc26-f728-493e-8a37-678576e8b10b">
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <cnt:chars>&lt;polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='529,550 646,550 646,921 529,921 529,550' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:5350ce1c-7f1e-4f25-91df-ea94aa8d373b">
+    <dc:title>New Annotation on BNF f. fr. 9221 fol. 93 r.</dc:title>
+    <cnt:chars>&lt;p&gt;miniature&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:e771aeea-5ee0-4eea-8316-adf847026ad5">
+    <rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+    <cnt:chars>&lt;circle fill='rgba(15, 108, 214, 0.6)'  stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' cx='476.329946049' cy='1361.7554871' r='7' /&gt;</cnt:chars>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SvgSelector"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:5cb2f424-c1dc-4f04-b552-6881a86e4610">
+    <dc:title>New Annotation on BNF f. fr. 22545 fol. 98 v.</dc:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590">
+    <rdf:type rdf:resource="http://www.shared-canvas.org/ns/Canvas"/>
+    <dc:title>BNF f. fr. 9221 fol. 93 r.</dc:title>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3885</exif:height>
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3000</exif:width>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:3e8e8b39-4aaa-48fd-bea4-ee0f422312df">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:6565edb0-9044-4959-a33a-c4d205cf1364"/>
+    <oa:hasSource rdf:resource="urn:uuid:c46eaba3-c920-437f-8c6a-8364ed065c08"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:5ea54275-5788-47fa-b4b3-f917a3588b6e">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+    <oa:hasSelector rdf:resource="urn:uuid:4071478f-d224-432a-a823-5b5c335f6154"/>
+    <oa:hasSource rdf:resource="urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:73839a12-e3a0-416f-be68-63acba06827d">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:b8ac8ff5-0776-487e-9458-58aac55115a8"/>
+    <oa:hasTarget rdf:resource="urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:592b6a3d-9097-41c8-94d9-ce818ae9cfe2">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <dc:title>New Annotation on BNF f. fr. 9221 fol. 93 r.</dc:title>
+    <cnt:chars>&lt;br/&gt;</cnt:chars>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:0d34fe3c-4903-4d3b-a259-8459c5f08ee0">
+    <oa:hasTarget rdf:resource="urn:uuid:467e270f-c3f2-4085-9dc9-2960eb219164"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:e193f4a0-cda1-4d49-aac0-3b16358de55f"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:1185411d-7402-44ef-ba8c-b247bf664eb4">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <oa:hasBody rdf:resource="urn:uuid:8f996d11-399c-4719-a783-a516bdb636d0"/>
+    <oa:hasTarget rdf:resource="urn:uuid:cc386f71-f1c5-4945-86d6-f339de5b1627"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:5992fd3d-9dfd-41c4-94a0-239fa70a9251">
+    <oa:hasTarget rdf:resource="urn:uuid:35885bf0-95f1-41ae-8d67-453f7b9e1833"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:1c86b38c-bfd0-4f82-83a1-6fb4bfcffcb8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:8262a767-77e1-406c-93c6-aefef8e0b03a">
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <cnt:chars>&lt;p&gt;1. MS A – BnF, MS fr 1584, early 1370s
+
+&lt;/p&gt;&lt;p class=""&gt;parchment, gothic bookhand, over 500 folios, 31 x 22 (12.2 x
+8.7)&lt;/p&gt;&lt;p class=""&gt;Like with Mss Vg, Mss A has two images.  The one in the top left corner shows the prince (with gold crown) leaning out of the window in tower, in which he is presumably imprisoned.  The poet speaks to him, making a gesture with his two hands as if he is counting on his fingers.  The second image, in the lower right-hand corner, shows God in the clouds.  He holds an orb in his left hand, and gestures with his two fingers on the right hand--&amp;gt;typical gestures that make me think this is Jesus, not the Father.&lt;br/&gt;&lt;/p&gt;&lt;p class=""&gt;&lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b84490444/f275.image" style="text-decoration: underline; "&gt;http://gallica.bnf.fr/ark:/12148/btv1b84490444/f275.image&lt;/a&gt;&lt;/p&gt;&lt;p class=""&gt;&lt;br/&gt;&lt;/p&gt;&lt;p class=""&gt;2. Mss. 994 (fragment in otherwise devotional context)&lt;/p&gt;&lt;p class=""&gt;Large rubricated letter "A" opens the text, but other than that there are no decorations.&lt;br/&gt;&lt;/p&gt;&lt;p class=""&gt;&lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b8451102x/f71.image.r=994.langEN" style="text-decoration: underline; "&gt;http://gallica.bnf.fr/ark:/12148/btv1b8451102x/f71.image.r=994.langEN&lt;/a&gt;&lt;/p&gt;&lt;p class=""&gt;&lt;br/&gt;&lt;/p&gt;&lt;p class=""&gt;3. MS E – BnF, MS 9221, ca. 1390s&lt;/p&gt;
+&lt;p class=""&gt;parchment, gothic bookhand, 245 folios, 3 column
+arrangement, 40.6 x 30 (16 x 11.8)&lt;/p&gt;&lt;p class=""&gt;Ms E presents a very different kind of image from Ms F--the prince and poet are dressed similary (long red gowns, the prince's is a more brilliant red, he is on the right, and he sports a crown).  They stand in a walled garden, on opposite sides of a grey/white colored naked woman (Suzanne au bain).  The woman is half covered by a water motif, and has her hands in prayer position.  The prince points at the poet with his finger.&lt;br/&gt;&lt;/p&gt;&lt;p class=""&gt;&lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b6000795k/f209.image" style="text-decoration: underline; "&gt;http://gallica.bnf.fr/ark:/12148/btv1b6000795k/f209.image&lt;/a&gt;&lt;/p&gt;&lt;p class=""&gt;&lt;br/&gt;&lt;/p&gt;&lt;p class=""&gt;4. MS Vg – on loan at Cambridge, Corpus Christi, Ferrell 1, ca.
+1370&lt;/p&gt;
+&lt;p class=""&gt;parchment, gothic bookhand, 392 folios, 32 x 22 (12.6 x 8.7)&lt;/p&gt;&lt;p class=""&gt;This image shows the poet handing a book to the prince.  There are two guards behind the prince.  The figure on the right side of the image in Mss F is missing in Mss Vg.  Also, there is a second image in the bottom right hand corner, showing the poet speaking to the prince.&lt;br/&gt;&lt;/p&gt;&lt;p class=""&gt;&lt;a href="http://www.diamm.ac.uk/jsp/AnnotationManager?imageKey=25301"&gt;http://www.diamm.ac.uk/jsp/AnnotationManager?imageKey=25301&lt;/a&gt;&lt;/p&gt;&lt;p class=""&gt;&lt;br/&gt;&lt;/p&gt;&lt;p class=""&gt;5. Mss M--BnF 843&lt;/p&gt;&lt;p class=""&gt;Later mss (1401 to 1500), of much poorer quality, no miniatures.  The script is no longer gothic--perhaps lettre batarde?&lt;br/&gt;&lt;/p&gt;&lt;p class=""&gt;&lt;a href="http://gallica.bnf.fr/ark:/12148/btv1b90591729/f127.zoom.r=machaut.langEN"&gt;http://gallica.bnf.fr/ark:/12148/btv1b90591729/f127.zoom.r=machaut.langEN&lt;/a&gt;&lt;br/&gt;&lt;/p&gt;</cnt:chars>
+    <dc:title>Confort d'Ami opening folio in other Mss. contexts</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:fa6d33db-2c7c-4982-a784-8812cc579970">
+    <oa:hasTarget rdf:resource="urn:uuid:c46eaba3-c920-437f-8c6a-8364ed065c08"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:5ea54275-5788-47fa-b4b3-f917a3588b6e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:uuid:b6ff3609-2140-414a-a73e-bd24f28183cf">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+    <oa:hasBody rdf:resource="urn:uuid:4d3de4dd-569d-4f69-bce9-f64407a3a98d"/>
+    <oa:hasTarget rdf:resource="urn:uuid:bf062e09-3d6b-4c5d-8fc6-90faa35159f2"/>
+    <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+  </rdf:Description>
+</rdf:RDF>

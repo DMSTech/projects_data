@@ -1,0 +1,861 @@
+@prefix cnt: <http://www.w3.org/2011/content#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix dctypes: <http://purl.org/dc/dcmitype/> .
+@prefix dm: <http://dm.drew.edu/ns/> .
+@prefix exif: <http://www.w3.org/2003/12/exif/ns#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix ore: <http://www.openarchives.org/ore/terms/> .
+@prefix perm: <http://vocab.ox.ac.uk/perm#> .
+@prefix sc: <http://www.shared-canvas.org/ns/> .
+
+<http://dm.drew.edu/store/users/uva-3@googlegroups.com> a foaf:Agent;
+    dm:lastOpenProject <urn:uuid:8a04bd19-9127-42d2-b280-4174d80421b2>;
+    perm:hasPermissionOver <urn:uuid:8a04bd19-9127-42d2-b280-4174d80421b2>;
+    perm:mayAdminister <urn:uuid:8a04bd19-9127-42d2-b280-4174d80421b2>;
+    perm:mayAugment <urn:uuid:8a04bd19-9127-42d2-b280-4174d80421b2>;
+    perm:mayCreateChildrenOf <urn:uuid:8a04bd19-9127-42d2-b280-4174d80421b2>;
+    perm:mayDelete <urn:uuid:8a04bd19-9127-42d2-b280-4174d80421b2>;
+    perm:mayRead <urn:uuid:8a04bd19-9127-42d2-b280-4174d80421b2>;
+    perm:mayUpdate <urn:uuid:8a04bd19-9127-42d2-b280-4174d80421b2>;
+    foaf:mbox <mailto:uva-3@googlegroups.com> .
+
+<urn:uuid:0317dd60-4aa5-414d-a30d-5b74d62ea623> a dctypes:Text;
+    dc:title "New Annotation on BNF f. fr. 22545 fol. 98 v.";
+    cnt:chars "<br/>" .
+
+<urn:uuid:0b9fb133-1934-4ebe-9c50-b7ee47e739f2> a oa:Annotation;
+    oa:hasBody <urn:uuid:a86a5c29-cf68-45be-827f-a8b019a90cf3>;
+    oa:hasTarget <urn:uuid:3a1cd816-7683-44c8-8a03-544828538e51>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:0d34fe3c-4903-4d3b-a259-8459c5f08ee0> a oa:Annotation;
+    oa:hasBody <urn:uuid:e193f4a0-cda1-4d49-aac0-3b16358de55f>;
+    oa:hasTarget <urn:uuid:467e270f-c3f2-4085-9dc9-2960eb219164>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:117f39c3-c74e-4a2e-9f31-7cc96e0a24f5> a oa:Annotation;
+    oa:hasBody <urn:uuid:ff87779b-b5ca-49fb-bdaf-b7117ffba437>;
+    oa:hasTarget <urn:uuid:0a8eaf0f-96e1-45a0-9188-935f9f6f4c67>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:11807a3e-920d-46bb-b46c-0a7e8baf5a59> a oa:Annotation;
+    oa:hasBody <urn:uuid:2e4c8059-ff09-4b76-af0b-bba098a4e318>;
+    oa:hasTarget <urn:uuid:2e4c8059-ff09-4b76-af0b-bba098a4e318> .
+
+<urn:uuid:1185411d-7402-44ef-ba8c-b247bf664eb4> a oa:Annotation;
+    oa:hasBody <urn:uuid:8f996d11-399c-4719-a783-a516bdb636d0>;
+    oa:hasTarget <urn:uuid:cc386f71-f1c5-4945-86d6-f339de5b1627>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:1d26b521-43a3-4f9c-b803-b68228a0e472> a oa:Annotation;
+    oa:hasBody <urn:uuid:fb6c3aa4-f733-4278-afe4-3080b13d75a5>;
+    oa:hasTarget <urn:uuid:7abcb683-1553-4055-bb41-2a59c1af02ec>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:24a07f37-a34f-4ac7-8ae2-1925194d496f> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:9c318a32-d814-402f-9e17-18485a81e888>;
+    oa:hasSource <urn:uuid:c46eaba3-c920-437f-8c6a-8364ed065c08> .
+
+<urn:uuid:27a3512e-2ffd-4a14-8ec8-be2b6e178e60> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:8296fd7d-68ab-4c13-aee0-a1678ba22eab>;
+    oa:hasSource <urn:uuid:c46eaba3-c920-437f-8c6a-8364ed065c08> .
+
+<urn:uuid:2cd28f34-9a9e-4c06-a69f-2b01509f23c9> a oa:Annotation;
+    oa:hasBody <http://ada.drew.edu/annotation_store/media/user_images/113412.jpg>;
+    oa:hasTarget <urn:uuid:c46eaba3-c920-437f-8c6a-8364ed065c08> .
+
+<urn:uuid:402178f9-3a14-4639-bb2a-75bd45f6b134> a oa:Annotation;
+    oa:hasBody <http://ada.drew.edu/annotation_store/media/user_images/112488.jpg>;
+    oa:hasTarget <urn:uuid:08433390-f50d-4f40-a46f-5591002b07f1> .
+
+<urn:uuid:58edafce-7aee-4ae5-985e-986ccd7a9e83> a oa:Annotation;
+    oa:hasBody <urn:uuid:6233c803-13e6-4f85-9b86-eddd597bb67e>;
+    oa:hasTarget <urn:uuid:a7505e70-45fd-43a6-8763-ec45fb961165>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:5992fd3d-9dfd-41c4-94a0-239fa70a9251> a oa:Annotation;
+    oa:hasBody <urn:uuid:1c86b38c-bfd0-4f82-83a1-6fb4bfcffcb8>;
+    oa:hasTarget <urn:uuid:35885bf0-95f1-41ae-8d67-453f7b9e1833> .
+
+<urn:uuid:5cb2f424-c1dc-4f04-b552-6881a86e4610> a dctypes:Text;
+    dc:title "New Annotation on BNF f. fr. 22545 fol. 98 v.";
+    cnt:chars "<br/>" .
+
+<urn:uuid:60fcdece-d245-460d-808e-42b9a36dfce3> a oa:Annotation;
+    oa:hasBody <urn:uuid:8262a767-77e1-406c-93c6-aefef8e0b03a>;
+    oa:hasTarget <urn:uuid:3fcab665-8d2e-45ad-9277-e0bc6a596b40> .
+
+<urn:uuid:62b625f0-f7a3-4430-8812-535ace3eda8b> a oa:Annotation;
+    oa:hasBody <urn:uuid:c8107bd6-ad63-4f78-9bca-a70bb9d3d7c4>;
+    oa:hasTarget <urn:uuid:9591b365-11f2-4f26-bd57-8bef0fde5c36>,
+        <urn:uuid:cc386f71-f1c5-4945-86d6-f339de5b1627>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:694dfc0f-a688-4e12-8a47-5f5bb5bacb8b> a oa:Annotation;
+    oa:hasBody <urn:uuid:e64ee43e-934e-4f23-9b32-181e462d5f68>;
+    oa:hasTarget <urn:uuid:006a18eb-2a7d-4c00-9dc3-b4c1abd3d85c>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:6aa13028-f271-43fa-a7de-5f6bb5fe502e> a oa:Annotation;
+    oa:hasBody <urn:uuid:9794c741-1987-4fb5-9a95-70165264116d>;
+    oa:hasTarget <urn:uuid:9eca8239-b1d0-4a54-9716-a3d8f24ebba6>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:6c9e1593-ded6-46f4-ab60-31bb00964e36> a oa:Annotation;
+    oa:hasBody <http://ada.drew.edu/annotation_store/media/user_images/113405.jpg>;
+    oa:hasTarget <urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590> .
+
+<urn:uuid:6fb5c972-62ca-45ef-a244-00eedccea93c> a oa:Annotation;
+    oa:hasBody <urn:uuid:7fe28f89-b64e-4cf8-922c-3cf430d6c79c>;
+    oa:hasTarget <urn:uuid:a7505e70-45fd-43a6-8763-ec45fb961165>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:73839a12-e3a0-416f-be68-63acba06827d> a oa:Annotation;
+    oa:hasBody <urn:uuid:b8ac8ff5-0776-487e-9458-58aac55115a8>;
+    oa:hasTarget <urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:7e800c4c-3460-4da0-8717-5db78be3bd40> a oa:Annotation;
+    oa:hasBody <urn:uuid:5dab19b0-4708-4314-8c36-fe9eea33e0c7>;
+    oa:hasTarget <urn:uuid:8beaeb17-6ce0-49e6-97f3-9ee10e05defa>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:82c5f0d8-7bd1-4031-9d89-ee02a5e84a2c> a oa:Annotation;
+    oa:hasBody <urn:uuid:935e5a02-0424-4130-873a-67c6fc94b55c>;
+    oa:hasTarget <urn:uuid:b4e16c77-167a-450d-9619-6b146b2bb731>,
+        <urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:8adf10ae-606d-4836-b43a-48a1b89a49b3> a dctypes:Text;
+    dc:title "New Annotation on BNF f. fr. 9221 fol. 93 r.";
+    cnt:chars "<p>Le vieillard, qui fait un geste de proposition vers Suzanne</p>" .
+
+<urn:uuid:8bbcf5e6-15a5-4d63-9606-1d24d8229768> a oa:Annotation;
+    oa:hasBody <urn:uuid:592b6a3d-9097-41c8-94d9-ce818ae9cfe2>;
+    oa:hasTarget <urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:97a8ab8f-6bbe-48a6-b8a4-169ca35587fd> a oa:Annotation;
+    oa:hasBody <urn:uuid:d2a4d468-9f7f-419e-b309-a049fc7f1202>;
+    oa:hasTarget <urn:uuid:7abcb683-1553-4055-bb41-2a59c1af02ec>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:9f16eacd-d6a8-43c0-b717-b6b3c31938d4> a dctypes:Text;
+    dc:title "New Annotation on BNF f. fr. 9221 fol. 93 r.";
+    cnt:chars "<br/>" .
+
+<urn:uuid:a1d6e269-29ea-443e-beb9-1df294b75ab8> a oa:Annotation;
+    oa:hasBody <urn:uuid:a9f5e9b1-f939-4d4c-b4ea-6455b240f24b>;
+    oa:hasTarget <urn:uuid:3e8e8b39-4aaa-48fd-bea4-ee0f422312df>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:a77f00a8-2b97-4b97-81cc-e49680afca96> a oa:Annotation;
+    oa:hasBody <urn:uuid:3fcab665-8d2e-45ad-9277-e0bc6a596b40>;
+    oa:hasTarget <urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590> .
+
+<urn:uuid:a943d63e-92d6-4d98-936e-4f57ba009de1> a oa:Annotation;
+    oa:hasBody <http://ada.drew.edu/annotation_store/media/user_images/112481.jpg>;
+    oa:hasTarget <urn:uuid:17b63ecb-26fe-45d9-93ef-a9a68fde7c4a> .
+
+<urn:uuid:ae231b84-9b58-4015-9a16-4bac999468dc> a oa:Annotation;
+    oa:hasBody <urn:uuid:006a18eb-2a7d-4c00-9dc3-b4c1abd3d85c>;
+    oa:hasTarget <urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590> .
+
+<urn:uuid:b34b1abe-3e36-4d34-bc36-12d968a701a9> a oa:Annotation;
+    oa:hasBody <urn:uuid:e015c620-5adf-427f-9f25-0e38abe085fb>;
+    oa:hasTarget <urn:uuid:9eca8239-b1d0-4a54-9716-a3d8f24ebba6>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:b6ff3609-2140-414a-a73e-bd24f28183cf> a oa:Annotation;
+    oa:hasBody <urn:uuid:4d3de4dd-569d-4f69-bce9-f64407a3a98d>;
+    oa:hasTarget <urn:uuid:bf062e09-3d6b-4c5d-8fc6-90faa35159f2>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:b7248138-04de-462b-bd2b-1aa48b36fe5d> a oa:Annotation;
+    oa:hasBody <urn:uuid:b3e5922a-7bbf-4b0a-814f-b81150979544>;
+    oa:hasTarget <urn:uuid:b3e5922a-7bbf-4b0a-814f-b81150979544> .
+
+<urn:uuid:b92829eb-ed96-454b-8b3f-380ff5de5eaa> a oa:Annotation;
+    oa:hasBody <urn:uuid:6d0ea6ae-4f67-47fc-ba72-9717a1b853b8>;
+    oa:hasTarget <urn:uuid:26789a11-e866-461d-8c1e-4a7b8289220a>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:c09e10b9-7d3c-4d2f-9ec8-61f29bd95065> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:aa78219c-7b2d-4b85-9b55-3cf99be1d138>;
+    oa:hasSource <urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590> .
+
+<urn:uuid:c17f51c2-0e10-4d9f-82c0-bf7788b40103> a oa:Annotation;
+    oa:hasBody <urn:uuid:2116c1bd-2865-43d3-8350-244e033cc55a>;
+    oa:hasTarget <urn:uuid:b8ac8ff5-0776-487e-9458-58aac55115a8> .
+
+<urn:uuid:c481c168-8fa3-449d-9009-e627ea3ef050> a oa:Annotation;
+    oa:hasBody <urn:uuid:daa2c4cc-5894-4389-bb07-68f3e81d543b>;
+    oa:hasTarget <urn:uuid:a7505e70-45fd-43a6-8763-ec45fb961165>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:ca76cfb2-e9e2-4072-8b92-a99ccb5153df> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:965e3f7b-7a37-4b42-9ef9-f9bbd2aa1b3b>;
+    oa:hasSource <urn:uuid:c46eaba3-c920-437f-8c6a-8364ed065c08> .
+
+<urn:uuid:d1fbceb0-2ecf-45e2-a503-67b9aa098b71> a oa:Annotation;
+    oa:hasBody <urn:uuid:8ecad41f-c37a-4ad6-88c9-e94ac7459d9f>;
+    oa:hasTarget <urn:uuid:b3e5922a-7bbf-4b0a-814f-b81150979544>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:d2dd523e-719e-4fa2-9ff9-44a25c2fe257> a oa:Annotation;
+    oa:hasBody <urn:uuid:320e5edc-7a27-4918-8ed7-64fcde1289bf>;
+    oa:hasTarget <urn:uuid:2e4c8059-ff09-4b76-af0b-bba098a4e318>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:e75a644c-e00b-4e2c-b3ce-d16cbb4cdc7b> a oa:Annotation;
+    oa:hasBody <urn:uuid:55da32a7-e987-4702-9e08-958a15d11757>;
+    oa:hasTarget <urn:uuid:a7505e70-45fd-43a6-8763-ec45fb961165>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:ebe83c80-a307-42a9-bb36-5630bc5962c8> a oa:Annotation;
+    oa:hasBody <urn:uuid:5350ce1c-7f1e-4f25-91df-ea94aa8d373b>;
+    oa:hasTarget <urn:uuid:b4e16c77-167a-450d-9619-6b146b2bb731>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:fa037187-7a6b-414b-97e9-72c2a084f00c> a oa:Annotation;
+    oa:hasBody <urn:uuid:b8ac8ff5-0776-487e-9458-58aac55115a8>;
+    oa:hasTarget <urn:uuid:5ea54275-5788-47fa-b4b3-f917a3588b6e>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:fa6d33db-2c7c-4982-a784-8812cc579970> a oa:Annotation;
+    oa:hasBody <urn:uuid:5ea54275-5788-47fa-b4b3-f917a3588b6e>;
+    oa:hasTarget <urn:uuid:c46eaba3-c920-437f-8c6a-8364ed065c08> .
+
+<http://ada.drew.edu/annotation_store/media/user_images/112481.jpg> a dctypes:Image;
+    dc:title "BNF f. fr. 22545";
+    exif:height 3863;
+    exif:width 3000 .
+
+<http://ada.drew.edu/annotation_store/media/user_images/112488.jpg> a dctypes:Image;
+    dc:title "BNF f. fr. 9221";
+    exif:height 4115;
+    exif:width 3000 .
+
+<http://ada.drew.edu/annotation_store/media/user_images/113405.jpg> a dctypes:Image;
+    dc:title "BNF f. fr. 9221 fol. 93 r.";
+    exif:height 3885;
+    exif:width 3000 .
+
+<http://ada.drew.edu/annotation_store/media/user_images/113412.jpg> a dctypes:Image;
+    dc:title "BNF f. fr. 22545 fol. 98 v.";
+    exif:height 3883;
+    exif:width 3000 .
+
+<urn:uuid:0a8eaf0f-96e1-45a0-9188-935f9f6f4c67> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:3d263768-0423-4c40-b833-1d8b0ac02d43>;
+    oa:hasSource <urn:uuid:c46eaba3-c920-437f-8c6a-8364ed065c08> .
+
+<urn:uuid:0e6371b9-8a11-449d-818f-819cd54db8b7> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<polyline fill='none' stroke='rgba(3, 75, 158, 0.7)' stroke-width='6' points='1724,2665 2421,2663 2407,2665' />" .
+
+<urn:uuid:26789a11-e866-461d-8c1e-4a7b8289220a> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:cf43576a-c58c-48cd-9924-bbf128fbfd4e>;
+    oa:hasSource <urn:uuid:c46eaba3-c920-437f-8c6a-8364ed065c08> .
+
+<urn:uuid:320e5edc-7a27-4918-8ed7-64fcde1289bf> a dctypes:Text;
+    dc:title "New Annotation on BNF f. fr. 22545 fol. 98 v.";
+    cnt:chars "<br/>" .
+
+<urn:uuid:351e7a68-460b-465a-9d0b-49761858a54c> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<circle fill='rgba(15, 108, 214, 0.6)'  stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' cx='2119.2135301' cy='404.056097773' r='7' />" .
+
+<urn:uuid:35885bf0-95f1-41ae-8d67-453f7b9e1833> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:4c13f28f-2cf6-48ac-b205-950cfa1303bf>;
+    oa:hasSource <urn:uuid:c46eaba3-c920-437f-8c6a-8364ed065c08> .
+
+<urn:uuid:39b0f741-32e9-418b-a1c3-32d655bf8471> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='393,1034 557,1094 460,1264 401,1212 393,1034' />" .
+
+<urn:uuid:3a1cd816-7683-44c8-8a03-544828538e51> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:8d1ad54c-8370-414c-8618-68ba0b1e242d>;
+    oa:hasSource <urn:uuid:c46eaba3-c920-437f-8c6a-8364ed065c08> .
+
+<urn:uuid:3d263768-0423-4c40-b833-1d8b0ac02d43> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1935,678 1955,649 2002,673 1993,717 1935,678' />" .
+
+<urn:uuid:3e8e8b39-4aaa-48fd-bea4-ee0f422312df> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:6565edb0-9044-4959-a33a-c4d205cf1364>;
+    oa:hasSource <urn:uuid:c46eaba3-c920-437f-8c6a-8364ed065c08> .
+
+<urn:uuid:4071478f-d224-432a-a823-5b5c335f6154> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='425,468 959,468 959,1012 425,1012 425,468' />" .
+
+<urn:uuid:43e650d9-f4ce-49ec-824a-a72500b1771d> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1816,474 1898,461 1968,918 1690,918 1816,474' />" .
+
+<urn:uuid:467e270f-c3f2-4085-9dc9-2960eb219164> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:68cafc26-f728-493e-8a37-678576e8b10b>;
+    oa:hasSource <urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590> .
+
+<urn:uuid:4c13f28f-2cf6-48ac-b205-950cfa1303bf> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<polyline fill='none' stroke='rgba(3, 75, 158, 0.7)' stroke-width='6' points='1948,1049 2423,1042 2418,1037' />" .
+
+<urn:uuid:4d3de4dd-569d-4f69-bce9-f64407a3a98d> a dctypes:Text;
+    dc:title "Anagram notation";
+    cnt:chars "<p>Here is Machaut's anagram to name both himself and his intended audience, Charles of Navarre.<br/></p>" .
+
+<urn:uuid:5350ce1c-7f1e-4f25-91df-ea94aa8d373b> a dctypes:Text;
+    dc:title "New Annotation on BNF f. fr. 9221 fol. 93 r.";
+    cnt:chars "<p>miniature</p><div><br/></div>" .
+
+<urn:uuid:55da32a7-e987-4702-9e08-958a15d11757> a dctypes:Text;
+    dc:title "Annotation on Ms E--Bible Historiale images";
+    cnt:chars "<p>This image resonates with the image of Susanna in Bible Historiale at Bodleian Libarary Ms Douce 211<br/><a href=\"http://bodley30.bodley.ox.ac.uk:8180/luna/servlet/detail/ODLodl%7E1%7E1%7E40768%7E128104:Bible-historiale-?sort=Shelfmark%2CFolio_Page%2CRoll_%23%2CFrame_%23&amp;qvq=q:douce%2B211;sort:Shelfmark%2CFolio_Page%2CRoll_%23%2CFrame_%23;lc:ODLodl%7E1%7E1&amp;mi=109&amp;trs=156\">http://bodley30.bodley.ox.ac.uk:8180/luna/servlet/detail/ODLodl~1~1~40768~128104:Bible-historiale-?sort=Shelfmark%2CFolio_Page%2CRoll_%23%2CFrame_%23&amp;qvq=q:douce%2B211;sort:Shelfmark%2CFolio_Page%2CRoll_%23%2CFrame_%23;lc:ODLodl~1~1&amp;mi=109&amp;trs=156</a><br/></p>" .
+
+<urn:uuid:592b6a3d-9097-41c8-94d9-ce818ae9cfe2> a dctypes:Text;
+    dc:title "New Annotation on BNF f. fr. 9221 fol. 93 r.";
+    cnt:chars "<br/>" .
+
+<urn:uuid:5dab19b0-4708-4314-8c36-fe9eea33e0c7> a dctypes:Text;
+    dc:title "Annotation on the figure of the Prince";
+    cnt:chars "<p>Richly attired, and seated on a formally on a throne.  Behind him stands a guard, to the left, a person that appears to be in a religious order but who is also probably charged with guarding him.  This religious person looks in the direction of the poet, who is represented as being not physically present at the scene.<br/></p>" .
+
+<urn:uuid:6233c803-13e6-4f85-9b86-eddd597bb67e> a dctypes:Text;
+    dc:title "New Annotation on BNF f. fr. 9221 fol. 93 r.";
+    cnt:chars "<br/>" .
+
+<urn:uuid:6565edb0-9044-4959-a33a-c4d205cf1364> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1656,999 1925,1002 1930,1237 1550,1416 1501,1144 1575,1078 1656,999' />" .
+
+<urn:uuid:68cafc26-f728-493e-8a37-678576e8b10b> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='529,550 646,550 646,921 529,921 529,550' />" .
+
+<urn:uuid:6d0ea6ae-4f67-47fc-ba72-9717a1b853b8> a dctypes:Text;
+    dc:title "Annotation on the figure of the poet in the miniature";
+    cnt:chars "<p>This appears to be the poet, who, interestingly, is visually depicted as being elsewhere, but nevertheless watching the scene where the messenger delivers his book to the imprisoned prince.  <br/></p>" .
+
+<urn:uuid:7fe28f89-b64e-4cf8-922c-3cf430d6c79c> a dctypes:Text;
+    dc:title "New Annotation on BNF f. fr. 9221 fol. 93 r.";
+    cnt:chars "<p>Le jeune prophète Daniel qui un geste de la main pour condamner le vieillard lubrique. </p>" .
+
+<urn:uuid:8296fd7d-68ab-4c13-aee0-a1678ba22eab> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1818,468 1898,461 1818,468' />" .
+
+<urn:uuid:8beaeb17-6ce0-49e6-97f3-9ee10e05defa> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:43e650d9-f4ce-49ec-824a-a72500b1771d>;
+    oa:hasSource <urn:uuid:c46eaba3-c920-437f-8c6a-8364ed065c08> .
+
+<urn:uuid:8c8aa724-f218-435c-848e-499e9a01e402> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<polyline fill='none' stroke='rgba(3, 75, 158, 0.7)' stroke-width='6' points='899,1064 433,1071 487,1071' />" .
+
+<urn:uuid:8d1ad54c-8370-414c-8618-68ba0b1e242d> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='2030,600 2091,604 2132,947 1952,804 2017,669 2030,600' />" .
+
+<urn:uuid:8ecad41f-c37a-4ad6-88c9-e94ac7459d9f> a dctypes:Text;
+    dc:title "New Annotation on BNF f. fr. 9221 fol. 93 r.";
+    cnt:chars "<p>Description du manuscrit:</p><div>http://books.google.com/books?id=IbA-AAAAYAAJ&amp;pg=PR30&amp;lpg=PR30&amp;dq=duc+de+berry+manuscrits+machaut&amp;source=bl&amp;ots=2rdXqdorJ_&amp;sig=XjTsToms8zC3qvj0i4jmf5vAkm0&amp;hl=fr&amp;sa=X&amp;ei=PUleT465EoH30gH1rOCjDw&amp;ved=0CCIQ6AEwAA#v=onepage&amp;q=duc%20de%20berry%20manuscrits%20machaut&amp;f=false</div>" .
+
+<urn:uuid:8f996d11-399c-4719-a783-a516bdb636d0> a dctypes:Text;
+    dc:title "Transcription ";
+    cnt:chars """<p class="">Transcription du texte:</p><p class=""><br/></p><p class=""><br/></p><p class="">Amis, a toy donner
+confort </p>
+<p class="">Ay meintes fois pensé
+moult fort, </p>
+<p class="">Et Dieus scet que je le
+feroie, </p>
+<p class="">Plus que ne di, se je
+pouoie, </p>
+<p class="">De très bon cuer et
+volentiers; </p>
+<p class="">Mais il n'est voie ne
+sentiers </p>
+<p class="">Qui mon oueil peiist
+avoier </p>
+<p class="">Que vers toy pelisse
+envoier. </p>
+<p class="">Nompourquant je
+commenceray </p>
+<p class="">Et, se Dieu plaist, je
+fineray. </p>
+<p class="">Comment que soies assez
+sages </p>
+<p class="">Pour toy garder, sans mes
+messages </p>
+<p class="">Et sans mes confors
+recevoir. </p>
+<p class="">Mais je le fais sans
+décevoir </p>
+<p class="">Pour t'amour et la
+ramembrance </p>
+<p class="">Que j'ay toudis de ta
+grevence. </p>
+<p class=""> Et par ma foy, quant a
+ton fait,</p>
+<p class=""> Je croy que tu n'as riens
+meffait,</p>
+<p class=""> Si t'en dois a Dieu
+conforter</p>
+<p class="">Et tes meschiés plus
+biau porter. </p>
+<p class=""> Sire, et se je t'apelle
+amy,</p>
+<p class="">N'en aies pieur cuer a my
+;</p>
+<p class=""> Car bien sçay que tu
+esmes sires,</p>
+<p class="">Et je des mieudres ne
+des pires </p>
+<p class=""> Ne suis, mais sans riens
+retenir</p>
+<p class=""> Sui tiens, quoy qu'il
+doie avenir.</p>
+<p class=""> N'encor pas nommer ne te
+vueil</p>
+<p class=""> Ne moy aussi, jusqu'à
+mon vueil, </p>
+<p class=""> Car je vueil mettre nos
+deus nons</p>
+<p class=""> Si proprement que feme
+n'homs</p>
+<p class=""> N'i porra riens oster ne
+mettre</p>
+<p class="">Qu'une sillabe et une
+lettre; </p>
+<p class=""> Mais on n'i puet riens
+adjouster,</p>
+<p class=""> Et pour ce les couvient
+oster.</p>
+<p class=""> Si osteras premièrementUne sillabe
+entièrement</p>
+<p class=""> Au commencier dou ver
+onsieme</p>
+<p class=""> Et une lettre dou disieme</p>
+<p class=""> Près de la fin ; la les
+saras,</p>
+<p class="">Quant un petit y
+museras. </p>
+<p class=""> Einsi les met, se Dieus
+m'aie,</p>
+<p class=""> Seulement pour la
+muserie.</p>
+<p class=""> Et sces tu, quant on les
+sara?</p>
+<p class="">Quant ma dame
+chevauchera. </p>
+<p class=""> Si qu'amis, sans riens
+controuver,</p>
+<p class=""> Par exemples te vueil
+prouver,</p>
+<p class="">Qui sont contenu en la
+Bible</p>
+<p class="">Et qui sont a nous
+impossible, </p>
+<p class=""> Qu'adés cils qui en Dieu
+se fie,</p>
+<p class="">S'il a raison de sa
+partie </p>
+<p class="">Et s'il l'aimme, sert et
+honneure, </p>
+<p class="">Adés son fait vient au
+desseure. </p>
+<p class=""> Or commencerai ma matere</p>
+<p class="">En suppliant Dieu nostre
+père </p>
+<p class="">Qu'il soit a mon
+commancement, </p>
+<p class="">Au moien et au
+finement. </p>
+<p class=""> Cils qui tout scet et qui
+tout voit,</p>
+<p class="">Qui tout gouverne et tout
+pourvoit, </p>
+<p class="">Qui ciel et air et terre
+et mer </p>
+<p class="">Et quanqu'on scet
+dedens nommer,</p>
+<p class=""> Tout ce qui est, fu et
+sera,</p>
+<p class="">Fist tout, et tout ce
+deffera </p>
+<p class="">A un terme qu'il y a mis,
+</p>
+<p class=""> N'oublie onques ses
+bons amis,</p>
+<p class=""> Eins les conseille et les
+conforte</p>
+<p class="">Et joie en misère leur
+porte </p>
+<p class="">Par mainte diverse
+manière, </p>
+<p class=""> Et s'aimme d'amour si
+entière</p>
+<p class=""> Qu'onques a confort ne
+failli</p>
+<p class="">Qui donna tout son cuer a
+li. </p>
+<p class="">Prouver le vueil par
+l'Escripture </p>
+<p class=""> Qui en pluseurs lieus
+le figure.</p>
+<p class=""> Jadis en Babiloinne avoit</p>
+<p class="">Un homme qui maint bien
+savoit.</p>
+<p class=""> De grans richesses
+renommés</p>
+<p class="">Estoit; Joachin fu
+nommez. </p>
+<p class=""> Une femme ot en mariage</p>
+<p class="">Qui fu très bêle, bonne
+et sage, </p>
+<p class="">Douce, courtoise et bien
+aprise</p><p class="">Et duite en la loy de
+Moyse.</p>
+<p class=""> Susenne avoit a non la
+dame,</p>
+<p class="">Qui Dieu doubta de cuer
+et d'ame, </p>
+<p class=""> Joachim avoit un vergier</p>
+<p class=""> Les sa maison,
+qu'onques bergier</p>
+<p class=""> Ne fist, car trop fu
+delitables</p>
+<p class="">Et a tous fruis de délit
+ables. </p>
+<p class="">Pour c'a grans tourbes y
+aloient </p>
+<p class=""> Li Juif et s'i
+esbatoient.</p>
+<p class=""> En celle année establi
+furent</p>
+<p class="">Doi juge ancien qui se
+déçurent </p>
+<p class="">Par luxure et par
+couvoitise </p>
+<p class=""> Qui maint mal engendre
+et atise,</p>
+<p class=""> Desquels Nostres Sires
+parole</p>
+<p class="">Et dit einsi en sa parole
+: </p>
+<p class="">« Des juges babyloniens </p>
+<p class=""> Qui furent vieus et
+anciens</p>
+<p class=""> Et gouvernoient la cité</p>
+<p class="">Issue est grant iniquité.
+» </p>
+<p class="">Cils doi la maison
+frequentoient </p>
+<p class=""> De Joachim et la
+faisoient</p>
+<p class=""> Leur edis, leur
+commandemens,</p>
+<p class="">Leurs consauz et leurs
+jugemens. </p>
+<p class="">Pour ce a eaus laiens
+venoient </p>
+<p class="">Tuit cil qui jugement
+queroient.</p>
+<p class="">Quant li pueples partis
+s'estoit,</p>
+<p class="">Lors en son vergier
+s'esbatoit </p>
+<p class="">Susannë avec ces pucelles
+</p>
+<p class="">Qui estoient gentes
+et belles;</p>
+<p class="">Si la veoient ombroier</p>
+<p class="">Tous les jours et
+esbanoier </p>
+<p class="">Li vieillart plein
+d'iniquité, </p>
+<p class="">Si qu'en ordure et en
+vilté,</p>
+<p class=""> En ardeur, en
+concupiscence,</p>
+<p class="">Par désir, par foie
+plaisence </p>
+<p class="">Furent puis pour l'amour
+de li, </p>
+<p class="">Lors scens et raison
+oublièrent</p>
+<p class="">Et leurs yeus en terre
+clinerent, </p>
+<p class="">Afin que veoir ne
+peùssent </p>
+<p class=""> Le ciel et qu'en leur
+cuer n'eussent</p>
+<p class=""> Mémoire dou souverain
+juge</p>
+<p class="">Qui fait tout par raison
+et juge. </p>
+<p class="">Si qu'il visoient sans
+séjour </p>
+<p class=""> Que par un couvenable
+jour</p>
+<p class=""> La peùssent seule
+trouver,</p>
+<p class="">Si qu'on ne peiïst riens
+prouver </p>
+<p class="">De leur fait ne de leur
+pensée. </p>
+<p class=""> Un jour [estoit
+Susenne alee</p>
+<p class=""> En vergier en tele
+manière</p>
+<p class=""> Comme elle en estoit
+coustumiere,</p>
+<p class=""> O deus pucelles
+seulement,</p>
+<p class="">Car en vergier
+secrètement </p>
+<p class=""> Pour la chaleur qui
+grande estoit</p>
+<p class=""> Baingnier et laver se
+voloit.</p>
+<p class=""> Si leur dist : « Alez sans
+targier</p>
+<p class=""> Et cloez Fuis de ce
+vergier </p>
+<p class="">Et m'aportez oile a mon
+vueil,</p>
+<p class=""> Car laver et baingnier me
+vueil. »</p>
+<p class=""> Li vieillart reponnu
+s'estoient</p>
+<p class="">Ou vergier, et la la
+gaitoient </p>
+<p class=""> Que seule la peiissent
+prendre.</p>
+<p class=""> Quant seule fu, sans plus
+attendre,</p>
+<p class=""> Ynellement, les saus
+menus,</p>
+<p class="">En sont a Susanne
+venus </p>
+<p class=""> Et dirent : « Li vergiers
+est clos,</p>
+<p class=""> N'il n'a créature en cest
+clos</p>
+<p class="">Qui nous puist veoir
+n'encuser,</p>
+<p class="">Si ne dois mie
+refuser </p>
+<p class=""> A faire tout nostre
+plaisir,</p>
+<p class=""> Car lieu, temps en as et
+loisir.</p>
+<p class=""> Car par ta biauté sommes
+pris</p>
+<p class="">Et de t'amour forment
+espris. </p>
+<p class="">Fay dont ce que nous
+requérons.</p>
+<p class="">Se ne le fais, nous te
+jurons</p>
+<p class="">Que de toy dirons
+tesmongnage </p>
+<p class="">Au pueple et a tout
+ton linage </p>
+<p class=""> Qu'a toy gisant avons
+trouvé</p>
+<p class="">Un jouvencel ci tout
+prouvé </p>
+<p class="">Et pour l'amour dou
+bacheler </p>
+<p class="">En feïs tes femmes
+aler. » </p>
+<p class=""> Quant Susanne les
+entendi,</p>
+<p class=""> S'ame et son corps a Dieu
+rendi ;</p>
+<p class=""> Fort pleure, gemist, fort
+se plaint</p>
+<p class="">Et dist, en gettant
+un grant plaint : </p>
+<p class=""> « De toutes pars me tient
+engoisse</p>
+<p class=""> Qui mon cuer destreint et
+engoisse.</p>
+""" .
+
+<urn:uuid:935e5a02-0424-4130-873a-67c6fc94b55c> a dctypes:Text;
+    dc:title "New Annotation on BNF f. fr. 9221 fol. 93 r.";
+    cnt:chars "<p>Un des vieillards</p>" .
+
+<urn:uuid:9591b365-11f2-4f26-bd57-8bef0fde5c36> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:39b0f741-32e9-418b-a1c3-32d655bf8471>;
+    oa:hasSource <urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590> .
+
+<urn:uuid:965e3f7b-7a37-4b42-9ef9-f9bbd2aa1b3b> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1954,656 1954,661 1954,661 1954,656' />" .
+
+<urn:uuid:9794c741-1987-4fb5-9a95-70165264116d> a dctypes:Text;
+    dc:title "Annotation on \"Suzanne au bain\" miniature";
+    cnt:chars "<p>This image is remarkable different in theme than the opening miniature in Mss F.  This image privileges the exemplary story that is related early in the text, that of Suzanna bathing.  Instead of visually representing the transmission of the book from poet to prince, this image chooses to visually represent the didactic substance of the text.<br/></p>" .
+
+<urn:uuid:9c318a32-d814-402f-9e17-18485a81e888> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='2367,430 2494,394 2494,394 2367,430' />" .
+
+<urn:uuid:9dc1a5ab-a2c5-48ef-89db-1e05bfb8a0a9> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='884,901 863,543 684,582 705,586 799,910 884,901' />" .
+
+<urn:uuid:a6fbe4a5-77b9-4bce-b5ea-6be75662bcca> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='432,478 971,478 971,1026 432,1026 432,478' />" .
+
+<urn:uuid:a86a5c29-cf68-45be-827f-a8b019a90cf3> a dctypes:Text;
+    dc:title "Annotation ";
+    cnt:chars "<p>This appears to be a paige of some sort, who delivers the book on the part of the poet.  This more accurately reflects what the poet writes, when he says that he has not written sooner because he did not have the means to deliver his work to the captive prince.  <br/></p>" .
+
+<urn:uuid:a9f5e9b1-f939-4d4c-b4ea-6455b240f24b> a dctypes:Text;
+    dc:title "Annotation on historiated letter of line 1";
+    cnt:chars "<p>This is a richly decorated letter A, with some gold-leafing.  This is in keeping with the upper bourgeois owner of this manuscript.  <br/></p>" .
+
+<urn:uuid:aa78219c-7b2d-4b85-9b55-3cf99be1d138> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='547,567 594,567 594,914 547,914 547,567' />" .
+
+<urn:uuid:bf062e09-3d6b-4c5d-8fc6-90faa35159f2> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:0e6371b9-8a11-449d-818f-819cd54db8b7>;
+    oa:hasSource <urn:uuid:c46eaba3-c920-437f-8c6a-8364ed065c08> .
+
+<urn:uuid:c13d0c86-c9d2-461d-a799-5a00174d9879> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='654,609 744,609 744,789 654,789 654,609' />" .
+
+<urn:uuid:c8107bd6-ad63-4f78-9bca-a70bb9d3d7c4> a dctypes:Text;
+    dc:title "New Annotation on BNF f. fr. 9221 fol. 93 r.";
+    cnt:chars "<p>Lettre décorée, rouge et bleu. Luxe montrant l'appartenance du manuscrit à un membre de la haute noblesse, le duc de Berry. Le texte est ensuite réparti en 3 colonnes. écriture gothique.</p>" .
+
+<urn:uuid:cf43576a-c58c-48cd-9924-bbf128fbfd4e> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='2371,420 2479,400 2531,912 2358,890 2353,526 2371,420' />" .
+
+<urn:uuid:d2a4d468-9f7f-419e-b309-a049fc7f1202> a dctypes:Text;
+    dc:title "New Annotation on BNF f. fr. 9221 fol. 93 r.";
+    cnt:chars "<br/>" .
+
+<urn:uuid:daa2c4cc-5894-4389-bb07-68f3e81d543b> a dctypes:Text;
+    dc:title "New Annotation on BNF f. fr. 9221 fol. 93 r.";
+    cnt:chars "<br/>" .
+
+<urn:uuid:e015c620-5adf-427f-9f25-0e38abe085fb> a dctypes:Text;
+    dc:title "New Annotation on BNF f. fr. 9221 fol. 93 r.";
+    cnt:chars "<br/>" .
+
+<urn:uuid:e193f4a0-cda1-4d49-aac0-3b16358de55f> a dctypes:Text;
+    dc:title "New Annotation on BNF f. fr. 9221 fol. 93 r.";
+    cnt:chars "<br/>" .
+
+<urn:uuid:e5c24ab5-9de5-4238-911d-37a362ddd860> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1676,335 2587,335 2587,942 1676,942 1676,335' />" .
+
+<urn:uuid:e64ee43e-934e-4f23-9b32-181e462d5f68> a dctypes:Text;
+    dc:title "New Annotation on BNF f. fr. 22545 fol. 98 v.";
+    cnt:chars "<p>Miniature représentant l'auteur et son messager qui donne au roi le Comfort d'ami. Thème complètement différent du manuscrit précédent qui illustre le texte. Ici, mise en abime du texte. </p>" .
+
+<urn:uuid:e771aeea-5ee0-4eea-8316-adf847026ad5> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<circle fill='rgba(15, 108, 214, 0.6)'  stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' cx='476.329946049' cy='1361.7554871' r='7' />" .
+
+<urn:uuid:fb6c3aa4-f733-4278-afe4-3080b13d75a5> a dctypes:Text;
+    dc:title "New Annotation on BNF f. fr. 9221 fol. 93 r.";
+    cnt:chars "<p>Suzanne au bain, dans le verger</p><div><br/></div>" .
+
+<urn:uuid:fd2c9117-242a-48c1-944f-3b472a918472> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='428,1023 955,1023 955,481 428,481 428,1023' />" .
+
+<urn:uuid:ff87779b-b5ca-49fb-bdaf-b7117ffba437> a dctypes:Text;
+    dc:title "Annotation on the book being presented";
+    cnt:chars "<p>The book is small and bound--perhaps indicating personal, devotional use?<br/></p>" .
+
+<urn:uuid:006a18eb-2a7d-4c00-9dc3-b4c1abd3d85c> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:e5c24ab5-9de5-4238-911d-37a362ddd860>;
+    oa:hasSource <urn:uuid:c46eaba3-c920-437f-8c6a-8364ed065c08> .
+
+<urn:uuid:1c86b38c-bfd0-4f82-83a1-6fb4bfcffcb8> a dctypes:Text;
+    dc:title "Transcription of fol. 98v";
+    cnt:chars "<p>Lines 1-41<br/>Barton Palmer edition (based on Mss A)<br/><br/>Amis, a toy donner confort<br/>Ay meintes fois pensé moult fort,<br/>Et Diex scet que je le feroie<br/>Plus que ne di, se je pouoie<br/>De tres bon cuer et volentiers  (5)<br/>Mais il n'est voie ne sentiers<br/>Qui mon oueil peust avoier<br/>Que vers toy peusse envoier.<br/>Nompourquant je commenceray<br/>Et, se Diex plaist, je fineray     (10)<br/>Comment que soies assez sages<br/>Pour toy garder sans mes messages<br/>Et sans mes conforts recevoir.<br/>Mais je le fais sans decevoir<br/>Pour t'amour et la ramembrance    (15)<br/>Que j'ay toudis de ta grevence<br/>Et par ma foy, quant a ton fait,<br/>Je croy que tu n'as riens meffait,<br/>Si t'en dois a Dieu conforter<br/>Et tes meschiés plus biau porter.   (20)<br/>Sire, et si je t'appelle amy, <br/>N'en aies pieur cuer a my;<br/>Car bien scez que tu yès mes sires,<br/>Et je des mieudres ne des pires<br/>Ne suis, mais sans riens retenir     (25)<br/>Sui tiens, quoy qu'il doie avenir<br/>N'encor pas nommer ne te veuil,<br/>Ne moy aussi jusqu'a mon vueil<br/>Car je vueil mettre nos .ii. nons<br/>Si proprement que feme n'homs      (30)<br/>N'i porra riens oster ne mettre<br/>Qu'une sillabe et une lettre.<br/>Mais on n'i peut riens adjouster,<br/>Et pour ce les couvient oster.<br/>Si osteras premierement           (35)<br/>Une sillabe entierement<br/>Au commencier dou ver onsieme<br/>Et une lettre dou disieme<br/>Pres de la fin; la les saras<br/>Quant .i. petit y museras.      (40)<br/></p>" .
+
+<urn:uuid:3fcab665-8d2e-45ad-9277-e0bc6a596b40> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:351e7a68-460b-465a-9d0b-49761858a54c>;
+    oa:hasSource <urn:uuid:c46eaba3-c920-437f-8c6a-8364ed065c08> .
+
+<urn:uuid:5ea54275-5788-47fa-b4b3-f917a3588b6e> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:4071478f-d224-432a-a823-5b5c335f6154>;
+    oa:hasSource <urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590> .
+
+<urn:uuid:7abcb683-1553-4055-bb41-2a59c1af02ec> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:c13d0c86-c9d2-461d-a799-5a00174d9879>;
+    oa:hasSource <urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590> .
+
+<urn:uuid:8262a767-77e1-406c-93c6-aefef8e0b03a> a dctypes:Text;
+    dc:title "Confort d'Ami opening folio in other Mss. contexts";
+    cnt:chars """<p>1. MS A – BnF, MS fr 1584, early 1370s
+
+</p><p class="">parchment, gothic bookhand, over 500 folios, 31 x 22 (12.2 x
+8.7)</p><p class="">Like with Mss Vg, Mss A has two images.  The one in the top left corner shows the prince (with gold crown) leaning out of the window in tower, in which he is presumably imprisoned.  The poet speaks to him, making a gesture with his two hands as if he is counting on his fingers.  The second image, in the lower right-hand corner, shows God in the clouds.  He holds an orb in his left hand, and gestures with his two fingers on the right hand--&gt;typical gestures that make me think this is Jesus, not the Father.<br/></p><p class=""><a href="http://gallica.bnf.fr/ark:/12148/btv1b84490444/f275.image" style="text-decoration: underline; ">http://gallica.bnf.fr/ark:/12148/btv1b84490444/f275.image</a></p><p class=""><br/></p><p class="">2. Mss. 994 (fragment in otherwise devotional context)</p><p class="">Large rubricated letter "A" opens the text, but other than that there are no decorations.<br/></p><p class=""><a href="http://gallica.bnf.fr/ark:/12148/btv1b8451102x/f71.image.r=994.langEN" style="text-decoration: underline; ">http://gallica.bnf.fr/ark:/12148/btv1b8451102x/f71.image.r=994.langEN</a></p><p class=""><br/></p><p class="">3. MS E – BnF, MS 9221, ca. 1390s</p>
+<p class="">parchment, gothic bookhand, 245 folios, 3 column
+arrangement, 40.6 x 30 (16 x 11.8)</p><p class="">Ms E presents a very different kind of image from Ms F--the prince and poet are dressed similary (long red gowns, the prince's is a more brilliant red, he is on the right, and he sports a crown).  They stand in a walled garden, on opposite sides of a grey/white colored naked woman (Suzanne au bain).  The woman is half covered by a water motif, and has her hands in prayer position.  The prince points at the poet with his finger.<br/></p><p class=""><a href="http://gallica.bnf.fr/ark:/12148/btv1b6000795k/f209.image" style="text-decoration: underline; ">http://gallica.bnf.fr/ark:/12148/btv1b6000795k/f209.image</a></p><p class=""><br/></p><p class="">4. MS Vg – on loan at Cambridge, Corpus Christi, Ferrell 1, ca.
+1370</p>
+<p class="">parchment, gothic bookhand, 392 folios, 32 x 22 (12.6 x 8.7)</p><p class="">This image shows the poet handing a book to the prince.  There are two guards behind the prince.  The figure on the right side of the image in Mss F is missing in Mss Vg.  Also, there is a second image in the bottom right hand corner, showing the poet speaking to the prince.<br/></p><p class=""><a href="http://www.diamm.ac.uk/jsp/AnnotationManager?imageKey=25301">http://www.diamm.ac.uk/jsp/AnnotationManager?imageKey=25301</a></p><p class=""><br/></p><p class="">5. Mss M--BnF 843</p><p class="">Later mss (1401 to 1500), of much poorer quality, no miniatures.  The script is no longer gothic--perhaps lettre batarde?<br/></p><p class=""><a href="http://gallica.bnf.fr/ark:/12148/btv1b90591729/f127.zoom.r=machaut.langEN">http://gallica.bnf.fr/ark:/12148/btv1b90591729/f127.zoom.r=machaut.langEN</a><br/></p>""" .
+
+<urn:uuid:9eca8239-b1d0-4a54-9716-a3d8f24ebba6> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:a6fbe4a5-77b9-4bce-b5ea-6be75662bcca>;
+    oa:hasSource <urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590> .
+
+<urn:uuid:b4e16c77-167a-450d-9619-6b146b2bb731> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:fd2c9117-242a-48c1-944f-3b472a918472>;
+    oa:hasSource <urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590> .
+
+<urn:uuid:cc386f71-f1c5-4945-86d6-f339de5b1627> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:8c8aa724-f218-435c-848e-499e9a01e402>;
+    oa:hasSource <urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590> .
+
+<urn:uuid:b3e5922a-7bbf-4b0a-814f-b81150979544> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:e771aeea-5ee0-4eea-8316-adf847026ad5>;
+    oa:hasSource <urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590> .
+
+<urn:uuid:b8ac8ff5-0776-487e-9458-58aac55115a8> a dctypes:Text;
+    dc:title "New Annotation on BNF f. fr. 9221 fol. 93 r.";
+    cnt:chars "<p>Miniature. Le fond représente le verger dans lequel se trouve Suzanne,, espace clos cerné par un mur.</p>" .
+
+<urn:uuid:a7505e70-45fd-43a6-8763-ec45fb961165> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:9dc1a5ab-a2c5-48ef-89db-1e05bfb8a0a9>;
+    oa:hasSource <urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590> .
+
+<urn:uuid:8a04bd19-9127-42d2-b280-4174d80421b2> a dm:Project,
+        dctypes:Collection,
+        ore:Aggregation,
+        foaf:Project;
+    dc:title "Imported Project";
+    dcterms:description "Created from the contents of your old DM workspace";
+    ore:aggregates <urn:uuid:1c86b38c-bfd0-4f82-83a1-6fb4bfcffcb8>,
+        <urn:uuid:8262a767-77e1-406c-93c6-aefef8e0b03a>,
+        <urn:uuid:c46eaba3-c920-437f-8c6a-8364ed065c08>,
+        <urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590> .
+
+<urn:uuid:c46eaba3-c920-437f-8c6a-8364ed065c08> a sc:Canvas;
+    dc:title "BNF f. fr. 22545 fol. 98 v.";
+    exif:height 3883;
+    exif:width 3000 .
+
+<urn:uuid:e1019258-a763-4775-b53a-88f88b5b5590> a sc:Canvas;
+    dc:title "BNF f. fr. 9221 fol. 93 r.";
+    exif:height 3885;
+    exif:width 3000 .
+

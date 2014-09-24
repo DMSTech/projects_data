@@ -1,0 +1,536 @@
+@prefix cnt: <http://www.w3.org/2011/content#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix dctypes: <http://purl.org/dc/dcmitype/> .
+@prefix dm: <http://dm.drew.edu/ns/> .
+@prefix exif: <http://www.w3.org/2003/12/exif/ns#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix ore: <http://www.openarchives.org/ore/terms/> .
+@prefix perm: <http://vocab.ox.ac.uk/perm#> .
+@prefix sc: <http://www.shared-canvas.org/ns/> .
+
+<http://dm.drew.edu/store/users/uva-2@googlegroups.com> a foaf:Agent;
+    dm:lastOpenProject <urn:uuid:da22f632-802f-4e19-9484-838f5b825298>;
+    perm:hasPermissionOver <urn:uuid:da22f632-802f-4e19-9484-838f5b825298>;
+    perm:mayAdminister <urn:uuid:da22f632-802f-4e19-9484-838f5b825298>;
+    perm:mayAugment <urn:uuid:da22f632-802f-4e19-9484-838f5b825298>;
+    perm:mayCreateChildrenOf <urn:uuid:da22f632-802f-4e19-9484-838f5b825298>;
+    perm:mayDelete <urn:uuid:da22f632-802f-4e19-9484-838f5b825298>;
+    perm:mayRead <urn:uuid:da22f632-802f-4e19-9484-838f5b825298>;
+    perm:mayUpdate <urn:uuid:da22f632-802f-4e19-9484-838f5b825298>;
+    foaf:mbox <mailto:uva-2@googlegroups.com> .
+
+<urn:uuid:03beb394-f2cb-470d-9e70-b4815f9c3f35> a oa:Annotation;
+    oa:hasBody <urn:uuid:66f6a440-bbb2-4a99-a1b4-b29727c97e60>;
+    oa:hasTarget <urn:uuid:00f193e1-927f-4af2-a271-d36a688f94ef>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:0688ec79-550f-496c-9016-c5e2c78eaaaf> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:58bf3c85-0469-4c06-a5e4-443bb8c0aca5>;
+    oa:hasSource <urn:uuid:00f193e1-927f-4af2-a271-d36a688f94ef> .
+
+<urn:uuid:167fe34f-863f-43e5-ae5a-dc0af9e102b1> a oa:Annotation;
+    oa:hasBody <urn:uuid:d3e3dacc-9941-4df7-bedf-4c8269dc7581>;
+    oa:hasTarget <urn:uuid:4b6d36a4-7814-4aa5-a10b-81a4841136b8> .
+
+<urn:uuid:22d46ce6-6ba0-4741-a618-b2e82fc94ba7> a oa:Annotation;
+    oa:hasBody <urn:uuid:1f33cfd3-c010-49d6-b6f0-15fa56afc118>;
+    oa:hasTarget <urn:uuid:00f193e1-927f-4af2-a271-d36a688f94ef> .
+
+<urn:uuid:2347fc10-03d2-4d08-838c-02195c55507b> a oa:Annotation;
+    oa:hasBody <urn:uuid:e2a97928-032f-4a74-a356-ed92f5541c02>;
+    oa:hasTarget <urn:uuid:f347cb8d-80be-49a9-b917-40ba5e0b02df>;
+    oa:motivatedBy oa:commenting .
+
+<urn:uuid:3566799c-72c8-4aa5-8098-02b8238b1f7e> a oa:Annotation;
+    oa:hasBody <http://ada.drew.edu/annotation_store/media/user_images/112467.jpg>;
+    oa:hasTarget <urn:uuid:00f193e1-927f-4af2-a271-d36a688f94ef> .
+
+<urn:uuid:60ccfcc3-f594-430e-a5fe-b7cecc9de7f9> a oa:Annotation;
+    oa:hasBody <urn:uuid:d3e3dacc-9941-4df7-bedf-4c8269dc7581>;
+    oa:hasTarget <urn:uuid:4b6d36a4-7814-4aa5-a10b-81a4841136b8> .
+
+<urn:uuid:9bbda92f-09cd-478f-b5ff-dfbdecd48c53> a oa:Annotation;
+    oa:hasBody <urn:uuid:f347cb8d-80be-49a9-b917-40ba5e0b02df>;
+    oa:hasTarget <urn:uuid:f347cb8d-80be-49a9-b917-40ba5e0b02df> .
+
+<urn:uuid:a0a3d6b7-0a4a-42aa-b51e-eae73945f9f7> a oa:Annotation;
+    oa:hasBody <http://ada.drew.edu/annotation_store/media/user_images/112474.jpg>;
+    oa:hasTarget <urn:uuid:f3fc8640-14b6-4962-bc21-07a37b032d86> .
+
+<urn:uuid:cab3382e-24cb-46b6-87d5-c20d4e910e37> a oa:Annotation;
+    oa:hasBody <urn:uuid:d3e3dacc-9941-4df7-bedf-4c8269dc7581>;
+    oa:hasTarget <urn:uuid:00f193e1-927f-4af2-a271-d36a688f94ef> .
+
+<urn:uuid:f318bed1-16c2-4584-8850-8403c126c504> a oa:Annotation;
+    oa:hasBody <urn:uuid:4a7f60bb-a463-411e-9078-2844f0c88fc3>;
+    oa:hasTarget <urn:uuid:00f193e1-927f-4af2-a271-d36a688f94ef>,
+        <urn:uuid:4a7f60bb-a463-411e-9078-2844f0c88fc3>,
+        <urn:uuid:d3e3dacc-9941-4df7-bedf-4c8269dc7581> .
+
+<urn:uuid:f41c33ed-c2ca-4477-880c-d5be8ce2c971> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:b98720f1-3599-4677-bc28-9ba328623669>;
+    oa:hasSource <urn:uuid:f3fc8640-14b6-4962-bc21-07a37b032d86> .
+
+<urn:uuid:fc50a9c0-8d53-430b-8cac-67e3a9be1b5c> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:23f9274b-286d-44be-8bcb-37edf3847100>;
+    oa:hasSource <urn:uuid:00f193e1-927f-4af2-a271-d36a688f94ef> .
+
+<http://ada.drew.edu/annotation_store/media/user_images/112467.jpg> a dctypes:Image;
+    dc:title "BNF f. fr. 22545";
+    exif:height 3883;
+    exif:width 3000 .
+
+<http://ada.drew.edu/annotation_store/media/user_images/112474.jpg> a dctypes:Image;
+    dc:title "BNF f. fr. 9221";
+    exif:height 3885;
+    exif:width 3000 .
+
+<urn:uuid:23f9274b-286d-44be-8bcb-37edf3847100> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<circle fill='rgba(15, 108, 214, 0.6)'  stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' cx='652.845483092' cy='2357.73198808' r='7' />" .
+
+<urn:uuid:2ab8cde7-d590-4ff7-aed9-60c890461717> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<polyline fill='none' stroke='rgba(3, 75, 158, 0.7)' stroke-width='6' points='619,740 1395,740' />" .
+
+<urn:uuid:43fe8301-5bed-4441-8e12-ed7cdb5da28a> a dctypes:Text;
+    dc:title "Untitled text document";
+    cnt:chars "<br/>" .
+
+<urn:uuid:58bf3c85-0469-4c06-a5e4-443bb8c0aca5> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<polyline fill='none' stroke='rgba(3, 75, 158, 0.7)' stroke-width='6' points='1155,2815 997,2918 1000,2909' />" .
+
+<urn:uuid:5ac3707e-5288-4353-9c79-2c37f50404cb> a oa:TextQuoteSelector;
+    oa:exact "verse 8" .
+
+<urn:uuid:66f6a440-bbb2-4a99-a1b4-b29727c97e60> a dctypes:Text;
+    dc:title "New Annotation on BNF f. fr. 22545 fol. 131 v.";
+    cnt:chars "<br/>" .
+
+<urn:uuid:72c434c4-3fa4-4a54-af55-94d2ec307b16> a dctypes:Text;
+    dc:title "Untitled text document";
+    cnt:chars "<br/>" .
+
+<urn:uuid:86817c71-8a88-42a6-ae48-8768e437af5e> a dctypes:Text;
+    dc:title "BNF fr. 9221, folio 89r.";
+    cnt:chars """<p class=""><b style="font-weight: bold; ">Textual analysis</b></p>
+<p class="">The text of Manuscript E is
+written in fine, clear Gothic bookhand on 40x30 cm parchment; this particular
+page (f. 89, recto) represents the parchment’s finer, flesh side. Each folio is numbered in red ink on the top right corner, allowing for easier access to any one part of the book; this, along with the general way the work is broken up within the text, indicates a concern on the part of the publisher for the reader's ability not only to re-read the work, but to also readily access specific sections thereof. The text is
+clearly ruled out in three broad columns, with uniform spaces between them and
+smaller, dedicated columns for the initial letters of each line. Moreover, as
+the parchment is thin enough to be partially transparent, one can perceive that
+the ruling of each folio matches the columns of both the recto and verso sides
+precisely. The immediate impression is thus one of order and neatness, broken
+only by large, decorated initial letters of each stanza. Each verse occupies
+one line of text, organizing the text by rhyme and further strengthening its
+orderly impression, which is then reinforced by the placement of an image illustrating
+the fountainside dream sequence very nearly in the center of the page. To
+reduce ambiguity, each line of poetry is punctuated with a punctus indicating
+the need for a pause at that point. The desire for symmetry is evidenced by the
+miniature’s caption; while maintaining as much as possible the size of the
+letters, the scribe heavily abbreviated it (“cõmêt uen’ et la dame recõfortêt
+lamãt”) so that its proportions would match that of the image. Elsewhere, the
+use of abbreviation is irregular; “et” and “&amp;” appear to be used
+interchangeably in this text, for example. Various elements of the text are distinguished in order to order and focus the reader's attention. The large, colorful initial letters of the stanzas break up the text into manageable parts, visually and cognitively denoting the distinction between stanzas.</p>
+<p class="">            It may be safe to conjecture that
+Manuscript E represents a particularly expensive, high-quality edition of
+Machaut’s work. The organization and symmetry of the textual layout, with the
+steady precision and clarity of the Gothic hand, seem to indicate an effort
+toward maximizing the book’s aesthetic appeal, while the parchment has retained
+its high quality over the centuries since its production. The ample use of gold
+in the miniature also points to the quality of the book.</p>
+<p class=""><br/></p><p class=""><b style="font-weight: bold; ">Image analysis</b></p>
+<p class="">            The image in the center of the page
+seems to be its focal point. It is placed between a narrative segment, in which
+Machaut describes the events leading up to the ‘confort’ offered by Venus, and
+the text ‘confort’ itself. The image therefore acts as the agent of transition
+between the two narrators, the poet and Venus, implicitly drawing attention to
+their respective roles in the work. The caption, on the other hand, focuses on the interaction between the two women and the sleeping prince, thus focusing
+the reader on the events of the story at the same time. The colors used within
+the miniature may also serve to highlight this dual relationship; while Venus
+(standing on the left) and the poet (seated) are both wearing blue, Venus, the
+lady, and the prince all wear red garments. It should be noted that in this
+illustration, the identity of each figure is readily apparent; the poet and the
+prince are revealed by their poses, with the latter sleeping in the former’s
+lap as previously described the poem, while Venus wears a crown to indicate her
+superior status.. The sky in the background is abstractly decorated with
+vine-like patterns of gold leaf, which is also the material used to render the fountain.
+Interestingly, no water is to be seen in the fountain, and the fact that the
+fountain’s color matches the background’s abstract design (and Venus’ crown)
+reinforces its rather mystical role in the fashioning of this dreamscape.</p>
+<p class="">            It must be remembered at this point
+that the illustration is that of a dream sequence, albeit one that blurs
+strongly with reality. According to Machaut’s overarching narration, he poet
+and the prince share the same dream, in which the former stays awake while the
+other sleeps – Venus and the lady are their visitors in this dream. While
+medieval art often demonstrates a lack of concern for the realistic rendering
+of physical proportions, in the context of the Fonteinne’s plot, the tree in
+the bottom left-hand corner serves to reinforce the dream-like impression
+conveyed by the miniature. With the caveat that this may simply be a representation of a
+sapling, or reflective of the absence of later standards of artistic realism, one might compare and contrast it with the taller trees in the
+background and conclude that the people in the image are disproportionately
+tall. While such dimensions are (to reitirate) common in medieval art, in this case they may also serve as a subtle narrative tool: dreams are often distinguished from waking life by their perceptual emphasis on key elements; thus, as this poem is quite character-centric, the characters appear appropriately larger than the details of the setting.</p><p class=""><span>    <span>    <span>    The image's role is thus multifaceted. It serves to illustrate the plot's events for the reader; its abstract, dream-like elements provide a visual stimulus that grounds and reinforces the reader's perception of the dream sequence related by the narrator; the interplay between the characters' colors in the image corresponds largely to their relationships in the text, providing a visual link to the subtler aspects of the plot; as part of the text, it provides a break and a transition between two narrations, allowing the reader to meditate briefly on the ideas conveyed by the miniature while refocusing his attention on a new 'chapter' of the text.</span></span></span><br/></p><p class=""><span><span><span><br/></span></span></span></p><p class=""><span><span><span><b>Note on the miniature on folio 131v., BNF fr. 22545</b></span></span></span></p><p class="">            The miniature in the corresponding section of Manuscript F is markedly different from the one in MS E, most notably in the absence of one of the male characters. The caption ("Le confort de venus Et de la dame") seems to indicate that the seated man in the image is the prince, as in MS E this sequence is referred to as "le confort de l'amant", as does the gold band on his head. The man depicted is awake, however, as the poet is according to the plot of the <i>Fonteinne</i>; the image thus likely represents a liberal take on the prince's dream (within which he remains alseep). If the man shown is indeed the poet, however, the image may serve to highlight the importance of the theme of patronage in the work: in the prince's complete absence from the scene, the poet becomes the sole intermediary between his patron and the woman he loves. His role would thus be greatly emphasized here in a way that it is not in MS E, where the image conveys an impression of the poet as friend and aide to the prince in a manner more in line with the way the poem itself portrays their relationship.</p>
+<p class=""> </p>
+<p class=""><b style="font-weight: bold; ">Text transcription</b></p>
+<p class="">Car l'estat de chevalerie</p>
+<p class="">Vueil et me tien a la promesse</p>
+<p class="">De venus qui est ma deesse</p>
+<p class="">A qui du tout me reco[m]mant</p>
+<p class="">Come fin et loyal amant</p>
+<p class="">Car tous mes jours la serviray</p>
+<p class="">Ne jamais pastour ne seray</p>
+<p class="">Lors doulcement m'arraisonna</p>
+<p class="">Et la po(m)me d'or me donna</p>
+<p class="">Et je li mis en son demaine</p>
+<p class="">Le cuer le corp lamour d'elayne</p>
+<p class="">Ainsi eus la po(m)me doree</p>
+<p class="">Or as response a ta pensee</p>
+<p class="">[M]ais alz amans qui se dort la</p>
+<p class="">Qui dit que sa dame mort la</p>
+<p class="">Et qui a perdu son espoir</p>
+<p class="">Cil qui est pres de desespoir</p>
+<p class="">Il ne scet riens de ma puissance</p>
+<p class="">N'il na en moy nulle fiance</p>
+<p class="">N'onques ne me voult reclamer</p>
+<p class="">Quant il sentoit les maulz d'amer</p>
+<p class="">Et certes cil* m'eust requis</p>
+<p class="">Je li uesse sente quis</p>
+<p class="">N'onques ne me fist sacrifice</p>
+<p class="">De tor de buef ne de ...</p>
+<p class="">Ne d'une chandelle de cire</p>
+<p class="">Ne un salue ne me daigna dire</p>
+<p class="">Mais je croy que c'est par enfance</p>
+<p class="">Par folie our par ignorance</p>
+<p class="">Toutevoies j'en ay pitie</p>
+<p class="">Pour ce l'ay de mort respitie</p>
+<p class="">Car veci sa dame et sa drue</p>
+<p class="">Qui est avecques moy venue</p>
+<p class="">Pour lui solacier et deduire</p>
+<p class="">N'elle ne veult mie qu'il muire</p>
+<p class="">Ne moy aussi certainement</p>
+<p class="">Ains desir son alaigement</p>
+<p class="">Ves la cy devant lui presente</p>
+<p class="">Est elle belle et doulce et gente</p>
+<p class="">Est il chose qui en lui faille</p>
+<p class="">Sanz retolir li donn &amp; baille</p>
+<p class="">Et avecq(ue)s ce je li co(m)mande</p>
+<p class="">Qu'a li reconforter entende</p>
+<p class="">Que le plus tost qu'elle porra</p>
+<p class="">Qu'autrement il se morra</p>
+<p class="">Ne vueil pas qu'elle soit couarde</p>
+<p class="">Car touz .ii. les pren en ma garde</p>
+<p class="">Ne qu'elle soit de riens honteuse</p>
+<p class="">Ainçois doit estre hu(m)ble et piteuse</p>
+<p class="">Pour son son bon &amp; son vouloir faire</p>
+<p class="">Co(m)me courtoise et debonnaire</p>
+<p class="">Car je l'ay tant mis a l'essay</p>
+<p class="">Car fin et vray amant le say</p>
+<p class="">Or parles a lui belle fille</p>
+<p class="">Car vous estes assez soubtille</p>
+<p class="">Et si estes sage et discrete</p>
+<p class="">Bello boulce simple et secrete</p>
+<p class="">Et s'a vous assez confort</p>
+<p class=""> </p>
+<p class="">Pour lui getter de desconfort</p>
+<p class="">Que o le sens avec le povoir</p>
+<p class="">Lors se vint la dame seoir</p>
+<p class="">Deles l'amant qui se dormoit</p>
+<p class="">Et son douls amy le clamoit</p>
+<p class="">Elle le prist par la main nue</p>
+<p class="">Aussi venus y est venue</p>
+<p class="">Qui a parler li aprenoit</p>
+<p class="">Et bellement la reprenoit</p>
+<p class="">Quant elle ne disoit apoint</p>
+<p class="">Si que dessa deffault n'y eust point</p>
+<p class="">La dame l'amant appella</p>
+<p class="">Et douclement a lui parla</p>
+<p class="">Par la guise et par la maniere</p>
+<p class="">Qui est escript cy derriere</p>
+<p class=""> </p>
+<p class="">[Image; dessous, en rouge:</p>
+<p class="">Co(m)me(nt) ven(us) et la dame reco(n)forte(nt) l'ama(n)t]</p>
+<p class=""> </p>
+<p class="">[A]mis je te vieng conforter</p>
+<p class="">Et joie et solas aporter</p>
+<p class="">Et de ces tenebres oster</p>
+<p class="">Ou je te voy</p>
+<p class="">Et aussi te vieng enorter</p>
+<p class="">Que tu te veuilles deporter</p>
+<p class="">De faux dueil et toy geter</p>
+<p class="">De cest anoy</p>
+<p class="">Et je te promes par ma foy</p>
+<p class="">Que m'amour et le cuer de moy</p>
+<p class="">Aras tous dis avecques toy</p>
+<p class="">Et sans faulser</p>
+<p class="">Seray tienne faire le doy</p>
+<p class="">Et se tu ne prens cest octroy</p>
+<p class="">Jusque a mort me verras secroy</p>
+<p class="">Desconforter</p>
+<p class="">[A]mis je te conforteroie</p>
+<p class="">Moult volontiers se je pooie</p>
+<p class="">Car tu es miens et je sui toye</p>
+<p class="">Sans retollir</p>
+<p class="">Venus le veult et je l'ottroye</p>
+<p class="">Or te conforte et te resjoie</p>
+<p class="">Car loing et pres ou que je soie</p>
+<p class="">T'aim &amp; desir</p>
+<p class="">Et aimeray sanz repentir</p>
+<p class="">Qu'en toy sont mis tuit plaisir</p>
+<p class="">Tuit my penser tuit  mi desir</p>
+<p class="">Que te diroie</p>
+<p class="">Sans toy bien ne me puet venir</p>
+<p class="">Sans toy ne me puis resjoir</p>
+<p class="">E aire me pues vivre ou morir</p>
+<p class="">Et avoir joie</p>
+<p class="">[A]mis m[ou]lt de meschiefs aray</p>
+<p class="">Quant si loing de moy te saray</p>
+<p class="">Mais ton ymage porteray</p>
+<p class="">Et ta figure</p>
+<p class="">En ton aier que je garderay</p>
+<p class="">Pour le mien que je te l'airay</p>
+<p class="">Et par ce garnie seray</p>
+<p class="">D'envoiseure</p>
+<p class="">Ne la douleur ne la morsure</p>
+<p class="">D'amours ne chose q[ue] j'endure</p>
+<p class="">Pour toy ars doulce creature</p>
+<p class="">Ne doubteray</p>
+<p class="">Car d'esperance la seure</p>
+<p class="">Par ton ymage nette et pure</p>
+<p class="">Contre desir &amp; sa pointure</p>
+<p class="">Ne garniray</p>
+<p class="">[A]mis sces tu q[ue] nous ferons</p>
+<p class="">Je te pri trop q[ue] nous changons</p>
+<p class="">Et que se soient nos changons</p>
+<p class="">Car vraiement</p>
+<p class="">Loing et pres plus aise en serons</p>
+<p class="">Et mains assez en doubterons</p>
+<p class="">des mesdisans faulz et felons</p>
+<p class="">Le parlement</p>
+<p class="">Et par ce l'amoureux torment</p>
+<p class="">Et les pensees qui forment</p>
+<p class="">Puent grever legierement</p>
+<p class="">Oublierons</p>
+<p class="">Et s'en vivrons plus liement</p>
+<p class="">Et assez plus joliement</p>
+<p class="">Et trop plus amoureusement</p>
+<p class="">En amerons</p>
+<p class="">[A]mis se je te sui lointaigne</p>
+<p class="">Par pensee te sui prochainne</p>
+<p class="">Et tu moy car je sui certaine</p>
+<p class="">Que ta pensee</p>
+<p class="">Et tous les jours de la sepmainne</p>
+<p class="">En moy de forz une centainne</p>
+<p class="">Ainsi com souvenirs l'amainne</p>
+<p class="">Mise &amp; fermee</p>
+<p class="">Et quand je sui bien avisee</p>
+<p class="">Et je pense a ta reno[m]mee</p>
+<p class="">A droit de tous trop plus loee</p>""" .
+
+<urn:uuid:b98720f1-3599-4677-bc28-9ba328623669> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<polygon fill='rgba(15, 108, 214, 0.6)' stroke='rgba(3, 75, 158, 0.7)' stroke-width='2' points='1157,2020 1157,2020' />" .
+
+<urn:uuid:e2a97928-032f-4a74-a356-ed92f5541c02> a dctypes:Text;
+    dc:title "New Annotation on BNF f. fr. 9221 fol. 89 r.";
+    cnt:chars "<br/>" .
+
+<urn:uuid:ee74582d-e88a-405d-94e9-3015f3f688fd> a cnt:ContentAsText,
+        oa:SvgSelector;
+    cnt:chars "<polyline fill='none' stroke='rgba(3, 75, 158, 0.7)' stroke-width='6' points='622,753 1394,747 1397,747' />" .
+
+<urn:uuid:4a7f60bb-a463-411e-9078-2844f0c88fc3> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:2ab8cde7-d590-4ff7-aed9-60c890461717>;
+    oa:hasSource <urn:uuid:00f193e1-927f-4af2-a271-d36a688f94ef> .
+
+<urn:uuid:4b6d36a4-7814-4aa5-a10b-81a4841136b8> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:ee74582d-e88a-405d-94e9-3015f3f688fd>;
+    oa:hasSource <urn:uuid:00f193e1-927f-4af2-a271-d36a688f94ef> .
+
+<urn:uuid:1f33cfd3-c010-49d6-b6f0-15fa56afc118> a dctypes:Text;
+    dc:title "Folio Page Analysis";
+    cnt:chars """<p class=""><b style="font-weight: bold; ">[Shannon Connolly -- FREN 8510]</b></p><p class=""><b style="font-weight: bold; "><br style="font-weight: bold; "/></b></p><p class=""><b><font size="4" style="font-weight: bold; "><a href="http://www.stanford.edu/group/dmstech/cgi-bin/drupal/node/73" style="font-weight: bold; text-decoration: underline; ">Link to Standford Site</a></font></b></p><p class=""><b><font size="4"><br/></font></b></p><p class=""><b><font size="4"><u>BNF f. fr. 22545 fol. 131 v. :</u></font></b></p><p class=""><b><font size="4">General
+Analysis of Folio Page--</font></b></p>
+<p class=""><span>    </span>This folio page exemplifies a
+version of gothic quadrata bookhand that tends towards the rotunda, as the
+letters (the minims) of this text appear to “begin with a simple approach
+stroke and are rounded off at the bottom” (Clemens 154).  The bookhand appears, in general, more rounded
+and expanded, and thus much less formal.  The text has been ruled to receive two
+columns.  Even though this text is in
+French, it still illustrates certain conventions, specifically the following:</p>
+<p class=""> </p>
+<p class=""><font size="2">It was already standard practice
+in antiquity when copying Latin verse to give each poetic line its own line on
+the page.  This practice continued
+throughout the Middle Ages.  From the
+ninth century, it became common to begin each line of poetry with a capital
+letter.  Often these capitals were placed
+within the pair of bounding lines marking the left edge of the column of text;
+as a result, there was usually a small gap between the initial and the other
+letters of the first word of each line (Clemens 87).</font></p>
+<p class=""> </p>
+<p class=""><span>    </span>The text of this folio page
+appears to be divided into stanzas: the three 3 complete stanzas are broken
+into 16 lines each.  Even though the
+“scribe [would] sometimes [leave] a line blank between stanzas” (Clemens 88),
+this does not appear to be the case here. 
+Rather the scribe followed other verse text conventions: “… it was
+normal to begin the new stanza with a larger initial, or else place a paraph
+mark to the left of its first line” (Clemens 88) – both of these conventions are demonstrated on this folio page.  Each
+paraph design figured here is unique.</p>
+<p class="">The decorated letters alternate
+between blue and red lettering, and red and black decoration: a blue letter on
+red decoration, alternating with a red letter on black decoration.  Given that these colors were among the more
+common colors to be used, and relatively few other colors are used for the decoration of
+this folio page, I would initially believe that this text was not commissioned
+by or intended to be presented to an exceptionally rich patron.  Other than, of course, the image figured on
+this folio page has gold leafing included in the color scheme; this aspect would perhaps indicate that this manuscript was indeed commissioned by or intended to be presented
+to an exceptionally rich patron.</p><p class=""><br/></p>
+<p class=""><span>    </span>Not much punctuation figures on
+this folio page – a <i style="font-style: italic; ">punctus</i> exists
+here and there, occupying the end of certain verse half-lines, but even the
+occasions of <i style="font-style: italic; ">punctus</i> are rather
+scant.  Instead, we can note the rhyme
+that determines the flow of the text. 
+These structural components indicate that this text is an example of
+later vernacular verse, as “[early] vernacular poetry was structured by meter
+and alliteration rather than by rhyme, and by the early eleventh century, the
+scribes who copied Old English poems were using punctuation as a way of marking
+the meter” until rhyme emerged as the more overarching determinant of verse structure.  That being said, there is a rhythm to this
+verse – every 4th line of the 16 comprising all 3 full stanzas is
+half the value of each of the 3 lines preceding it.  This would lend the text to oral performance,
+as this rhythm grants a (musical) quality to the lyric poetry that could not be appreciated if the text were read silently.  This folio page comes from a collected
+musical work of Machaut, and so this musical / oral quality should perhaps be
+expected in the text.</p><p class=""><br/></p>
+<p class=""><span>    </span>What punctuation does exist
+seems to function in an oral sense (i.e. reinforcing that the text was intended
+to be performed orally, rather than strictly silently read), straddling the <i style="font-style: italic; ">distinctiones</i> and <i style="font-style: italic; ">positurae</i> systems:</p>
+<p class=""> </p>
+<p class=""><font size="2">[For the
+earlier <i>distinctiones </i>system, a] notable (and quite late) use of the system in
+its basic form, with a single <i style="font-style: italic; ">punctus</i>
+placed at differing heights, occurs in the well-known Bury Psalter […], written
+in the early eleventh century, probably at Canterbury.  There the high point is used at the end of
+each verse of the Psalms, the midpoint is used to mark the break at the middle
+of each verse, and the low point is used to mark off minor sense-units within
+each half of the verse. […] The system in its basic form was better suited to a
+majuscule script […] in which all or nearly all the letters were of the same
+height; it was not so suitable for a minuscule script in which several letters
+had ascenders or descenders, for then the height of the midpoint or top of the
+letter would vary from one letter to another. […]Punctuation by <i style="font-style: italic; ">positurae</i> [of which the <i style="font-style: italic; ">punctus</i> is one] continued in use,
+especially in liturgical manuscripts, until the end of the Middle Ages,
+although the shapes of the marks underwent some changes.  Nonliturgical manuscripts, including
+vernacular manuscripts, tended to be punctuated less sedulously; indeed, some
+manuscripts were punctuated by the <i style="font-style: italic; ">punctus</i>
+alone, which represented pauses of all values (Clemens 84, 86).</font></p>
+<p class=""> </p>
+<p class="">As concerns this manuscript folio page,
+only the <i style="font-style: italic; ">punctus</i> figures and it occupies
+various points within the structures of verses:</p><p class="">on the level of the
+rubricated line -or- raised to the mid-level of the text;</p><p class="">it falls toward the beginning of the line -or- mid-way through the line
+of verse.</p><p class="">The differing heights of the
+<i>punctus </i>indicate that it does serve to some extent as punctuation, but still as
+an oral punctuation.  A particular
+problematic line, as it might correlate to the equally problematic image to be
+analyzed shortly: <span about="urn:uuid:5ac3707e-5288-4353-9c79-2c37f50404cb" class="atb-editor-textannotation" property="http://www.w3.org/ns/oa#exact">verse 8</span>.  There is a <i style="font-style: italic; ">punctus</i> line-level high after “tous”
+(indicating a lesser pause, the parameter of a minor sense-unit) and a
+mid-level punctus one word later after “ii” (indicating a greater pause, the
+parament of a greater sense-unit).  Roman numerals seem to be offset by <i>puncti </i>as a general rule, but there does appear to be greater pause accorded this verse construction, on account of the different heights of the <i>puncti</i>.  Verse 14 also presents a potential problematical spot: there is a line-level <i>punctus</i>, although it is more horizontal and hatch-like in appearance; regardless, this symbol would indicate the typical mid-verse pause normally indicated by a line-level <i>punctus</i>, although in this case it also places emphasis on the object of the "garde" of our poet -- the "amant," underscored here as it is the first word after the pause.</p><p class=""><br/></p><p class=""><span>    </span>Stains, smudges, or any other
+wear to the text appears minimal, and, equally, is hard to discern from even the
+best of digital images, as one never knows whether imperfections might be part
+of the parchment or history of the wear of the folio page, or the result of the
+digitization process.</p>
+<p class=""> </p>
+<p class=""> </p><p class=""><br/></p>
+<p class=""><b><font size="4">Analysis of
+Image--</font></b></p>
+<p class="">This image
+can be interpreted variously:</p><p class=""><br/></p><p class=""><b><u>VENUS</u></b></p><p class=""><span>    </span>Firstly, the
+composition of the image emphasizes what one would presume as Venus: she is
+standing and is the tallest figure in the composition of the image, taller even
+than the tree; her height spans almost the entire frame of the image.  She is wearing an ostentatious crown.  Her clothing is the most vibrantly colored –
+for the most part red, with some of her under-robes being colored blue.  Her body language communicates power, as it
+conveys the capacity to give – in this case, her capacity to give wisdom.  Her right hip is thrust forward, and her left
+hand holding her dress, all indicate her spatial pathway: body motion forward – she
+has calmly walked and arrived on scene, in front of the male-seated
+figure.  Her right hand is extended
+toward the male-seated figure, palm up – seeming to indicate the gesture of
+giving.  Her body language is in juxtaposition to that of the male-seated figure, the latter of which conveys reception.  Interestingly, a white-dotted
+line, cutting diagonally across the grassy foreground of the image, seems to
+indicate a line that Venus is either unable to or unwilling to cross.  This line seems to have been added to the
+composition after the grassy foreground, thereby suggesting that it was
+intentionally included for the reception and comprehension of the image, rather
+than as an aid for the illuminator.</p>
+<p class=""><br/></p><p class=""><b><u>LA DAME</u></b> </p>
+<p class=""><span>    </span>The second
+female figure has traversed the white-dotted diagonal line, and, in fact, her
+dress constructs part of the diagonal line; this seems to reinforce the divide
+between she (along with the male-seated figure) and Venus, as the dress of the “dame” does
+not even flow over the line.  She is on
+the same plane as the male-seated figure in every way – crown level, eye level,
+shoulder level, torso level and hip level. 
+The two are holding hands.  The
+two even share a similarity of expression, and equal-sized crowns.  This composition structure would seem to indicate their equality.  The coloring of her dress is quite pale.</p>
+<p class=""><br/></p><p class=""><b><u>MALE-SEATED FIGURE -- "L'AMANT"?</u></b></p>
+<p class=""><span>    </span>The male
+seated figure – presumably the “amant” – has colored garments that straddle the color
+spectrum of the two ladies: his robes are a more pale hue of red (compared to that of
+Venus – similar to how the dress of the “dame” is a more pale hue of blue than
+that of Venus), while his under-robes are a more vibrant red hue (akin to that of Venus).  From the color spectrum: if
+Venus is the utmost possible saturation of wisdom (red) and femaleness (blue, as this color
+is that of her undergarment and thus hugs her female body) then the two other
+figures would be reduced saturation of these qualities: the wisdom (red) she
+grants to the “amant” will be more pale in comparison to the wisdom of Venus herself (hence the garments of the "amant" are a lighter saturation
+of red), and the “dame” that appears in the dreamscape cannot be a
+full-saturation of femaleness, given that she is a production of the dream (hence the lighter saturation of blue of her garments).  The backdrop of the image appears to
+reinforce this dreamscape, as there are not any components of a “real”
+environment, save for the tree against which the "amant" leans.</p>
+<p class=""> </p>
+<p class=""><span>    </span>The seated-male figure does seem problematic, however. 
+Again, this image is included in a collected musical work of Machaut, so
+perhaps this version of the <i>Fonteinne amoureuse</i> is different than other
+versions.  However, given the version we
+read for our course, one would expect to find two male figures in this image – the poet and the prince.  In this image, either the
+poet and the prince have fused together into one visual persona, or one of them
+has been removed from the image altogether.  My initial reaction is that the poet has been removed from the
+image (is this perhaps reinforced by the end of line 8 "en ma garde" -- as though the poet is observer and thus should not be represented in the image frame, and therefore is only "present" via the text itself?), as the male-seated figure is wearing a crown.  However, this assertion is problematic, as it was the poet who was awake for the entirety of the dream experience,
+including during the presence and wisdom-giving of Venus.  In addition, while I am not an expert on
+medieval clothing, the garments of the male figure appear to be more clerkly
+than princely, as essentially they are robes grouped in at the waist by a
+simple belt – though the belt does appear to be gold, it still resembles
+suspiciously a cord belt one would expect a religious figure to wear.  The rubricated title of the image is rather
+vague: “Le confort de Venus Et de la dame” – so it is not specified <i>who </i>is
+receiving the comfort.  The text seems to indicate the comfort of “l’amant,” but is this really a specification, for either text or image, when there seems
+to be such conflation between the male personas in this text, and apparently, in this image as well?</p><p class=""><br/></p><p class=""><b><u><font size="4">Transition... Brief Analytical Remarks on BNF f. fr. 9221 fol. 89 r. :</font></u></b></p><p class="">Following the reasoning and resources outlined above, I note the following aspects about the miniature on this folio page, as it is different from that of my folio page:</p><p class=""><br/></p><p class="">*The poet IS figured in this image, and he is wearing the same colors as Venus, thereby linking the two in consciousness and wisdom (the lover is asleep in the arms of the poet, as we would expect).
+</p><p class="">*We see the same color scheme, and it appears to be heightened and more intensely correlated: the presumed lover and his lady are donning the same colors, and the fountain painted with the same hue, thereby linking the lover, his lady, and the fountain that enables this dreamscape.  There does seem to be a different meaning to the color palette here; in this image blue would seem to better represent wisdom than femaleness, as the poet is also wearing different hues of blue, perhaps indicating his wisdom, though in less saturation of course than that of Venus.</p><p class="">*Interestingly, the garments of the presumed lover are highly clerkly -- even more simple and clerkly than the poet (the clothing of the poet is three tone -- saturated blue, pale blue, and saturated red, with an ornamental clasp holding his robes above his right shoulder).  The lover is not even wearing a crown, which juxtaposes sharply with not only the crowns of Venus and his lady, but also the hat of the poet -- the prince is the only figure without something atop his head.</p><p class="">*There appears greater hierarchy in this image -- composition wise and representation wise: the fountain is the tallest element in the composition, then Venus, then the lady that Venus brings to the lover, then the poet, then, finally, the lover.  The image thus seems to privilege the fountain and Venus (and, by extension, what Venus enables -- such as the lady Venus brings with her), but also the poet, despite his relative lack of height (due to his being right next to the fountain, and in the central locus of the image frame).  Essentially, all composition elements seem privileged but the prince-lover!</p><p class="">*The background of this image (while still conveying its quality as a dreamscape by the gold leafing design) also conveys more of the "natural" landscape that contextualizes the image -- the presence of the fountain that enables the dreamscape to begin with, and more trees and greenery  of the garden.  This pits the contextual garden reality -- the consciousness of the event -- shared by the poet, Venus, and the lady that she brings against the unconsciousness of the event -- the dream-state of the prince, supported by the present, but relatively de-emphasized gold leafing in the absolute background of the image.</p><p class=""><br/></p><p class=""><br/></p>""" .
+
+<urn:uuid:f3fc8640-14b6-4962-bc21-07a37b032d86> a sc:Canvas;
+    dc:title "BNF f. fr. 9221 fol. 89 r.";
+    exif:height 3885;
+    exif:width 3000 .
+
+<urn:uuid:d3e3dacc-9941-4df7-bedf-4c8269dc7581> a oa:SpecificResource;
+    oa:hasSelector <urn:uuid:5ac3707e-5288-4353-9c79-2c37f50404cb>;
+    oa:hasSource <urn:uuid:1f33cfd3-c010-49d6-b6f0-15fa56afc118> .
+
+<urn:uuid:da22f632-802f-4e19-9484-838f5b825298> a dm:Project,
+        dctypes:Collection,
+        ore:Aggregation,
+        foaf:Project;
+    dc:title "Imported Project";
+    dcterms:description "Created from the contents of your old DM workspace";
+    ore:aggregates <urn:uuid:00f193e1-927f-4af2-a271-d36a688f94ef>,
+        <urn:uuid:1f33cfd3-c010-49d6-b6f0-15fa56afc118>,
+        <urn:uuid:43fe8301-5bed-4441-8e12-ed7cdb5da28a>,
+        <urn:uuid:72c434c4-3fa4-4a54-af55-94d2ec307b16>,
+        <urn:uuid:86817c71-8a88-42a6-ae48-8768e437af5e>,
+        <urn:uuid:f3fc8640-14b6-4962-bc21-07a37b032d86> .
+
+<urn:uuid:00f193e1-927f-4af2-a271-d36a688f94ef> a sc:Canvas;
+    dc:title "BNF f. fr. 22545 fol. 131 v.";
+    exif:height 3883;
+    exif:width 3000 .
+
